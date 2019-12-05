@@ -1,0 +1,40 @@
+{
+  "name": "@boldreports/javascript-reporting-controls",
+  "version": "2.1.14",
+  "description": "The Bold Reports by Syncfusion controls for JavaScript contains ReportViewer and ReportDesigner HTML5 and JavaScript reporting controls for enterprise web development",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boldreports/javascript-reporting-controls.git"
+  },
+  "keywords": [
+    "Bold Reports",
+    "Bold Report Viewer",
+    "Bold Report Designer",
+    "Report Viewer",
+    "Report Designer",
+    "Report Editor",
+    "Report Builder",
+    "SSRS",
+    "HTML5 JavaScript Report Viewer",
+    "JavaScript reporting controls",
+    "Reporting Tools",
+    "Syncfusion",
+    "Export Reports",
+    "RDL",
+    "RDLC",
+    "SSRS Report Viewer",
+    "SSRS Report Designer"
+  ],
+  "author": "Syncfusion Inc",
+  "license": "SEE LICENSE IN README.md",
+  "dependencies": {
+    "jquery": "*",
+    "jquery-validation": "*",
+    "jsrender": "*",
+    "@boldreports/global": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/boldreports/javascript-reporting-controls/issues"
+  },
+  "homepage": "https://boldreports.com"
+}
