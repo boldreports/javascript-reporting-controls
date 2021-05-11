@@ -12,7 +12,7 @@ Take a look at the `Bold Reports JavaScript` live demo [here](https://demos.bold
 
 ## Documentation
 
-For complete `Bold Reports JavaScript` documentation, please visit [https://documentation.boldreports.com/javascript/](https://documentation.boldreports.com/javascript/)
+For complete `Bold Reports JavaScript` documentation, please visit [https://help.boldreports.com/embedded-reporting/javascript-reporting/](https://help.boldreports.com/embedded-reporting/javascript-reporting/)
 
 ### Offline Demos
 
