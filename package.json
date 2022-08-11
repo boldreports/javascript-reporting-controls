@@ -31,7 +31,7 @@
     "jquery": "*",
     "jquery-validation": "*",
     "jsrender": "*",
-    "@boldreports/global": "4.2.62"
+    "@boldreports/global": "4.2.52"
   },
   "bugs": {
     "url": "https://github.com/boldreports/javascript-reporting-controls/issues"
