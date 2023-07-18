@@ -1,0 +1,406 @@
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #cecece;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- dropdownlist -------------------------------------------*/
+
+.e-ddl .e-options {
+  
+}
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  background-color: white;
+  border-color: #cecece;
+  
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  color: #333333;
+  font-size: 14px;
+  font-weight: normal;
+}
+.e-ddl .e-input,
+.e-ddl .e-input[readonly],
+.e-ddl-popup,
+.e-ddl .e-options {
+  
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-size: 14px;
+  font-weight: normal;
+  cursor: default;
+}
+.e-ddl .e-input,
+.e-ddl .e-input[readonly],
+.e-ddl-popup,
+.e-ddl .e-options {
+  /*other*/
+
+  
+}
+.e-ddl .e-input,
+.e-ddl .e-input[readonly],
+.e-ddl-popup,
+.e-ddl .e-options {
+  color: #333333;
+  background-color: white;
+}
+.e-atc-popup ul li.e-category {
+  
+}
+.e-ddl .e-in-wrap,
+.e-ddl-popup,
+.e-ddl .e-options,
+.e-ddl-popup .e-atc.e-search {
+  
+}
+.e-ddl .e-in-wrap,
+.e-ddl-popup,
+.e-ddl .e-options,
+.e-ddl-popup .e-atc.e-search {
+  /*other*/
+
+  
+}
+.e-ddl .e-in-wrap,
+.e-ddl-popup,
+.e-ddl .e-options,
+.e-ddl-popup .e-atc.e-search {
+  border-color: #cecece;
+}
+.e-ddl .e-options.e-active {
+  
+}
+.e-ddl .e-options.e-active {
+  /*other*/
+  background-color: #3277b2;
+  color: white;
+  border-color: #3277b2;
+}
+.e-ddl .e-options:hover {
+  
+}
+.e-ddl .e-options .e-icon.e-close {
+  
+}
+.e-ddl-popup div > ul li {
+  
+}
+.e-ddl-popup .e-active.e-hover {
+  
+}
+.e-ddl .e-boxes {
+  background-color: white;
+}
+.e-ddl.e-popactive .e-in-wrap:before,
+.e-ddl.e-popactive .e-in-wrap:after {
+  
+}
+.e-ddl.e-focus .e-in-wrap {
+  
+}
+.e-ddl.e-focus .e-in-wrap {
+  /*other*/
+  box-shadow: 0 0 7px rgba(154, 146, 203, 0.87);
+  
+  border-color: #cecece;
+}
+.e-ddl.e-focus .e-in-wrap {
+  box-shadow: 0 0 7px rgba(154, 146, 203, 0.87);
+}
+.e-ddl:hover .e-in-wrap {
+  
+}
+.e-ddl:hover .e-in-wrap {
+  /*office-365*/
+
+  border-color: #cecece;
+  
+}
+.e-ddl .e-input.e-watermark {
+  color: #d2d1d1 !important;
+  font-style: italic;
+}
+.e-ddl-popup .e-hover {
+  
+}
+.e-ddl-popup .e-hover {
+  /*other*/
+
+  
+}
+.e-ddl-popup .e-hover {
+  color: #333333;
+  
+}
+.e-ddl-popup .e-hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  /*other*/
+
+  
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  border-color: #cecece;
+  
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  color: #333333;
+}
+.e-ddl .e-select:active,
+.e-ddl.e-rtl .e-select:active {
+  
+}
+.e-ddl .e-select.e-disable {
+  
+}
+.e-ddl .e-input.e-disable {
+  
+}
+.e-ddl-popup .e-active {
+  
+  border-bottom: 1px solid white;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.e-ddl-popup .e-active {
+  /*other*/
+
+  
+}
+.e-ddl-popup .e-active {
+  color: white;
+}
+.e-ddl-popup .e-active {
+  background: #3277b2;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3277b2, #296293);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3277b2), color-stop(100%, #296293));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3277b2, #296293);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3277b2, #296293);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3277b2, #296293);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #3277b2, #296293);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3277b2', endColorstr='#296293', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-ddl-popup .e-active.e-hover {
+  
+}
+.e-ddl .e-select,
+.e-ddl.e-rtl .e-select,
+.e-ddl .e-disable.e-select:hover {
+  
+}
+.e-ddl .e-select,
+.e-ddl.e-rtl .e-select,
+.e-ddl .e-disable.e-select:hover {
+  
+  /*other*/
+
+  background: #fcfcfc;
+  /* Old browsers */
+
+  color: #666666;
+  border-color: #cecece;
+}
+.e-ddl .e-select.e-load {
+  background-image: url(images/ajax-loader.gif);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.e-ddl-popup .e-resize-handle {
+  cursor: se-resize;
+  float: right;
+  padding: 4px 3px 0 0;
+  margin-right: 2px;
+}
+.e-ddl-popup .e-resize-handle.e-rtl-resize {
+  float: left;
+  cursor: sw-resize;
+  transform: rotate(90deg);
+  padding: 3px 0 0 3px;
+}
+.e-ddl-popup .e-resizebar {
+  background: #fcfcfc;
+  /* Old browsers */
+
+  border-top: 1px solid white;
+  height: 20px;
+  width: auto;
+  display: block;
+}
+.e-ddl-popup .e-atc.e-search .e-search:before,
+.e-ddl-popup .e-atc.e-search .e-cross-circle:before {
+  color: #cecece;
+}
+.e-ddl-popup .e-checkwrap.e-check-act,
+.e-ddl-popup .e-checkwrap:hover {
+  
+}
+.e-ddl-popup .e-checkwrap.e-check-act,
+.e-ddl-popup .e-checkwrap:hover {
+  border: 1px solid #cecece;
+}
+.e-ddl-popup .e-checkwrap.e-check-act:hover {
+  
+}
+.e-ddl-popup .e-checkwrap.e-check-act {
+  
+}
+.e-ddl-popup .e-checkwrap {
+  
+  background-color: white;
+}
+.e-ddl-popup .e-checkwrap {
+  
+  /*other*/
+  border-radius: none;
+}
+.e-ddl-popup .e-checkwrap {
+  border: 1px solid #cecece;
+}
+.e-ddl-popup .e-checkwrap:hover {
+  
+}
+.e-ddl-popup .e-check-act {
+  
+}
+.e-ddl-popup .e-check-act {
+  /*other*/
+
+  
+}
+.e-ddl-popup .e-check-act {
+  color: #3277b2;
+}
+.e-dropdownlist::-webkit-input-placeholder {
+  color: #333333;
+}
+.e-dropdownlist:-ms-input-placeholder {
+  color: #333333;
+}
+.e-dropdownlist::-moz-placeholder {
+  color: #333333;
+}
+.e-dropdownlist:-moz-placeholder {
+  color: #333333;
+}
+.e-ddl.e-widget.e-popactive .e-select .e-icon {
+  
+}
+.e-ddl.e-widget .e-select .e-icon {
+  
+}
+.e-ddl-popup .e-check-inact.e-ddl-anim:before {
+  
+}
+.e-ddl-popup .e-check-act.e-ddl-anim:after {
+  
+}
+.e-ddl.e-widget .e-in-wrap.e-disable {
+  border-color: #cccccc;
+  background-color: #eeeeee;
+  opacity: initial;
+}
+.e-ddl.e-widget .e-input.e-disable {
+  background: #eeeeee;
+}
+.e-ddl.e-widget .e-select.e-disable {
+  background: #d6d7d7;
+  border-color: #cccccc;
+}
+.e-ddl.e-widget .e-input.e-disable {
+  
+}

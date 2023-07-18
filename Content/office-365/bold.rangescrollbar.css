@@ -1,0 +1,107 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*Theme Color*/
+
+.e-rangeScroll-select {
+  fill: #f4f4f4;
+  stroke: #c8c8c8;
+}
+.e-rangeScroll-select:hover {
+  fill: #eaeaea;
+  stroke: #c8c8c8;
+}
+.e-rangeScroll-select:active {
+  fill: #eaeaea;
+  stroke: #c8c8c8;
+}
+.e-rangeScroll-select-hover {
+  fill: #eaeaea;
+  stroke: #c8c8c8;
+}
+.e-rangeScroll-backRect {
+  fill: white;
+  stroke: #c8c8c8;
+}
+.e-rangeScroll-arrow {
+  fill: #666666;
+  stroke: #666666;
+}
+.e-rangeScroll-arrow:hover {
+  fill: #666666;
+  stroke: #666666;
+}
+.e-rangeScroll-arrow:active {
+  fill: #666666;
+  stroke: #666666;
+}
+.e-rangeScroll-centerShape {
+  fill: #666666;
+  stroke: #666666;
+}
+.e-rangeScroll-leftCircle,
+.e-rangeScroll-rightCircle {
+  fill: #666666;
+  stroke: #666666;
+}
+.e-rangeScroll-leftCircle:hover,
+.e-rangeScroll-rightCircle:hover {
+  fill: #666666;
+  stroke: #666666;
+}
+.e-rangeScroll-leftCircle:active,
+.e-rangeScroll-rightCircle:active {
+  fill: #666666;
+  stroke: #666666;
+}
+.e-rangeScroll-leftRect:hover + .e-rangeScroll-leftCircle,
+.e-rangeScroll-rightRect:hover + .e-rangeScroll-rightCircle,
+.e-rangeScroll-leftRect:active + .e-rangeScroll-leftCircle,
+.e-rangeScroll-rightRect:active + .e-rangeScroll-rightCircle {
+  fill: #666666;
+  stroke: #666666;
+}

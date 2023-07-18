@@ -1,0 +1,386 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- ToolBar -------------------------------------------*/
+
+.e-toolbar {
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-weight: normal;
+  font-size: 14px;
+  
+}
+.e-toolbar {
+  /*other*/
+
+  
+}
+.e-toolbar {
+  /*office-365*/
+  background-repeat: no-repeat;
+  border-color: #dadada;
+  color: #212121;
+}
+.e-toolbar {
+  background: #f4f4f4;
+}
+.e-toolbar {
+  
+}
+.e-toolbar {
+  /*other*/
+
+  
+}
+.e-toolbar {
+  /*office-365*/
+  background: white;
+}
+.e-toolbar.e-focus {
+  
+}
+.e-toolbar.e-focus {
+  /*other*/
+
+  
+}
+.e-toolbar.e-focus {
+  /*office-365*/
+  box-shadow: none;
+}
+.e-toolbar > .e-horizontal.e-separator {
+  
+}
+.e-toolbar > .e-horizontal.e-separator {
+  /*other*/
+
+  
+  border-left: none;
+  border-radius: initial;
+}
+.e-toolbar > .e-horizontal.e-separator {
+  /*office-365*/
+  margin-right: 8px;
+  border-right: 1px solid #eaeaea;
+}
+/*-------------------tooltip class ----------------------*/
+
+.e-toolbarTooltip {
+  min-width: auto;
+}
+.e-toolbarTooltip .e-tipContainer .e-tipcontent {
+  
+}
+.e-toolbarTooltip .e-tipContainer .e-tipcontent {
+  /*other*/
+  padding: 2px 4px;
+}
+.e-toolbar > .e-horizontal .e-separator {
+  border-right: 1px solid #c8c8c8;
+  border-left: none;
+  border-radius: inherit;
+  height: inherit;
+}
+.e-toolbar > .e-vertical.e-separator {
+  border-bottom: 1px solid #c8c8c8;
+  border-top: none;
+  border-radius: initial;
+}
+.e-toolbar > .e-vertical .e-separator {
+  
+  border-top: none;
+  border-radius: inherit;
+}
+.e-toolbar > .e-vertical .e-separator {
+  /*office-365*/
+  border-bottom: 1px solid #eaeaea;
+}
+.e-toolbar.e-rtl > .e-horizontal.e-separator {
+  
+  border-right: none;
+  border-radius: initial;
+}
+.e-toolbar.e-rtl > .e-horizontal.e-separator {
+  /*office-365*/
+  border-left: 1px solid #eaeaea;
+}
+.e-toolbar.e-rtl > .e-horizontal .e-separator {
+  
+}
+.e-toolbar.e-rtl > .e-horizontal .e-separator {
+  /*other*/
+  border-left: 1px solid #c8c8c8;
+  border-right: none;
+  border-radius: inherit;
+}
+.e-toolbar.e-rtl > .e-vertical.e-separator {
+  border-top: 1px solid #c8c8c8;
+  border-bottom: none;
+  border-radius: initial;
+}
+.e-toolbar.e-rtl > .e-vertical .e-separator {
+  border-top: 1px solid #c8c8c8;
+  border-bottom: none;
+  border-radius: inherit;
+}
+.e-toolbar.e-rtl > .e-vertical .e-corner-all {
+  border-radius: inherit;
+}
+.e-toolbar > ul > li div.e-item-overlay {
+  background-color: #f4f4f4;
+}
+.e-toolbar > .e-horizontal .e-hover,
+.e-toolbar > .e-vertical > .e-hover {
+  
+  border-color: #eaeaea;
+}
+.e-toolbar > .e-horizontal .e-hover,
+.e-toolbar > .e-vertical > .e-hover {
+  /*other*/
+
+  
+}
+.e-toolbar > .e-horizontal .e-hover,
+.e-toolbar > .e-vertical > .e-hover {
+  color: black;
+  background-color: #f4f4f4;
+}
+.e-toolbar > .e-horizontal .e-hover,
+.e-toolbar > .e-vertical > .e-hover {
+  background: #eaeaea;
+}
+.e-toolbar > .e-horizontal .e-hover > div:before,
+.e-toolbar > .e-vertical > .e-hover > div:before,
+.e-toolbar > .e-horizontal .e-hover > span:before,
+.e-toolbar > .e-vertical > .e-hover > span:before,
+.e-toolbar > .e-horizontal .e-hover > a:before,
+.e-toolbar > .e-vertical > .e-hover > a:before {
+  
+}
+.e-toolbar > .e-horizontal .e-hover > div:before,
+.e-toolbar > .e-vertical > .e-hover > div:before,
+.e-toolbar > .e-horizontal .e-hover > span:before,
+.e-toolbar > .e-vertical > .e-hover > span:before,
+.e-toolbar > .e-horizontal .e-hover > a:before,
+.e-toolbar > .e-vertical > .e-hover > a:before {
+  color: black;
+}
+.e-toolbar > .e-horizontal .e-active.e-hover > div:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > div:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > span:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > span:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > a:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > a:before {
+  
+}
+.e-toolbar > .e-horizontal .e-active.e-hover > div:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > div:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > span:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > span:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > a:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > a:before {
+  /*other*/
+
+  
+}
+.e-toolbar > .e-horizontal .e-active.e-hover > div:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > div:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > span:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > span:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > a:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > a:before {
+  color: black;
+}
+.e-toolbar > .e-horizontal .e-active,
+.e-toolbar > .e-vertical > .e-active {
+  
+}
+.e-toolbar > .e-horizontal .e-active,
+.e-toolbar > .e-vertical > .e-active {
+  /*other*/
+
+  
+}
+.e-toolbar > .e-horizontal .e-active,
+.e-toolbar > .e-vertical > .e-active {
+  /*material*/
+  background-color: #deecf9;
+  color: black;
+}
+.e-toolbar > .e-horizontal > .e-hover > a,
+.e-toolbar > .e-horizontal > .e-hover > span,
+.e-toolbar > .e-horizontal > .e-hover > div,
+.e-toolbar > .e-vertical > .e-hover > a,
+.e-toolbar > .e-vertical > .e-hover > span,
+.e-toolbar > .e-vertical > .e-hover > div {
+  
+}
+.e-toolbar > .e-horizontal > .e-hover > a,
+.e-toolbar > .e-horizontal > .e-hover > span,
+.e-toolbar > .e-horizontal > .e-hover > div,
+.e-toolbar > .e-vertical > .e-hover > a,
+.e-toolbar > .e-vertical > .e-hover > span,
+.e-toolbar > .e-vertical > .e-hover > div {
+  /*other*/
+  background-color: transparent;
+  color: #212121;
+}
+.e-toolbar > .e-horizontal > .e-active > a,
+.e-toolbar > .e-horizontal > .e-active > span,
+.e-toolbar > .e-horizontal > .e-active > div,
+.e-toolbar > .e-vertical > .e-active > a,
+.e-toolbar > .e-vertical > .e-active > span,
+.e-toolbar > .e-vertical > .e-active > div {
+  
+}
+.e-toolbar > .e-horizontal > .e-active > a,
+.e-toolbar > .e-horizontal > .e-active > span,
+.e-toolbar > .e-horizontal > .e-active > div,
+.e-toolbar > .e-vertical > .e-active > a,
+.e-toolbar > .e-vertical > .e-active > span,
+.e-toolbar > .e-vertical > .e-active > div {
+  /*other*/
+
+  
+}
+.e-toolbar > .e-horizontal > .e-active > a,
+.e-toolbar > .e-horizontal > .e-active > span,
+.e-toolbar > .e-horizontal > .e-active > div,
+.e-toolbar > .e-vertical > .e-active > a,
+.e-toolbar > .e-vertical > .e-active > span,
+.e-toolbar > .e-vertical > .e-active > div {
+  /*office-365*/
+  background-color: #deecf9;
+  color: black;
+}
+.e-toolbar.e-js .e-vertical > li.e-tooltxt {
+  
+}
+.e-toolbar > .e-vertical > .e-hover {
+  
+}
+.e-toolbar > .e-vertical .e-align {
+  
+}
+.e-toolbar .e-ul.e-vertical {
+  
+}
+.e-toolbar.e-js ul > li.e-tooltxt:before {
+  
+}
+.e-toolbar.e-js ul > li.e-tooltxt.e-disable:before {
+  
+}
+.e-toolbar .e-ul.e-horizontal.e-separator:first-child {
+  
+}
+.e-toolbar > .e-horizontal.e-ul:first-child {
+  
+}
+.e-toolbar .e-ul.e-horizontal.e-separator .e-tooltxt:last-child {
+  
+}
+.e-toolbar .e-ul.e-horizontal.e-separator .e-tooltxt:last-child {
+  /*office-365*/
+  margin-right: 8px;
+}
+.e-toolbar > ul > li.e-icon {
+  
+}
+.e-responsive-toolbar.e-toolbar .e-ul.e-horizontal.e-separator:first-child {
+  
+}
+.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator .e-tooltxt:last-child {
+  
+}
+.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator .e-tooltxt:last-child {
+  /*office-365*/
+  margin-right: 2px;
+  margin-left: 8px;
+}
+.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator .e-tooltxt:first-child {
+  
+}
+.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator .e-tooltxt:first-child {
+  /*office-365*/
+  margin-right: 0px;
+}
+.e-toolbar.e-js.e-rtl ul > li.e-tooltxt:last-child {
+  
+}
+.e-toolbar.e-js.e-rtl ul > li.e-tooltxt:last-child {
+  margin-right: 2px;
+}
+.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator:first-child {
+  
+}
+.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator:first-child {
+  padding-left: 0px;
+  margin-right: 0px;
+}
+.e-toolbar.e-js.e-rtl ul > li.e-tooltxt:first-child {
+  
+}
+.e-toolbar.e-js.e-rtl ul > li.e-tooltxt:first-child {
+  margin-right: 8px;
+}
+.e-toolbar.e-toolbarspan.e-rtl {
+  
+}
+.e-responsive-toolbar.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator .e-tooltxt:first-child {
+  
+}
+.e-toolbar > .e-horizontal .e-disable,
+.e-toolbar > .e-vertical .e-disable {
+  
+}
+.e-toolbar > .e-horizontal .e-disable,
+.e-toolbar > .e-vertical .e-disable {
+  color: #c8c8c8;
+}
+.e-responsive-toolbar.e-toolbar.e-js.e-rtl ul > li.e-tooltxt:first-child {
+  margin-right: 0px;
+}

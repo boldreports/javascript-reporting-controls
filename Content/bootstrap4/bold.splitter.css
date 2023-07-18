@@ -1,0 +1,204 @@
+/* Needs to check the purpose*/
+/*Common Colors end*/
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #212529;
+  border-color: #ced4da;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+/*------------------------------------- splitter -------------------------------------------*/
+
+.e-splitter {
+  border-color: #ced4da;
+}
+.e-splitter .e-pane {
+  background-color: white;
+  color: #212529;
+}
+.e-splitter .e-splitbar.e-shadowbar.e-end-indicaton,
+.e-splitter .e-splitbar .e-end-indicaton {
+  background-color: #fef1ec;
+}
+.e-splitter .e-splitbar.e-shadowbar {
+  
+}
+.e-splitter .e-splitbar.e-shadowbar {
+  background: #007bff;
+}
+.e-splitter .e-splitbar {
+  
+}
+.e-splitter .e-splitbar {
+  border-color: #dee2e6;
+  background-color: #dee2e6;
+}
+.e-splitter .e-splitbar .e-icon {
+  color: #495057;
+}
+.e-splitter .e-splitbar:hover .e-icon,
+.e-splitter .e-splitbar.e-hover .e-icon {
+  color: #212529;
+}
+.e-splitter .e-hover.e-splitbar.e-split-divider,
+.e-splitter .e-splitbar.e-split-divider:hover {
+  
+}
+.e-splitter .e-hover.e-splitbar.e-split-divider,
+.e-splitter .e-splitbar.e-split-divider:hover {
+  background-color: #e3e7eb;
+  border-color: #dee2e6;
+}
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-left:before {
+  
+}
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-right:before {
+  
+}
+.e-splitter .e-splitbar > .e-icon.v-backward:before,
+.e-splitter .e-splitbar > .e-icon.e-arrow-sans-left:before,
+.e-splitter .e-splitbar > .e-icon:before {
+  
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-right {
+  
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-left {
+  
+}
+.e-splitter .e-splitbar.e-h-bar {
+  
+}
+.e-splitter .e-splitbar .e-activebar {
+  
+}
+.e-splitter .e-splitbar .e-activebar {
+  display: none;
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-left {
+  
+}
+/*&.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-right {
+  & when (@skin= "material") {
+     top:62%;
+  }
+}*/
+
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-up:before {
+  
+}
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-down:before {
+  
+}
+.e-splitter .e-splitbar.e-v-bar {
+  
+}
+.e-splitter .e-splitbar .e-v-arrow.e-icon.e-arrow-sans-up:before {
+  
+}
+.e-splitter .e-splitbar .e-v-arrow.e-arrow-sans-up {
+  
+}
+.e-splitter .e-splitbar .e-v-arrow.e-icon.e-arrow-sans-down:before {
+  
+}
+.e-splitter .e-splitbar .e-v-arrow.e-arrow-sans-down {
+  
+}
+.e-splitter .e-splitbar.e-v-bar .e-activebar {
+  
+}
+.e-splitter .e-splitbar.e-v-bar .e-activebar:before {
+  
+}
+.e-splitter .e-splitbar.e-h-bar .e-activebar {
+  
+}
+.e-splitter .e-splitbar.e-h-bar .e-activebar:before {
+  
+}
+.e-splitter .e-h-arrow.e-arrow-sans-right {
+  
+}
+.e-splitter .e-v-arrow.e-arrow-sans-down {
+  
+}
+.e-splitter .e-splitbar.e-h-bar.e-icon-hide .e-activebar,
+.e-splitter .e-splitbar.e-v-bar.e-icon-hide .e-activebar {
+  
+}
+.e-splitter .e-splitbar.e-h-bar.e-icon-hide .e-icon.e-arrow-sans-right {
+  
+}
+.e-splitter .e-splitbar.e-h-bar.e-icon-hide .e-icon.e-arrow-sans-left {
+  
+}
+.e-splitter .e-splitbar.e-v-bar.e-icon-hide .e-icon.e-arrow-sans-up {
+  
+}
+.e-splitter .e-splitbar.e-v-bar.e-icon-hide .e-icon.e-arrow-sans-down {
+  
+}
+.e-splitter.e-rtl .e-h-arrow.e-arrow-sans-left {
+  
+}
+.e-splitter.e-rtl .e-h-arrow.e-arrow-sans-right {
+  
+}
+.e-splitter.e-rtl .e-splitbar.e-h-bar .e-activebar {
+  
+}
+.e-splitter.e-rtl .e-splitbar .e-v-arrow.e-arrow-sans-up {
+  
+}
+.e-splitter .e-splitbar.e-v-bar.e-resize {
+  
+}
+.e-splitter .e-splitbar.e-h-bar.e-resize {
+  
+}
+.e-splitter .e-splitbar .e-splitter-h-template {
+  cursor: pointer;
+  position: fixed;
+  top: 30%;
+}
+.e-splitter .e-splitbar .e-splitter-v-template {
+  cursor: pointer;
+  position: fixed;
+  left: 49%;
+}

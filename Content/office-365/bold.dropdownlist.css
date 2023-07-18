@@ -1,0 +1,378 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- dropdownlist -------------------------------------------*/
+
+.e-ddl .e-options {
+  background-color: #f4f4f4;
+}
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  background-color: white;
+  border-color: #c8c8c8;
+  
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  color: #333333;
+  font-weight: 400;
+  font-size: 14px;
+}
+.e-ddl .e-input,
+.e-ddl .e-input[readonly],
+.e-ddl-popup,
+.e-ddl .e-options {
+  
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-size: 14px;
+  font-weight: normal;
+  cursor: default;
+}
+.e-ddl .e-input,
+.e-ddl .e-input[readonly],
+.e-ddl-popup,
+.e-ddl .e-options {
+  /*other*/
+
+  
+}
+.e-ddl .e-input,
+.e-ddl .e-input[readonly],
+.e-ddl-popup,
+.e-ddl .e-options {
+  color: #333333;
+  background-color: white;
+}
+.e-atc-popup ul li.e-category {
+  color: #333333;
+}
+.e-ddl .e-in-wrap,
+.e-ddl-popup,
+.e-ddl .e-options,
+.e-ddl-popup .e-atc.e-search {
+  
+}
+.e-ddl .e-in-wrap,
+.e-ddl-popup,
+.e-ddl .e-options,
+.e-ddl-popup .e-atc.e-search {
+  /*other*/
+
+  
+}
+.e-ddl .e-in-wrap,
+.e-ddl-popup,
+.e-ddl .e-options,
+.e-ddl-popup .e-atc.e-search {
+  border-color: #c8c8c8;
+}
+.e-ddl .e-options.e-active {
+  
+}
+.e-ddl .e-options.e-active {
+  /*other*/
+  background-color: #0078d7;
+  color: white;
+  border-color: #0078d7;
+}
+.e-ddl .e-options:hover {
+  background: #eaeaea;
+}
+.e-ddl .e-options .e-icon.e-close {
+  color: #767676;
+}
+.e-ddl-popup div > ul li {
+  background-color: white;
+}
+.e-ddl-popup .e-active.e-hover {
+  background: #deecf9;
+}
+.e-ddl .e-boxes {
+  background-color: white;
+}
+.e-ddl.e-popactive .e-in-wrap:before,
+.e-ddl.e-popactive .e-in-wrap:after {
+  
+}
+.e-ddl.e-focus .e-in-wrap {
+  
+}
+.e-ddl.e-focus .e-in-wrap {
+  /*other*/
+  box-shadow: 0 0 2px lightgray;
+  
+  border-color: #0078d7;
+}
+.e-ddl.e-focus .e-in-wrap {
+  box-shadow: 0 0 2px lightgray;
+}
+.e-ddl:hover .e-in-wrap {
+  
+}
+.e-ddl:hover .e-in-wrap {
+  /*office-365*/
+  border-color: #767676;
+}
+.e-ddl .e-input.e-watermark {
+  color: #c0bebe !important;
+  font-style: italic;
+}
+.e-ddl-popup .e-hover {
+  
+}
+.e-ddl-popup .e-hover {
+  /*other*/
+
+  
+}
+.e-ddl-popup .e-hover {
+  /*office-365*/
+  background: #f4f4f4;
+  color: #333333;
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  /*other*/
+
+  
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  /*office-365*/
+  width: 30px;
+  height: 100%;
+  background: #eaeaea;
+  color: black;
+}
+.e-ddl .e-select:active,
+.e-ddl.e-rtl .e-select:active {
+  /*office-365*/
+  width: 30px;
+  height: 100%;
+  background: #0078d7;
+  color: white;
+}
+.e-ddl .e-select.e-disable {
+  /*office-365*/
+  background: #f4f4f4;
+  border: 0px solid #f4f4f4;
+  color: #c8c8c8;
+}
+.e-ddl .e-input.e-disable {
+  /*office-365*/
+  background: #f4f4f4;
+}
+.e-ddl-popup .e-active {
+  
+  border-bottom: 1px solid white;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.e-ddl-popup .e-active {
+  /*other*/
+
+  
+}
+.e-ddl-popup .e-active {
+  /*office-365*/
+  background-color: #deecf9;
+  color: #333333;
+}
+.e-ddl-popup .e-active.e-hover {
+  
+}
+.e-ddl .e-select,
+.e-ddl.e-rtl .e-select,
+.e-ddl .e-disable.e-select:hover {
+  
+}
+.e-ddl .e-select,
+.e-ddl.e-rtl .e-select,
+.e-ddl .e-disable.e-select:hover {
+  /*other*/
+
+  color: #666666;
+  border-color: #c8c8c8;
+}
+.e-ddl .e-select,
+.e-ddl.e-rtl .e-select,
+.e-ddl .e-disable.e-select:hover {
+  /*office*/
+  width: 30px;
+  height: 100%;
+  background: white;
+}
+.e-ddl .e-select,
+.e-ddl.e-rtl .e-select,
+.e-ddl .e-disable.e-select:hover {
+  background: #f4f4f4;
+}
+.e-ddl .e-select,
+.e-ddl.e-rtl .e-select,
+.e-ddl .e-disable.e-select:hover {
+  background: white;
+}
+.e-ddl .e-select.e-load {
+  background-image: url(images/ajax-loader.gif);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.e-ddl-popup .e-resize-handle {
+  cursor: se-resize;
+  float: right;
+  padding: 4px 3px 0 0;
+  margin-right: 2px;
+}
+.e-ddl-popup .e-resize-handle.e-rtl-resize {
+  float: left;
+  cursor: sw-resize;
+  transform: rotate(90deg);
+  padding: 3px 0 0 3px;
+}
+.e-ddl-popup .e-resizebar {
+  border-top: 1px solid white;
+  height: 20px;
+  width: auto;
+  display: block;
+}
+.e-ddl-popup .e-resizebar {
+  background: #f4f4f4;
+}
+.e-ddl-popup .e-atc.e-search .e-search:before,
+.e-ddl-popup .e-atc.e-search .e-cross-circle:before {
+  color: #c8c8c8;
+}
+.e-ddl-popup .e-checkwrap.e-check-act,
+.e-ddl-popup .e-checkwrap:hover {
+  
+}
+.e-ddl-popup .e-checkwrap.e-check-act,
+.e-ddl-popup .e-checkwrap:hover {
+  
+}
+.e-ddl-popup .e-checkwrap.e-check-act:hover {
+  background-color: #106ebe;
+  border: 2px solid #106ebe;
+  color: white;
+}
+.e-ddl-popup .e-checkwrap.e-check-act {
+  
+}
+.e-ddl-popup .e-checkwrap {
+  
+  background-color: white;
+}
+.e-ddl-popup .e-checkwrap {
+  
+  /*other*/
+  border-radius: none;
+}
+.e-ddl-popup .e-checkwrap {
+  background-color: white;
+  border: 2px solid #a6a6a6;
+  color: white;
+}
+.e-ddl-popup .e-checkwrap:hover {
+  border: 2px solid #767676;
+}
+.e-ddl-popup .e-check-act {
+  
+}
+.e-ddl-popup .e-check-act {
+  /*other*/
+
+  
+}
+.e-ddl-popup .e-check-act {
+  border: 2px solid #0078d7;
+  color: white;
+  background-color: #0078d7;
+}
+.e-dropdownlist::-webkit-input-placeholder {
+  color: #212121;
+}
+.e-dropdownlist:-ms-input-placeholder {
+  color: #212121;
+}
+.e-dropdownlist::-moz-placeholder {
+  color: #212121;
+}
+.e-dropdownlist:-moz-placeholder {
+  color: #212121;
+}
+.e-ddl.e-widget.e-popactive .e-select .e-icon {
+  
+}
+.e-ddl.e-widget .e-select .e-icon {
+  
+}
+.e-ddl-popup .e-check-inact.e-ddl-anim:before {
+  
+}
+.e-ddl-popup .e-check-act.e-ddl-anim:after {
+  
+}
+.e-ddl.e-widget .e-in-wrap.e-disable {
+  
+}
+.e-ddl.e-widget .e-input.e-disable {
+  
+}
+.e-ddl.e-widget .e-select.e-disable {
+  
+}
+.e-ddl.e-widget .e-input.e-disable {
+  
+}

@@ -1,0 +1,344 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- autocomplete -------------------------------------------*/
+
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  background-color: white;
+  border-color: #c8c8c8;
+  
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  color: #333333;
+  font-weight: 400;
+  font-size: 14px;
+}
+.e-atc-popup {
+  
+}
+.e-atc-popup .e-hilight-txt {
+  
+}
+.e-atc .e-options.e-active {
+  
+  color: white;
+}
+.e-atc .e-options.e-active {
+  border-color: #0078d7;
+}
+.e-atc .e-options.e-active {
+  background: #0078d7;
+}
+.e-atc .e-options.e-active:hover,
+.e-atc .e-options:hover {
+  
+}
+.e-atc .e-options.e-active:hover,
+.e-atc .e-options:hover {
+  color: #333333;
+  border-color: white;
+}
+.e-atc .e-options.e-active:hover,
+.e-atc .e-options:hover {
+  background: #eaeaea;
+}
+.e-atc .e-boxes {
+  background-color: white;
+}
+.e-atc.e-focus .e-in-wrap {
+  
+}
+.e-atc.e-focus .e-in-wrap {
+  border-color: #0078d7 !important;
+}
+.e-atc .e-in-wrap input.e-input,
+input[type="text"].e-input {
+  
+}
+.e-atc:hover .e-in-wrap {
+  
+}
+.e-atc:hover .e-in-wrap {
+  border-color: #767676;
+}
+.e-atc-popup .e-category {
+  border-bottom: 1px solid #c8c8c8;
+}
+.e-atc-popup .e-hover,
+.e-atc-popup .e-content .e-atc-trbgcolor.e-hover {
+  
+}
+.e-atc-popup .e-hover,
+.e-atc-popup .e-content .e-atc-trbgcolor.e-hover {
+  border-color: #f4f4f4;
+  background: #f4f4f4;
+  color: #333333;
+}
+.e-atc .e-select:hover,
+.e-atc.e-rtl .e-select:hover {
+  
+}
+.e-atc .e-select:hover,
+.e-atc.e-rtl .e-select:hover {
+  background: #f4f4f4;
+  border-color: #f4f4f4;
+  color: black;
+}
+.e-atc-popup ul li,
+.e-atc-popup.e-rtl ul li {
+  
+}
+.e-atc-popup ul li,
+.e-atc-popup.e-rtl ul li {
+  padding: 0 10px 0 10px;
+  line-height: 32px;
+}
+.e-atc .e-select,
+.e-atc.e-rtl .e-select,
+.e-atc .e-select.e-disable:hover {
+  
+}
+.e-atc .e-select,
+.e-atc.e-rtl .e-select,
+.e-atc .e-select.e-disable:hover {
+  border-color: white;
+  color: #333333;
+}
+.e-atc .e-select,
+.e-atc.e-rtl .e-select,
+.e-atc .e-select.e-disable:hover {
+  background: #f4f4f4;
+}
+.e-atc .e-select,
+.e-atc.e-rtl .e-select,
+.e-atc .e-select.e-disable:hover {
+  background: white;
+}
+.e-atc .e-input.e-load {
+  background-image: url(images/ajax-loader.gif);
+}
+.e-atc ::-webkit-input-placeholder {
+  
+}
+.e-atc ::-webkit-input-placeholder {
+  color: #a6a6a6;
+  font-style: normal;
+}
+.e-atc :-ms-input-placeholder {
+  
+}
+.e-atc :-ms-input-placeholder {
+  color: #a6a6a6;
+  font-style: normal;
+}
+.e-atc ::-moz-placeholder {
+  
+}
+.e-atc ::-moz-placeholder {
+  color: #a6a6a6;
+  font-style: normal;
+}
+.e-atc :-moz-placeholder {
+  
+}
+.e-atc :-moz-placeholder {
+  color: #a6a6a6;
+  font-style: normal;
+}
+.e-atc-popup .e-atc-tdbottom,
+.e-atc-popup div.e-atc-tableHeader {
+  border-bottom: 1px solid #c8c8c8;
+}
+.e-atc-popup .e-atc-tdright,
+.e-atc-popup .e-atc-tableHeaderScroll .e-atc-tableHeaderBorder,
+.e-atc-popup div .e-atc-thright {
+  border-right: 1px solid #c8c8c8;
+}
+.e-atc-popup .e-atc-tdleft,
+.e-atc-popup .e-atc-tableHeaderRTL .e-atc-tableHeaderBorder,
+.e-atc-popup div .e-atc-thleft {
+  border-left: 1px solid #c8c8c8;
+}
+.e-atc-popup .e-atc-tableHeaderContent th {
+  background: #f7f7f7;
+}
+.e-atc-popup .e-atc-tableHeaderContent th {
+  font-weight: 400;
+}
+.e-atc-popup .e-content .e-atc-trbgcolor {
+  background: #f7f7f7;
+}
+.e-atc-popup .e-content .e-atc-trbgcolor {
+  background-color: white;
+}
+.e-atc .e-in-wrap {
+  
+}
+.e-atc .e-in-wrap,
+.e-atc .e-in-wrap .e-input {
+  
+}
+.e-atc .e-in-wrap input.e-input,
+input[type="text"].e-input {
+  
+}
+.e-atc .e-in-wrap input.e-input,
+input[type="text"].e-input {
+  box-shadow: 0 0 3px transparent;
+  padding-left: 10px;
+}
+.e-atc-popup {
+  
+}
+.e-atc-popup {
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  border-color: #eaeaea;
+}
+.e-atc .e-input::selection {
+  
+}
+.e-atc .e-input::selection {
+  background: #0078d7;
+  color: white;
+}
+.e-atc .e-input::-moz-selection {
+  
+}
+.e-atc .e-input::-moz-selection {
+  background: #0078d7;
+  color: white;
+}
+.e-atc.e-disable-wrap .e-in-wrap {
+  
+}
+.e-atc.e-disable-wrap .e-in-wrap {
+  border: none;
+  background: #f4f4f4;
+}
+.e-atc .e-in-wrap:before,
+.e-atc .e-in-wrap:after {
+  
+}
+.e-atc .e-select.e-active,
+.e-atc .e-select:hover {
+  
+}
+.e-atc .e-select:after {
+  
+}
+.e-atc .e-select {
+  
+}
+.e-atc .e-visual-mode.e-input {
+  
+}
+.e-atc-popup .e-ul .txt {
+  
+}
+.e-atc-popup .e-ul .flag {
+  
+}
+.e-atc-popup .e-ul .flag {
+  margin-top: 10px;
+}
+.e-atc .e-select .e-icon.e-search {
+  
+}
+.e-atc .e-autocomplete.e-input {
+  color: #333333;
+  font-weight: 400;
+}
+.e-atc .e-select:active {
+  color: white;
+  background: #0078d7;
+}
+.e-atc .e-select.e-disable,
+.e-atc .e-select.e-disable:hover {
+  
+}
+.e-atc .e-select.e-disable,
+.e-atc .e-select.e-disable:hover {
+  color: #c8c8c8;
+}
+.e-atc .e-options .e-icon.e-close {
+  color: #767676;
+}
+.e-atc .e-options.e-active .e-icon.e-close {
+  color: white;
+}
+.e-atc .e-options {
+  border-color: white;
+  background: #f4f4f4;
+}
+.e-atc .e-visual-mode.e-input {
+  padding-left: 0px !important;
+}
+.e-atc-popup .e-atc-tableContent td {
+  font-weight: 300;
+}
+.e-atc .e-options.e-active:hover .e-icon.e-close {
+  color: #333333;
+}
+.e-atc .e-in-wrap.e-padding {
+  
+}
+.e-atc .e-in-wrap.e-padding:before,
+.e-atc .e-in-wrap.e-padding:after {
+  
+}
+.e-atc-popup .e-activeli,
+.e-atc-popup .e-content .e-activeli {
+  background: #0078d7;
+  
+}

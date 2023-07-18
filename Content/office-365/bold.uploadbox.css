@@ -1,0 +1,281 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- Upload Box -------------------------------------------*/
+
+.e-uploadbox .e-inputbtn,
+.e-uploadbox .e-file-name-txt {
+  
+}
+.e-uploadbox .e-inputbtn,
+.e-uploadbox .e-file-name-txt {
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-weight: normal;
+  
+}
+.e-uploadbox .e-inputbtn,
+.e-uploadbox .e-file-name-txt {
+  font-size: 13px;
+}
+.e-uploadbox.e-disable .e-uploadinput {
+  cursor: default;
+}
+.e-uploadbox.e-widget .e-selectpart.e-select,
+.e-uploadbox.e-disable .e-select:hover,
+.e-uploadbox.e-widget.e-disable .e-selectpart.e-select:hover,
+.e-uploadbox.e-widget.e-disable .e-selectpart.e-select:hover .e-inputbtn {
+  
+}
+.e-uploadbox.e-widget .e-selectpart.e-select,
+.e-uploadbox.e-disable .e-select:hover,
+.e-uploadbox.e-widget.e-disable .e-selectpart.e-select:hover,
+.e-uploadbox.e-widget.e-disable .e-selectpart.e-select:hover .e-inputbtn {
+  color: #212121;
+  border-color: #c8c8c8;
+}
+.e-uploadbox.e-widget .e-selectpart.e-select,
+.e-uploadbox.e-disable .e-select:hover,
+.e-uploadbox.e-widget.e-disable .e-selectpart.e-select:hover,
+.e-uploadbox.e-widget.e-disable .e-selectpart.e-select:hover .e-inputbtn {
+  background: #f4f4f4;
+}
+.e-uploadbox.e-disable .e-uploadbtn.e-select:hover,
+.e-uploadbox.e-disable .e-uploadclosebtn.e-select:hover {
+  color: #212121;
+  border-color: #c8c8c8;
+  cursor: default;
+}
+.e-uploadbox.e-disable .e-uploadbtn.e-select:hover,
+.e-uploadbox.e-disable .e-uploadclosebtn.e-select:hover {
+  background: #f4f4f4;
+}
+.e-uploadbox.e-widget .e-selectpart.e-select:hover {
+  
+}
+.e-uploadbox.e-widget .e-selectpart.e-select:hover {
+  border-color: #c8c8c8;
+  color: #212121;
+}
+.e-uploadbox.e-widget .e-selectpart.e-select:hover {
+  background: #eaeaea;
+}
+.e-uploadbox.e-widget .e-inputbtn,
+.e-uploadbox.e-disable .e-select .e-inputbtn {
+  
+}
+.e-uploadbox.e-widget .e-inputbtn,
+.e-uploadbox.e-disable .e-select .e-inputbtn {
+  color: #212121;
+}
+.e-uploadbox.e-widget .e-inputbtn:focus {
+  
+}
+.e-uploadbox.e-widget .e-selectpart.e-select:hover .e-inputbtn {
+  color: #212121;
+  border-color: #c8c8c8;
+}
+.e-uploadbox .e-file-name-txt {
+  
+}
+.e-uploadbox .e-file-name-txt {
+  /*other*/
+
+  
+}
+.e-uploadbox .e-file-name-txt {
+  color: #333333;
+}
+.e-uploadbox .e-file-size .e-file-name-txt {
+  
+}
+.e-uploadbox .e-file-list .e-file-status-failed {
+  color: #cd0a0a;
+}
+.e-uploadbox .e-file-list .e-file-status-success {
+  color: #212121;
+}
+.e-uploadbox .e-file-progress-status {
+  
+}
+.e-uploadbox .e-file-progress-status {
+  
+}
+.e-uploadbox .e-file-progress-status {
+  background: #0078d7;
+  border-color: #0078d7;
+}
+.e-uploadbox .e-file-list {
+  background-color: white;
+  color: #212121;
+}
+.e-uploadbox .e-ul li:nth-child(odd) .e-file-list {
+  
+}
+.e-uploadbox .e-ul li:nth-child(odd) .e-file-list {
+  border-bottom-width: 0px;
+}
+.e-uploadbox .e-head-content {
+  background-color: white;
+  border-bottom: 1px solid #c8c8c8;
+}
+.e-uploadbox .e-ul li:last-child .e-file-list {
+  border-bottom: 1px solid #c8c8c8;
+}
+.e-uploadbox .e-ul li .e-file-list {
+  background-color: white;
+}
+.e-uploadbox .e-ul li:nth-child(even) .e-file-list,
+.e-uploadbox .e-head-content {
+  
+}
+.e-uploadbox.e-dialog > .e-header + .e-dialog-scroller {
+  border-top: 0px;
+}
+.e-mobile-upload.e-uploadbox .e-ul li:nth-child(even) .e-file-list,
+.e-mobile-upload.e-uploadbox .e-ul li:nth-child(odd) .e-file-list {
+  border-bottom: none;
+}
+.e-uploadbox .e-file-upload {
+  
+}
+.e-uploadbox .e-file-upload {
+  background-color: white;
+}
+.e-uploadbox .e-file-progress-bar {
+  
+}
+.e-uploadbox .e-file-progress-bar {
+  
+}
+.e-uploadbox .e-file-progress-bar {
+  background-color: #eaeaea;
+}
+/*Icons */
+
+.e-uploadbox .e-file-list .e-checkmark {
+  background-color: #39b54a;
+  color: white;
+  border-radius: 10px;
+  
+}
+.e-uploadbox .e-file-list .e-file-percentage-failed {
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  
+}
+.e-uploadbox.e-dialog .e-header {
+  
+  border-color: #c8c8c8;
+  border-bottom: none;
+}
+.e-uploadbox.e-dialog .e-header {
+  /*other*/
+
+  
+}
+.e-uploadbox.e-dialog .e-header {
+  color: #333333;
+  font-size: 21px;
+  font-weight: 100;
+  background: white;
+}
+.e-uploadbox .e-uploadinput {
+  font-size: 200px;
+}
+.e-uploadbox .e-ul li:nth-child(odd) .e-file-list .e-action-perform,
+.e-uploadbox.e-disable .e-ul li:nth-child(odd) .e-file-list .e-action-perform:hover {
+  background-color: white;
+  color: #666666;
+}
+.e-uploadbox .e-ul li:nth-child(even) .e-file-list .e-action-perform,
+.e-uploadbox.e-disable .e-ul li:nth-child(even) .e-file-list .e-action-perform:hover {
+  
+}
+.e-uploadbox .e-ul li:nth-child(even) .e-file-list .e-action-perform:hover,
+.e-uploadbox .e-ul li:nth-child(odd) .e-file-list .e-action-perform:hover {
+  
+}
+.e-uploadbox.e-disable .e-ul li:nth-child(even) .e-file-list .e-action-perform:hover,
+.e-uploadbox.e-disable .e-ul li:nth-child(odd) .e-file-list .e-action-perform:hover {
+  background: none;
+}
+.e-uploaddialog.e-dialog .e-btn.e-select {
+  
+}
+.e-uploaddialog.e-dialog .e-btn.e-select {
+  border: 1px solid transparent;
+}
+.e-uploaddialog.e-dialog .e-btn.e-select:hover {
+  background: #eaeaea;
+}
+.e-uploaddialog.e-dialog .e-btn.e-select:active {
+  
+}
+.e-uploaddialog.e-dialog .e-btn.e-select:active {
+  
+}
+.e-uploaddialog.e-dialog .e-btn.e-select:active {
+  background-color: #0078d7;
+  color: white;
+}
+.e-uploaddialog.e-dialog .e-btn.e-select {
+  
+}
+.e-uploaddialog.e-dialog .e-btn.e-select {
+  color: #333333;
+  background: #f4f4f4;
+  border-radius: 0px;
+}
+.e-uploadbox.e-widget .e-selectpart.e-select:active,
+.e-uploaddialog.e-dialog .e-btn.e-select:active {
+  
+}
+.e-uploadbox.e-widget .e-selectpart.e-select:active:after,
+.e-uploaddialog.e-dialog .e-btn.e-select:active:after {
+  
+}

@@ -1,0 +1,196 @@
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: #111111;
+  color: white;
+  border-color: gray;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+.e-chkbox-wrap {
+  display: inline-flex;
+}
+.e-chkbox-wrap.e-tb-cell .e-text,
+.e-chkbox-wrap.e-tb-cell div {
+  display: table-cell;
+  padding: 0px 5px 2px 5px;
+}
+.e-chkbox-wrap.e-check-small.e-tb-cell .e-text {
+  padding: 0px 5px 2px 5px;
+}
+.e-chkbox-wrap.e-focus div > span {
+  
+}
+.e-chkbox-wrap.e-focus div > span {
+  box-shadow: 0 0 2px black;
+}
+.e-chkbox-wrap div > span {
+  
+}
+.e-chkbox-wrap div > span {
+  /*other*/
+  border-color: white;
+  background-color: black;
+  
+}
+.e-chkbox-wrap.e-disable {
+  
+}
+.e-chkbox-wrap div > span.e-chk-act,
+.e-chkbox-wrap div > span:hover {
+  
+}
+.e-chkbox-wrap div > span.e-chk-act,
+.e-chkbox-wrap div > span:hover {
+  /*other*/
+
+  border-color: gray;
+}
+.e-chkbox-wrap div > span:hover {
+  
+}
+.e-chkbox-wrap div > span.e-chk-act {
+  
+}
+.e-chkbox-wrap div > span.e-chk-act {
+  border-color: white;
+}
+.e-chkbox-wrap.e-widget.e-disable div > span.e-chk-act,
+.e-chkbox-wrap.e-widget.e-disable div > span.e-chk-indeter,
+.e-chkbox-wrap.e-disable div > span {
+  
+}
+.e-chkbox-wrap .e-chk-image.e-stop,
+.e-chkbox-wrap .e-chk-image.e-checkmark {
+  
+}
+.e-chkbox-wrap .e-chk-image.e-stop,
+.e-chkbox-wrap .e-chk-image.e-checkmark {
+  /*other*/
+  color: #dbdb00;
+}
+.e-chkbox-wrap.e-disable .e-chk-image.e-stop,
+.e-chkbox-wrap.e-disable .e-chk-image.e-checkmark {
+  
+}
+.e-chkbox-wrap .e-chk-image.e-stop {
+  
+}
+.e-chkbox-wrap .e-chk-image.e-stop:before {
+  
+}
+.e-chkbox-wrap.e-disable .e-chk-image.e-checkmark {
+  
+}
+.e-chkbox-wrap .e-text {
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-size: 12px;
+  
+  color: #dbdb00;
+}
+.e-check-small.e-chkbox-wrap .e-text {
+  
+}
+.e-check-medium.e-chkbox-wrap .e-text {
+  
+}
+.e-material-animate.e-chkbox-wrap .e-chk-act::before {
+  
+}
+.e-material-animate.e-chkbox-wrap .e-chk-inact::after {
+  
+}
+.e-material-animate.e-chkbox-wrap .e-chkbox-medium .e-chk-act::before {
+  
+}
+.e-material-animate.e-chkbox-wrap .e-chkbox-medium .e-chk-inact::after {
+  
+}
+@keyframes mediumShadow {
+  100% {
+    opacity: 0;
+    transform: scale(18, 18);
+  }
+}
+@keyframes smallShadow {
+  100% {
+    opacity: 0;
+    transform: scale(15, 15);
+  }
+}
+.e-chkbox-wrap div > span.e-chk-act:hover {
+  
+}
+.e-chkbox-wrap.e-disable div > span.e-chk-act {
+  
+}
+.e-chkbox-wrap.e-disable .e-chk-image.e-checkmark {
+  
+}
+.e-chkbox-wrap.e-disable div > span:hover {
+  
+}
+.e-chkbox-wrap.e-disable div > span {
+  
+}
+.e-chkbox-wrap.e-disable div > span.e-chk-act:hover {
+  
+}
+.e-chkbox-wrap div > span.e-chk-indeter {
+  
+}
+.e-chkbox-wrap div > span.e-chk-indeter:hover {
+  
+}
+.e-radiobtn-wrap.e-disable > span {
+  
+}
+.e-chkbox-wrap.e-disable div > span.e-chk-indeter {
+  
+}
+.e-chkbox-wrap.e-disable div > span {
+  background-color: #1d1d1d;
+  border-color: #333333;
+}
+.e-chkbox-wrap.e-disable {
+  opacity: 1;
+}
+.e-chkbox-wrap.e-disable .e-chk-image.e-stop,
+.e-chkbox-wrap.e-disable .e-chk-image.e-checkmark {
+  color: #525252;
+}
+.e-chkbox-wrap .e-chk-act,
+.e-chkbox-wrap .e-chk-inact,
+.e-chkbox-wrap .e-chk-indeter {
+  box-sizing: content-box;
+}

@@ -1,6 +1,6 @@
 ## Bold Reports JavaScript UI Controls
 
-The `Bold Reports` UI controls for JavaScript contains [ReportViewer](https://www.boldreports.com/embedded-reporting/javascript-report-viewer) and [ReportDesigner](https://www.boldreports.com/embedded-reporting/javascript-report-designer) HTML5 and JavaScript reporting controls for enterprise web development. Empower your web application with feature-rich report preview, edit, and customization capabilities that allow you to explore data easily and make real-time decisions. Effortlessly print and export reports.
+The `Bold Reports` UI components contain [JavaScript Report Viewer](https://www.boldreports.com/embedded-reporting/javascript-report-viewer) and [JavaScript Report Designer](https://www.boldreports.com/embedded-reporting/javascript-report-designer) for enterprise web development(HTML5).Empower your web application with feature-rich report preview, edit, and customization capabilities that allow you to explore data easily and make real-time decisions. Effortlessly print and export reports.
 
 ![Bold Reports JavaScript Reporting Tool](https://demos.boldreports.com/Images/report-platform.gif)
 
@@ -24,7 +24,7 @@ In case of any questions regarding the use of `Bold Reports JavaScript`, please 
 
 ## Release Notes
 
-Refer the `Bold Reports JavaScript` Product Release Notes in [online Release Notes at Syncfusion](https://www.boldreports.com/release-history/).
+Refer to the online `Bold Reports JavaScript` Product [Release Notes](https://www.boldreports.com/release-history/).
 
 ## License Information
 

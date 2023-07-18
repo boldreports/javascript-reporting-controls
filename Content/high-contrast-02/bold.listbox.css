@@ -1,0 +1,155 @@
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: #111111;
+  color: white;
+  border-color: gray;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- listbox -------------------------------------------*/
+
+.e-listbox .e-select {
+  
+}
+.e-listbox .e-select {
+  border-color: blue;
+  color: white;
+}
+.e-listbox .e-select {
+  background: blue;
+}
+.e-listbox .e-active {
+  color: white;
+  border-color: #1010af;
+}
+.e-listbox .e-active {
+  background: #1010af;
+}
+.e-listbox .e-hover {
+  
+}
+.e-listbox .e-hover {
+  color: white;
+}
+.e-listbox .e-hover {
+  background: #1010af;
+}
+.e-dragClonelist {
+  
+}
+.e-dragClonelist {
+  background: blue;
+  color: white;
+  opacity: 0.5;
+  text-align: center;
+}
+.e-wrap .e-listbox li {
+  
+  word-break: break-all;
+}
+.e-wrap .e-listbox li {
+  padding-left: 10px !important;
+}
+.e-rtl.e-wrap .e-listbox li {
+  
+}
+.e-nowrap .e-listbox li {
+  padding-left: 10px !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.e-ddl-popup.e-load {
+  background-image: url(images/ajax-loader.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.e-ddl-popup.e-wrap .e-listbox li.allowDrop {
+  
+}
+.e-ddl-popup.e-wrap.e-js {
+  
+}
+.e-listbox .e-chkbox-wrap .e-chkbox-small .e-chk-inact,
+.e-listbox .e-chkbox-wrap .e-chkbox-small .e-chk-act {
+  
+}
+.e-listbox .e-chkbox-wrap .e-chkbox-small .e-chk-inact,
+.e-listbox .e-chkbox-wrap .e-chkbox-small .e-chk-act {
+  top: 2px;
+}
+.e-listbox .e-chkbox-wrap .e-chkbox-small .e-chk-act .e-checkmark {
+  
+}
+.e-ddl-popup.e-wrap.e-js div > ul li .e-chkbox-wrap,
+.e-ddl-popup div > .e-listbox li .e-chkbox-wrap {
+  
+}
+.e-ddl-popup div > .e-ul .e-ghead {
+  
+}
+.e-ddl-popup div > .e-ul .e-ghead {
+  font-weight: bold;
+  border-bottom: 1px solid gray;
+  display: block;
+  margin: 2px 2px 2px 0px;
+  position: relative;
+  padding-bottom: 5px;
+  padding-left: 0.857em;
+}
+.e-ddl-popup.e-wrap.e-js div > ul li .e-align {
+  
+}
+.e-ddl-popup.e-wrap {
+  
+}
+.e-ddl-popup.e-wrap .e-listbox li {
+  
+}
+.e-ddl-popup.e-wrap .e-listbox li.e-select {
+  
+}
+.e-ddl-popup.e-wrap .e-listbox li.e-hover {
+  
+}
+.e-ddl-popup div > .e-listbox li:empty {
+  
+}
+.e-ddl-popup.e-js {
+  max-height: inherit;
+  max-width: inherit;
+}
+.e-listbox .e-draggable {
+  touch-action: none;
+}

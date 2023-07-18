@@ -1,0 +1,243 @@
+/* Needs to check the purpose*/
+/*Common Colors end*/
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #212529;
+  border-color: #ced4da;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+/*Theme Color*/
+
+.e-lv .e-list-text {
+  
+}
+.e-lv .e-list-text {
+  font-size: 12px;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+/*List Item*/
+
+.e-lv .e-list {
+  
+}
+.e-lv .e-list {
+  border-bottom: 1px solid #ced4da;
+  font-size: 12px;
+}
+.e-lv .e-list .e-chevron-right_01.e-fontimage:before {
+  
+}
+.e-lv .e-list .e-chevron-right_01.e-fontimage:before {
+  color: #495057;
+}
+.e-lv .e-list.e-state-default {
+  background-color: white;
+  
+}
+.e-lv .e-list.e-state-default {
+  border-color: #dee2e6;
+}
+.e-lv .e-list.e-state-default > .e-chevron-right_01 .e-list-text {
+  
+}
+.e-lv .e-list.e-state-default > .e-chevron-right_01 .e-list-text {
+  color: #212529;
+}
+.e-lv .e-list.e-state-default:hover {
+  
+}
+.e-lv .e-list.e-state-default:hover {
+  color: #212529;
+}
+.e-lv .e-list.e-state-default:hover {
+  background: #e3e7eb;
+}
+.e-lv .e-list.e-state-default:hover > .e-chevron-right_01 .e-list-text {
+  color: #212529;
+}
+.e-lv .e-list:hover > .e-chevron-right_01.e-fontimage:before {
+  color: #212529;
+}
+.e-lv .e-list .e-chevron-right_01:hover {
+  color: #212529;
+}
+.e-lv .e-list.e-state-active {
+  
+}
+.e-lv .e-list.e-state-active {
+  color: white;
+}
+.e-lv .e-list.e-state-active {
+  background: #007bff;
+}
+.e-lv .e-list.e-state-active .e-chevron-right_01 .e-list-text {
+  
+}
+.e-lv .e-list.e-state-active .e-chevron-right_01 .e-list-text {
+  color: white;
+}
+.e-lv .e-list.e-state-active > .e-chevron-right_01.e-fontimage:before {
+  
+}
+.e-lv .e-list.e-state-active > .e-chevron-right_01.e-fontimage:before {
+  color: white;
+}
+/*Search Box*/
+
+.e-lv-inputdiv .e-lv-input {
+  border: 1px solid #ced4da;
+  border-radius: 7px;
+  font-size: 14px;
+}
+.e-lv .e-header {
+  
+}
+.e-lv .e-header {
+  color: #212529;
+  border: 1px solid #dee2e6;
+  
+}
+.e-lv .e-header {
+  background: #f8f9fa;
+}
+.e-lv .e-header {
+  border-bottom: 0px;
+}
+.e-lv.e-parentlv > .e-lv .e-list-container {
+  
+}
+.e-lv.e-parentlv > .e-lv .e-list-container {
+  
+}
+.e-lv.e-parentlv > .e-lv .e-list-container {
+  border-left: 1px solid #dee2e6;
+  border-right: 1px solid #dee2e6;
+  border-top: 1px solid #dee2e6;
+}
+.e-lv.e-parentlv > .e-lv.subpage {
+  border: none;
+}
+.e-nb .e-lv .subpage .e-content {
+  float: none;
+}
+.e-lv > .e-header:hover > .e-icon:before {
+  color: #212529;
+}
+.e-lv > .e-header > .e-icon:before,
+.e-lv > .e-header > .e-icon:hover:before {
+  
+}
+.e-lv > .e-header > .e-icon:before,
+.e-lv > .e-header > .e-icon:hover:before {
+  color: #495057;
+}
+.e-lv .e-list .e-lv-checkdiv.e-template-checkmark,
+.e-lv .e-template-list .e-list-check div {
+  float: none;
+  vertical-align: middle;
+  display: table-cell;
+}
+.e-lv .e-template-list .e-list-check div {
+  vertical-align: initial;
+}
+.e-lv .e-template-list .e-list-check {
+  display: table;
+}
+.e-lv .e-htitle,
+.e-lv .e-btn-text {
+  
+}
+.e-htitle,
+.e-btn-text {
+  
+}
+.e-lv .e-btn-text {
+  
+}
+.e-icon.e-chevron-left_01:before {
+  
+}
+.e-list-container .e-chkbox-wrap .e-chk-image.e-stop,
+.e-list-container .e-chkbox-wrap .e-chk-image.e-checkmark {
+  
+}
+.e-list-container .e-chkbox-wrap div > span.e-chk-act,
+.e-list-container .e-chkbox-wrap div > span.e-chk-indeter {
+  
+}
+.e-lv .e-list.e-state-default.e-arrow,
+.e-lv .e-list .e-chevron-right_01 {
+  
+}
+.e-lv .e-list-container .e-chkbox-wrap {
+  
+}
+.e-lv .e-list-container .e-icon.e-chevron-right_01:before {
+  
+}
+.e-lv .e-list .e-chevron-right_01 {
+  
+}
+.e-lv .e-icon.e-chevron-left_01:before {
+  
+}
+.e-lv .e-arrow .e-chevron-right_01:before,
+.e-lv .e-icon.e-chevron-left_01:before {
+  
+}
+.e-lv .e-list .e-lv-checkdiv {
+  
+}
+.e-lv.e-slideleft .e-header {
+  
+}
+.e-lv.e-slideleft .e-header .e-chevron-left_01 {
+  
+}
+.e-lv .e-icon.e-chevron-left_01:before {
+  
+}
+.e-list-container .e-load {
+  background-image: url(images/ajax-loader.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.e-lv .e-list-container .e-chkbox-wrap .e-chkbox-small > span {
+  top: 2px;
+}
