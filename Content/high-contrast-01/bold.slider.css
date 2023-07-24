@@ -1,0 +1,170 @@
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: #111111;
+  color: white;
+  border-color: gray;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- slider -------------------------------------------*/
+
+.e-slider.e-widget {
+  
+}
+.e-slider.e-widget {
+  
+}
+.e-slider.e-widget {
+  background-color: black;
+  border-color: gray;
+}
+.e-tooltipbox {
+  
+}
+.e-tooltipbox {
+  background-color: black;
+  border-color: gray;
+  color: #dbdb00;
+  
+}
+.e-slider .e-handle.e-select {
+  
+}
+.e-slider .e-handle.e-select {
+  
+}
+.e-slider .e-handle.e-select {
+  background-color: black;
+  border-color: gray;
+}
+.e-slider .e-handle.e-hover {
+  
+}
+.e-slider .e-handle.e-hover {
+  
+}
+.e-slider .e-handle.e-hover {
+  background-color: #035103;
+  border-color: white;
+}
+.e-slider .e-handle.e-focus {
+  
+}
+.e-slider .e-handle.e-focus {
+  
+}
+.e-slider .e-handle.e-focus {
+  background-color: #035103;
+  box-shadow: 0 0 2px black;
+  border-color: green;
+}
+.e-slider .e-range {
+  
+}
+.e-slider .e-range {
+  
+}
+.e-slider .e-range {
+  background: green;
+}
+.e-slider-wrap:hover .e-slider.e-widget {
+  
+}
+.e-slider-wrap:hover .e-slider .e-range {
+  
+}
+.e-slider-wrap:active .e-slider.e-widget {
+  
+}
+.e-slider-wrap:active .e-slider .e-range {
+  
+}
+.e-slider-wrap:hover .e-slider .e-handle {
+  
+}
+.e-slider-wrap:active .e-slider .e-handle {
+  
+}
+.e-slider-wrap.e-disable .e-slider.e-widget {
+  
+}
+.e-slider-wrap.e-horizontal.e-scale-wrap .e-slider.e-js,
+.e-slider-wrap.e-default-wrap.e-horizontal.e-scale-wrap .e-slider.e-js,
+.e-slider-wrap.e-vertical.e-scale-wrap .e-slider.e-js,
+.e-slider-wrap.e-default-wrap.e-vertical.e-scale-wrap .e-slider.e-js {
+  
+}
+.e-slider-wrap.e-disable .e-slider .e-range {
+  
+}
+.e-slider-wrap.e-disable,
+.e-slider.e-disable {
+  
+}
+.e-slider-wrap.e-disable .e-handle.e-select {
+  
+}
+.e-scale .e-tick {
+  background-image: url(images/slider-tick.png);
+}
+.e-slider-wrap .e-scale .e-tick .e-tick-value {
+  
+}
+.e-slider-wrap .e-scale .e-tick .e-tick-value {
+  color: white;
+}
+.e-slider .e-handle.e-select.e-handle-start {
+  
+}
+.e-slider .e-handle.e-select.e-handle-start.e-focus {
+  
+}
+.e-slider-wrap.e-disable .e-handle.e-select.e-handle-start:after {
+  
+}
+.e-slider .e-handle.e-select.e-focus:not(.e-no-tab):after {
+  
+}
+.e-slider .e-handle.e-select.e-focus.e-handle-start:not(.e-no-tab):after {
+  
+}
+.e-slider .e-handle.e-select.e-focus.e-handle-start:not(.e-no-tab) {
+  
+}
+.e-slider-wrap.e-disable .e-slider .e-handle:after {
+  
+}
+.e-slider-wrap .e-sliderbtn:not(.e-animate).e-select:not(:active):after {
+  
+}

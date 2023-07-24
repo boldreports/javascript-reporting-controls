@@ -1,0 +1,532 @@
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #cecece;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*Theme Color*/
+
+.e-tab.e-js.e-widget {
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  border: none;
+}
+.e-tab.e-js > .e-header > .e-item > .e-link,
+.e-tab.e-js > .e-left > .e-item > .e-link,
+.e-tab.e-js > .e-right > .e-item > .e-link {
+  
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  /*other*/
+
+  border: none;
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  background: #fcfcfc;
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  /*other*/
+
+  border: none;
+}
+.e-tab.e-js .e-header > .e-active.e-disable:hover {
+  background: transparent;
+}
+.e-tab.e-js .e-header > .e-active.e-disable:hover a {
+  
+}
+.e-tab.e-js .e-header > .e-active.e-disable:hover a {
+  /*material*/
+
+  
+}
+.e-tab.e-js .e-header > .e-active.e-disable:hover a {
+  color: #3277b2;
+}
+.e-tab.e-js .e-header > .e-rtl-bottom-line.e-active {
+  
+}
+.e-tab.e-js .e-header > .e-rtl-bottom-line.e-active {
+  /*material*/
+
+  
+}
+.e-tab.e-js .e-header > .e-rtl-bottom-line.e-active {
+  padding-top: 1px;
+  border-top: transparent;
+}
+.e-tab.e-js .e-header .e-select.e-disable a,
+.e-tab.e-js.e-disable a {
+  cursor: default;
+  
+}
+.e-tab > .e-header {
+  
+  border-left: none;
+}
+.e-tab > .e-header {
+  
+}
+.e-tab > .e-header {
+  /*other*/
+  border: none;
+}
+.e-tab .e-left {
+  
+}
+.e-tab .e-left {
+  
+}
+.e-tab .e-left {
+  /*other*/
+  border-right: 1px solid #cecece;
+}
+.e-tab .e-right {
+  
+}
+.e-tab .e-right {
+  
+}
+.e-tab .e-right {
+  /*other*/
+  border-left: 1px solid #cecece;
+}
+.e-tab.e-js .e-left .e-item.e-active,
+.e-tab.e-js .e-left .e-item.e-active:hover {
+  
+  outline: 0 none;
+  margin-right: -1px;
+}
+.e-tab.e-js .e-left .e-item.e-active,
+.e-tab.e-js .e-left .e-item.e-active:hover {
+  border-right: transparent;
+}
+.e-tab.e-js .e-right .e-item.e-active,
+.e-tab.e-js .e-right .e-item.e-active:hover {
+  
+  margin-left: -1px;
+  outline: 0 none;
+}
+.e-tab.e-js .e-right .e-item.e-active,
+.e-tab.e-js .e-right .e-item.e-active:hover {
+  border-left: transparent;
+}
+.e-scrolltab.e-js .e-header > .e-bottom-line.e-item.e-active,
+.e-scrolltab.e-js .e-header > .e-bottom-line.e-item.e-active:hover {
+  border: 1px solid #cccccc;
+}
+.e-tab .e-left .e-item.e-active,
+.e-tab .e-right .e-item.e-active {
+  border-bottom: 1px solid #cecece;
+  position: relative;
+}
+.e-tab .e-header li {
+  border-top: 0px;
+}
+.e-tab.e-js .e-header > .e-bottom-line.e-active,
+.e-tab.e-js .e-header > .e-bottom-line.e-active:hover {
+  
+  outline: 0 none;
+}
+.e-tab.e-js .e-header > .e-bottom-line.e-active,
+.e-tab.e-js .e-header > .e-bottom-line.e-active:hover {
+  /*other*/
+
+  padding-bottom: 1px;
+  border-bottom: transparent;
+}
+.e-tab.e-js .e-header > .e-top-line.e-active,
+.e-tab.e-js .e-header > .e-top-line.e-active:hover {
+  
+  padding-top: 1px;
+  outline: 0 none;
+}
+.e-tab.e-js .e-header > .e-top-line.e-active,
+.e-tab.e-js .e-header > .e-top-line.e-active:hover {
+  /*other*/
+
+  border-top: transparent;
+}
+.e-tab .e-left li,
+.e-tab .e-right li {
+  border-bottom: 1px solid #cecece;
+}
+.e-tab.e-vertical {
+  background: transparent;
+  border: 1px solid #cecece;
+}
+.e-tab.e-js .e-header > .e-item:hover,
+.e-tab.e-js .e-left > .e-item:hover,
+.e-tab.e-js .e-right > .e-item:hover {
+  filter: none;
+  
+}
+.e-tab.e-js .e-header > .e-item:hover,
+.e-tab.e-js .e-left > .e-item:hover,
+.e-tab.e-js .e-right > .e-item:hover {
+  background-color: #f4f4f4;
+  color: #333333;
+}
+.e-tab.e-js .e-icon.e-chevron-circle-left,
+.e-tab.e-js .e-icon.e-chevron-circle-right {
+  
+}
+.e-tab.e-js .e-icon.e-chevron-circle-left,
+.e-tab.e-js .e-icon.e-chevron-circle-right {
+  
+}
+.e-tab.e-js .e-icon.e-chevron-circle-left,
+.e-tab.e-js .e-icon.e-chevron-circle-right {
+  /*other*/
+  color: #3277b2;
+}
+.e-tab.e-js .e-header > .e-item:hover > .e-icon,
+.e-tab.e-js .e-left > .e-item:hover > .e-icon,
+.e-tab.e-js .e-right > .e-item:hover > .e-icon {
+  
+}
+.e-tab.e-js .e-header > .e-item:hover > .e-icon,
+.e-tab.e-js .e-left > .e-item:hover > .e-icon,
+.e-tab.e-js .e-right > .e-item:hover > .e-icon {
+  color: #333333;
+}
+.e-tab.e-js > .e-content {
+  
+  font-size: 14px;
+  border-style: solid;
+}
+.e-tab.e-js > .e-content {
+  
+}
+.e-tab.e-js > .e-content {
+  /*other*/
+  border-width: 1px;
+  background: white;
+  color: #333333;
+}
+.e-tab.e-js > .e-content {
+  border-color: #cecece;
+}
+.e-tab.e-js .e-header > .e-select,
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active,
+.e-tab.e-js .e-left > .e-select,
+.e-tab.e-js .e-right > .e-select {
+  
+  border-color: #cecece;
+  color: #333333;
+  border: none;
+  background: none;
+}
+.e-tab.e-js .e-header > .e-select,
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active,
+.e-tab.e-js .e-left > .e-select,
+.e-tab.e-js .e-right > .e-select {
+  
+}
+.e-tab.e-js .e-header > .e-select,
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active,
+.e-tab.e-js .e-left > .e-select,
+.e-tab.e-js .e-right > .e-select {
+  /*other*/
+
+  font-weight: normal;
+  font-size: 16px;
+}
+.e-tab.e-js .e-header > .e-select,
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active,
+.e-tab.e-js .e-left > .e-select,
+.e-tab.e-js .e-right > .e-select {
+  background: #fcfcfc;
+}
+.e-tab .e-header > .e-select a,
+.e-tab .e-left > .e-select a,
+.e-tab .e-right > .e-select a {
+  
+}
+.e-tab .e-header > .e-select a,
+.e-tab .e-left > .e-select a,
+.e-tab .e-right > .e-select a {
+  /*other*/
+
+  
+}
+.e-tab .e-header > .e-select a,
+.e-tab .e-left > .e-select a,
+.e-tab .e-right > .e-select a {
+  
+}
+.e-tab .e-header > .e-select a,
+.e-tab .e-left > .e-select a,
+.e-tab .e-right > .e-select a {
+  
+}
+.e-tab .e-header > .e-select a,
+.e-tab .e-left > .e-select a,
+.e-tab .e-right > .e-select a {
+  color: #333333;
+}
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active {
+  
+}
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active {
+  
+}
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active {
+  /*other*/
+
+  color: #3277b2;
+  border-color: #cecece;
+  border: 1px solid #cecece;
+}
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active {
+  background: white;
+}
+.e-tab.e-js .e-header > .e-select,
+.e-tab.e-js .e-left > .e-select,
+.e-tab.e-js .e-right > .e-select {
+  
+}
+.e-tab.e-js .e-header > .e-active:hover,
+.e-tab.e-js .e-left > .e-active:hover,
+.e-tab.e-js .e-right > .e-active:hover,
+.e-tab.e-js .e-header.e-item:hover,
+.e-tab.e-js .e-left.e-item:hover,
+.e-tab.e-js .e-right.e-item:hover {
+  
+}
+.e-tab.e-js .e-header > .e-active:hover,
+.e-tab.e-js .e-left > .e-active:hover,
+.e-tab.e-js .e-right > .e-active:hover,
+.e-tab.e-js .e-header.e-item:hover,
+.e-tab.e-js .e-left.e-item:hover,
+.e-tab.e-js .e-right.e-item:hover {
+  background: #f4f4f4;
+  color: #333333;
+}
+.e-tab .e-header > .e-active a,
+.e-tab .e-left > .e-active a,
+.e-tab .e-right > .e-active a {
+  
+}
+.e-tab .e-header > .e-active a,
+.e-tab .e-left > .e-active a,
+.e-tab .e-right > .e-active a {
+  
+}
+.e-tab .e-header > .e-active a,
+.e-tab .e-left > .e-active a,
+.e-tab .e-right > .e-active a {
+  /*other*/
+
+  
+  color: #3277b2;
+}
+.e-tab .e-header > .e-select:hover a,
+.e-tab .e-left > .e-select:hover a,
+.e-tab .e-right > .e-select:hover a {
+  
+}
+.e-tab .e-header > .e-select:hover a,
+.e-tab .e-left > .e-select:hover a,
+.e-tab .e-right > .e-select:hover a {
+  /*other*/
+
+  
+}
+.e-tab .e-header > .e-select:hover a,
+.e-tab .e-left > .e-select:hover a,
+.e-tab .e-right > .e-select:hover a {
+  color: #333333;
+}
+.e-tab .e-header > .e-active:hover a,
+.e-tab .e-left > .e-active:hover a,
+.e-tab .e-right > .e-active:hover a {
+  /*other*/
+
+  color: #333333;
+}
+.e-tab .e-load {
+  background-image: url(images/ajax-loader.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.e-tab .e-hidebottom {
+  border-top: none !important;
+}
+.e-tab .e-hidetop {
+  border-bottom: none !important;
+}
+.e-tab .e-header.e-addborderbottom {
+  
+}
+.e-tab .e-header.e-addborderbottom {
+  
+}
+.e-tab .e-header.e-addborderbottom {
+  
+}
+.e-tab .e-header.e-addborderbottom {
+  border-bottom: 1px solid #cecece;
+}
+.e-tab .e-header.e-addbordertop {
+  
+}
+.e-tab .e-header.e-addbordertop {
+  
+}
+.e-tab .e-header.e-addbordertop {
+  /*other*/
+  border-top: 1px solid #cecece;
+}
+.e-tab .e-header.e-hideleft {
+  border-left: none;
+}
+.e-tab .e-header.e-addborderleft {
+  border-right: 1px solid #cecece;
+}
+.e-tab .e-header.e-hideright {
+  border-right: none;
+}
+.e-tab .e-header.e-addborderright {
+  border-left: 1px solid #cecece;
+}
+.e-tab .e-header .e-margine-top:hover {
+  
+}
+.e-tab .e-header .e-margine-top:hover {
+  /*other*/
+  border-top: 1px solid #ebebeb;
+}
+.e-tab .e-header .e-margine-bottom:hover {
+  border-bottom: 1px solid #ebebeb;
+}
+.e-tab .e-header.e-addborderbottom .e-active {
+  
+}
+.e-tab .e-header.e-addborderbottom .e-active {
+  border-top: 3px solid #3277b2;
+  
+}
+.e-tab .e-header.e-addbordertop .e-active {
+  
+}
+.e-tab .e-header.e-addbordertop .e-active {
+  border-bottom: 3px solid #3277b2;
+}
+.e-tab .e-right.e-addborderright .e-active {
+  border-right: 3px solid #3277b2;
+}
+.e-tab .e-left.e-addborderleft .e-active {
+  border-left: 3px solid #3277b2;
+}
+.e-tab.e-js.e-tabscroll > .e-content {
+  
+}
+.e-tab.e-js.e-tabscroll > .e-content {
+  /*other*/
+  padding-top: 44.3333px;
+}
+.e-tab.e-js.e-tabscroll > .e-header.e-addborderbottom {
+  
+}
+.e-tab.e-js.e-tabscroll > .e-header.e-addborderbottom {
+  
+}
+.e-tab.e-js.e-tabscroll > .e-header.e-addborderbottom {
+  /*other*/
+  border-bottom: 1px solid #bbbcbb;
+}
+.e-tab.e-js .e-header .e-icon.e-chevron-circle-left {
+  
+}

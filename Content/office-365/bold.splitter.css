@@ -1,0 +1,274 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- splitter -------------------------------------------*/
+
+.e-splitter {
+  border-color: #c8c8c8;
+}
+.e-splitter .e-pane {
+  background-color: white;
+  color: #212121;
+}
+.e-splitter .e-splitbar.e-shadowbar.e-end-indicaton,
+.e-splitter .e-splitbar .e-end-indicaton {
+  background-color: #fef1ec;
+}
+.e-splitter .e-splitbar.e-shadowbar {
+  
+}
+.e-splitter .e-splitbar.e-shadowbar {
+  background: #0078d7;
+}
+.e-splitter .e-splitbar {
+  
+}
+.e-splitter .e-splitbar {
+  background-color: white;
+}
+.e-splitter .e-splitbar {
+  border-color: #c8c8c8;
+}
+.e-splitter .e-splitbar .e-icon {
+  color: #666666;
+}
+.e-splitter .e-splitbar:hover .e-icon,
+.e-splitter .e-splitbar.e-hover .e-icon {
+  color: #666666;
+}
+.e-splitter .e-hover.e-splitbar.e-split-divider,
+.e-splitter .e-splitbar.e-split-divider:hover {
+  
+}
+.e-splitter .e-hover.e-splitbar.e-split-divider,
+.e-splitter .e-splitbar.e-split-divider:hover {
+  background-color: #dadada;
+}
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-left:before {
+  
+}
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-right:before {
+  
+}
+.e-splitter .e-splitbar > .e-icon.v-backward:before,
+.e-splitter .e-splitbar > .e-icon.e-arrow-sans-left:before,
+.e-splitter .e-splitbar > .e-icon:before {
+  
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-right {
+  
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-right {
+  margin-top: 35px;
+  margin-left: 1px;
+  font-size: 12px;
+  width: 12px;
+  color: #767676;
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-left {
+  
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-left {
+  left: 3px;
+  width: 12px;
+  font-size: 12px;
+  margin-top: -20px;
+  color: #767676;
+}
+.e-splitter .e-splitbar.e-h-bar {
+  
+}
+.e-splitter .e-splitbar.e-h-bar {
+  width: 12px;
+  border: none;
+  background-color: #eaeaea;
+}
+.e-splitter .e-splitbar .e-activebar {
+  
+}
+.e-splitter .e-splitbar .e-activebar {
+  display: block;
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-left {
+  
+}
+/*&.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-right {
+  & when (@skin= "material") {
+     top:62%;
+  }
+}*/
+
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-up:before {
+  
+}
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-down:before {
+  
+}
+.e-splitter .e-splitbar.e-v-bar {
+  
+}
+.e-splitter .e-splitbar.e-v-bar {
+  height: 12px;
+  border: none;
+  background-color: #eaeaea;
+}
+.e-splitter .e-splitbar .e-v-arrow.e-icon.e-arrow-sans-up:before {
+  content: "\e625";
+}
+.e-splitter .e-splitbar .e-v-arrow.e-arrow-sans-up {
+  
+}
+.e-splitter .e-splitbar .e-v-arrow.e-arrow-sans-up {
+  height: 12px;
+  margin-left: 32px;
+  margin-top: 4px;
+  font-size: 12px;
+  color: #767676;
+}
+.e-splitter .e-splitbar .e-v-arrow.e-icon.e-arrow-sans-down:before {
+  content: "\e627";
+}
+.e-splitter .e-splitbar .e-v-arrow.e-arrow-sans-down {
+  
+}
+.e-splitter .e-splitbar .e-v-arrow.e-arrow-sans-down {
+  height: 12px;
+  margin-left: -24px;
+  margin-top: 1px;
+  font-size: 12px;
+  color: #767676;
+}
+.e-splitter .e-splitbar.e-v-bar .e-activebar {
+  
+}
+.e-splitter .e-splitbar.e-v-bar .e-activebar {
+  font-family: 'ej-webfont';
+  margin-top: -3.5px;
+  font-size: 19px;
+  width: 20px;
+  line-height: normal;
+  cursor: n-resize;
+}
+.e-splitter .e-splitbar.e-v-bar .e-activebar:before {
+  content: "\e871";
+}
+.e-splitter .e-splitbar.e-h-bar .e-activebar {
+  
+}
+.e-splitter .e-splitbar.e-h-bar .e-activebar {
+  font-family: 'ej-webfont';
+  margin-left: 3.5px;
+  height: 20px;
+  font-size: 19px;
+  cursor: e-resize;
+}
+.e-splitter .e-splitbar.e-h-bar .e-activebar:before {
+  
+}
+.e-splitter .e-splitbar.e-h-bar .e-activebar:before {
+  content: "\e872";
+}
+.e-splitter .e-h-arrow.e-arrow-sans-right {
+  
+}
+.e-splitter .e-v-arrow.e-arrow-sans-down {
+  
+}
+.e-splitter .e-splitbar.e-h-bar.e-icon-hide .e-activebar,
+.e-splitter .e-splitbar.e-v-bar.e-icon-hide .e-activebar {
+  display: none !important;
+}
+.e-splitter .e-splitbar.e-h-bar.e-icon-hide .e-icon.e-arrow-sans-right {
+  margin-top: 0;
+  margin-left: 4px;
+}
+.e-splitter .e-splitbar.e-h-bar.e-icon-hide .e-icon.e-arrow-sans-left {
+  margin-top: 0;
+  margin-left: -3px;
+}
+.e-splitter .e-splitbar.e-v-bar.e-icon-hide .e-icon.e-arrow-sans-up {
+  margin-left: 0;
+  margin-top: 1px;
+}
+.e-splitter .e-splitbar.e-v-bar.e-icon-hide .e-icon.e-arrow-sans-down {
+  margin-left: 0;
+  margin-top: 3px;
+}
+.e-splitter.e-rtl .e-h-arrow.e-arrow-sans-left {
+  
+}
+.e-splitter.e-rtl .e-h-arrow.e-arrow-sans-right {
+  
+}
+.e-splitter.e-rtl .e-h-arrow.e-arrow-sans-right {
+  left: -4px;
+}
+.e-splitter.e-rtl .e-splitbar.e-h-bar .e-activebar {
+  
+}
+.e-splitter.e-rtl .e-splitbar.e-h-bar .e-activebar {
+  margin-right: 5px;
+}
+.e-splitter.e-rtl .e-splitbar .e-v-arrow.e-arrow-sans-up {
+  
+}
+.e-splitter .e-splitbar.e-v-bar.e-resize {
+  
+}
+.e-splitter .e-splitbar.e-h-bar.e-resize {
+  
+}
+.e-splitter .e-splitbar .e-splitter-h-template {
+  cursor: pointer;
+  position: fixed;
+  top: 30%;
+}
+.e-splitter .e-splitbar .e-splitter-v-template {
+  cursor: pointer;
+  position: fixed;
+  left: 49%;
+}

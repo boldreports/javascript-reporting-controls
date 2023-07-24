@@ -1,0 +1,180 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- listbox -------------------------------------------*/
+
+.e-listbox .e-select {
+  
+}
+.e-listbox .e-select {
+  background: #deecf9;
+  border-color: #deecf9;
+  color: #333333;
+}
+.e-listbox .e-active {
+  color: white;
+  border-color: #eaeaea;
+}
+.e-listbox .e-active {
+  background: #eaeaea;
+}
+.e-listbox .e-hover {
+  
+}
+.e-listbox .e-hover {
+  background: #f4f4f4;
+  color: #333333;
+}
+.e-dragClonelist {
+  
+}
+.e-dragClonelist {
+  background: #deecf9;
+  text-align: center;
+  color: #333333;
+  line-height: 36px;
+  padding: 0 12px !important;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-size: 13px;
+}
+.e-wrap .e-listbox li {
+  
+  word-break: break-all;
+}
+.e-wrap .e-listbox li {
+  padding: 0px 12px !important;
+}
+.e-rtl.e-wrap .e-listbox li {
+  
+}
+.e-rtl.e-wrap .e-listbox li {
+  padding-left: 12px !important;
+}
+.e-nowrap .e-listbox li {
+  padding-left: 10px !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.e-ddl-popup.e-load {
+  background-image: url(images/ajax-loader.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.e-ddl-popup.e-wrap .e-listbox li.allowDrop {
+  background-color: #eaeaea;
+}
+.e-ddl-popup.e-wrap.e-js {
+  
+}
+.e-listbox .e-chkbox-wrap .e-chkbox-small .e-chk-inact,
+.e-listbox .e-chkbox-wrap .e-chkbox-small .e-chk-act {
+  
+}
+.e-listbox .e-chkbox-wrap .e-chkbox-small .e-chk-inact,
+.e-listbox .e-chkbox-wrap .e-chkbox-small .e-chk-act {
+  top: 4px;
+}
+.e-listbox .e-chkbox-wrap .e-chkbox-small .e-chk-act .e-checkmark {
+  
+}
+.e-ddl-popup.e-wrap.e-js div > ul li .e-chkbox-wrap,
+.e-ddl-popup div > .e-listbox li .e-chkbox-wrap {
+  
+}
+.e-ddl-popup.e-wrap.e-js div > ul li .e-chkbox-wrap,
+.e-ddl-popup div > .e-listbox li .e-chkbox-wrap {
+  padding-right: 12px;
+}
+.e-ddl-popup div > .e-ul .e-ghead {
+  
+}
+.e-ddl-popup div > .e-ul .e-ghead {
+  border-bottom: 1px solid #eaeaea;
+  display: block;
+  margin: 2px 2px 2px 0px;
+  position: relative;
+  font-size: 14px;
+  font-weight: 400;
+  color: #666666;
+  padding-left: 12px;
+  line-height: 36px;
+}
+.e-ddl-popup.e-wrap.e-js div > ul li .e-align {
+  
+}
+.e-ddl-popup.e-wrap.e-js div > ul li .e-align {
+  padding-right: 12px;
+  padding-top: 10px;
+}
+.e-ddl-popup.e-wrap {
+  color: #333333;
+  font-size: 13px;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-weight: 400;
+  border-color: #eaeaea;
+}
+.e-ddl-popup.e-wrap .e-listbox li {
+  line-height: 36px;
+  background-color: initial;
+}
+.e-ddl-popup.e-wrap .e-listbox li.e-select {
+  background-color: #deecf9;
+}
+.e-ddl-popup.e-wrap .e-listbox li.e-hover {
+  background-color: #f4f4f4;
+}
+.e-ddl-popup div > .e-listbox li:empty {
+  min-height: 36px !important;
+}
+.e-ddl-popup.e-js {
+  max-height: inherit;
+  max-width: inherit;
+}
+.e-listbox .e-draggable {
+  touch-action: none;
+}

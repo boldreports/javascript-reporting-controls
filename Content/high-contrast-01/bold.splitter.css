@@ -1,0 +1,201 @@
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: #111111;
+  color: white;
+  border-color: gray;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- splitter -------------------------------------------*/
+
+.e-splitter {
+  border-color: gray;
+}
+.e-splitter .e-pane {
+  background-color: black;
+  color: #dbdb00;
+}
+.e-splitter .e-splitbar.e-shadowbar.e-end-indicaton,
+.e-splitter .e-splitbar .e-end-indicaton {
+  background-color: #fef1ec;
+}
+.e-splitter .e-splitbar.e-shadowbar {
+  
+}
+.e-splitter .e-splitbar.e-shadowbar {
+  background: green;
+}
+.e-splitter .e-splitbar {
+  
+}
+.e-splitter .e-splitbar {
+  background-color: black;
+}
+.e-splitter .e-splitbar {
+  border-color: gray;
+}
+.e-splitter .e-splitbar .e-icon {
+  color: white;
+}
+.e-splitter .e-splitbar:hover .e-icon,
+.e-splitter .e-splitbar.e-hover .e-icon {
+  color: white;
+}
+.e-splitter .e-hover.e-splitbar.e-split-divider,
+.e-splitter .e-splitbar.e-split-divider:hover {
+  
+}
+.e-splitter .e-hover.e-splitbar.e-split-divider,
+.e-splitter .e-splitbar.e-split-divider:hover {
+  background-color: #035103;
+  border-color: white;
+}
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-left:before {
+  
+}
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-right:before {
+  
+}
+.e-splitter .e-splitbar > .e-icon.v-backward:before,
+.e-splitter .e-splitbar > .e-icon.e-arrow-sans-left:before,
+.e-splitter .e-splitbar > .e-icon:before {
+  
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-right {
+  
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-left {
+  
+}
+.e-splitter .e-splitbar.e-h-bar {
+  
+}
+.e-splitter .e-splitbar .e-activebar {
+  
+}
+.e-splitter .e-splitbar .e-activebar {
+  display: none;
+}
+.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-left {
+  
+}
+/*&.e-splitter .e-splitbar .e-h-arrow.e-arrow-sans-right {
+  & when (@skin= "material") {
+     top:62%;
+  }
+}*/
+
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-up:before {
+  
+}
+.e-splitter .e-splitbar .e-icon.e-arrow-sans-down:before {
+  
+}
+.e-splitter .e-splitbar.e-v-bar {
+  
+}
+.e-splitter .e-splitbar .e-v-arrow.e-icon.e-arrow-sans-up:before {
+  
+}
+.e-splitter .e-splitbar .e-v-arrow.e-arrow-sans-up {
+  
+}
+.e-splitter .e-splitbar .e-v-arrow.e-icon.e-arrow-sans-down:before {
+  
+}
+.e-splitter .e-splitbar .e-v-arrow.e-arrow-sans-down {
+  
+}
+.e-splitter .e-splitbar.e-v-bar .e-activebar {
+  
+}
+.e-splitter .e-splitbar.e-v-bar .e-activebar:before {
+  
+}
+.e-splitter .e-splitbar.e-h-bar .e-activebar {
+  
+}
+.e-splitter .e-splitbar.e-h-bar .e-activebar:before {
+  
+}
+.e-splitter .e-h-arrow.e-arrow-sans-right {
+  
+}
+.e-splitter .e-v-arrow.e-arrow-sans-down {
+  
+}
+.e-splitter .e-splitbar.e-h-bar.e-icon-hide .e-activebar,
+.e-splitter .e-splitbar.e-v-bar.e-icon-hide .e-activebar {
+  
+}
+.e-splitter .e-splitbar.e-h-bar.e-icon-hide .e-icon.e-arrow-sans-right {
+  
+}
+.e-splitter .e-splitbar.e-h-bar.e-icon-hide .e-icon.e-arrow-sans-left {
+  
+}
+.e-splitter .e-splitbar.e-v-bar.e-icon-hide .e-icon.e-arrow-sans-up {
+  
+}
+.e-splitter .e-splitbar.e-v-bar.e-icon-hide .e-icon.e-arrow-sans-down {
+  
+}
+.e-splitter.e-rtl .e-h-arrow.e-arrow-sans-left {
+  
+}
+.e-splitter.e-rtl .e-h-arrow.e-arrow-sans-right {
+  
+}
+.e-splitter.e-rtl .e-splitbar.e-h-bar .e-activebar {
+  
+}
+.e-splitter.e-rtl .e-splitbar .e-v-arrow.e-arrow-sans-up {
+  
+}
+.e-splitter .e-splitbar.e-v-bar.e-resize {
+  
+}
+.e-splitter .e-splitbar.e-h-bar.e-resize {
+  
+}
+.e-splitter .e-splitbar .e-splitter-h-template {
+  cursor: pointer;
+  position: fixed;
+  top: 30%;
+}
+.e-splitter .e-splitbar .e-splitter-v-template {
+  cursor: pointer;
+  position: fixed;
+  left: 49%;
+}

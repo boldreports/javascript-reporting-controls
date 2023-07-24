@@ -1,5 +1,5 @@
 var fs = require('fs');
-const VIEWER_WIDGETS = ['web/ej.editor','web/ej.button','web/ej.checkbox','web/ej.toolbar','web/ej.tooltip','web/ej.treeview','web/ej.splitter','web/ej.waitingpopup','web/ej.radiobutton','web/ej.datepicker','web/ej.timepicker','web/ej.datetimepicker','web/ej.dropdownlist','web/ej.dialog','web/ej.maskedit'];
+const VIEWER_WIDGETS = ['common/ej.core','common/ej.data','common/ej.touch','common/ej.draggable','common/ej.scroller','common/ej.globalize'];
 const DESIGNER_WIDGETS = ['web/ej.autocomplete','web/ej.combobox','web/ej.daterangepicker','web/ej.listview','web/ej.listbox','web/ej.menu','web/ej.pager','web/ej.slider','web/ej.splitbutton','web/ej.tab','web/ej.uploadbox','web/ej.colorpicker','web/ej.excelfilter'];
 const EJ1_WIDGETS_ROOT = `syncfusion-javascript/Scripts/ej/`;
 
