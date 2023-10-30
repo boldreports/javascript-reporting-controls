@@ -1,0 +1,102 @@
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #cecece;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*Theme Color*/
+
+.e-rangeScroll-select {
+  fill: #fcfcfc;
+  stroke: #cecece;
+}
+.e-rangeScroll-select:hover {
+  fill: #f4f4f4;
+  stroke: #cecece;
+}
+.e-rangeScroll-select:active {
+  fill: #f4f4f4;
+  stroke: #cecece;
+}
+.e-rangeScroll-select-hover {
+  fill: #f4f4f4;
+  stroke: #cecece;
+}
+.e-rangeScroll-backRect {
+  fill: white;
+  stroke: #cecece;
+}
+.e-rangeScroll-arrow {
+  fill: #666666;
+  stroke: #666666;
+}
+.e-rangeScroll-arrow:hover {
+  fill: #333333;
+  stroke: #333333;
+}
+.e-rangeScroll-arrow:active {
+  fill: #333333;
+  stroke: #333333;
+}
+.e-rangeScroll-centerShape {
+  fill: #666666;
+  stroke: #666666;
+}
+.e-rangeScroll-leftCircle,
+.e-rangeScroll-rightCircle {
+  fill: #666666;
+  stroke: #666666;
+}
+.e-rangeScroll-leftCircle:hover,
+.e-rangeScroll-rightCircle:hover {
+  fill: #333333;
+  stroke: #333333;
+}
+.e-rangeScroll-leftCircle:active,
+.e-rangeScroll-rightCircle:active {
+  fill: #333333;
+  stroke: #333333;
+}
+.e-rangeScroll-leftRect:hover + .e-rangeScroll-leftCircle,
+.e-rangeScroll-rightRect:hover + .e-rangeScroll-rightCircle,
+.e-rangeScroll-leftRect:active + .e-rangeScroll-leftCircle,
+.e-rangeScroll-rightRect:active + .e-rangeScroll-rightCircle {
+  fill: #333333;
+  stroke: #333333;
+}

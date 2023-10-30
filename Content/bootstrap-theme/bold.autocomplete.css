@@ -1,0 +1,374 @@
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #cecece;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- autocomplete -------------------------------------------*/
+
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  background-color: white;
+  border-color: #cecece;
+  
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  color: #333333;
+  font-size: 14px;
+  font-weight: normal;
+}
+.e-atc-popup {
+  
+}
+.e-atc-popup .e-hilight-txt {
+  
+}
+.e-atc .e-options.e-active {
+  
+  color: white;
+}
+.e-atc .e-options.e-active {
+  border-color: #cecece;
+}
+.e-atc .e-options.e-active {
+  background: #3277b2;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3277b2, #296293);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3277b2), color-stop(100%, #296293));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3277b2, #296293);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3277b2, #296293);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3277b2, #296293);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #3277b2, #296293);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3277b2', endColorstr='#296293', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-atc .e-options.e-active:hover,
+.e-atc .e-options:hover {
+  
+}
+.e-atc .e-options.e-active:hover,
+.e-atc .e-options:hover {
+  color: #333333;
+  border-color: #cecece;
+}
+.e-atc .e-options.e-active:hover,
+.e-atc .e-options:hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-atc .e-boxes {
+  background-color: white;
+}
+.e-atc.e-focus .e-in-wrap {
+  
+}
+.e-atc.e-focus .e-in-wrap {
+  
+  border-color: #cecece;
+}
+.e-atc.e-focus .e-in-wrap {
+  box-shadow: 0 0 7px rgba(154, 146, 203, 0.87);
+}
+.e-atc .e-in-wrap input.e-input,
+input[type="text"].e-input {
+  
+}
+.e-atc:hover .e-in-wrap {
+  
+}
+.e-atc:hover .e-in-wrap {
+  border-color: #cecece;
+}
+.e-atc-popup .e-category {
+  border-bottom: 1px solid #cecece;
+}
+.e-atc-popup .e-hover,
+.e-atc-popup .e-content .e-atc-trbgcolor.e-hover {
+  
+}
+.e-atc-popup .e-hover,
+.e-atc-popup .e-content .e-atc-trbgcolor.e-hover {
+  color: #333333;
+  border-color: #f4f4f4;
+}
+.e-atc-popup .e-hover,
+.e-atc-popup .e-content .e-atc-trbgcolor.e-hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-atc .e-select:hover,
+.e-atc.e-rtl .e-select:hover {
+  
+}
+.e-atc .e-select:hover,
+.e-atc.e-rtl .e-select:hover {
+  
+}
+.e-atc .e-select:hover,
+.e-atc.e-rtl .e-select:hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-atc .e-select:hover,
+.e-atc.e-rtl .e-select:hover {
+  border-color: #cecece;
+  color: #333333;
+}
+.e-atc-popup ul li,
+.e-atc-popup.e-rtl ul li {
+  
+}
+.e-atc .e-select,
+.e-atc.e-rtl .e-select,
+.e-atc .e-select.e-disable:hover {
+  
+}
+.e-atc .e-select,
+.e-atc.e-rtl .e-select,
+.e-atc .e-select.e-disable:hover {
+  border-color: #cecece;
+  color: #666666;
+  background: #fcfcfc;
+  /* Old browsers */
+
+}
+.e-atc .e-input.e-load {
+  background-image: url(images/ajax-loader.gif);
+}
+.e-atc ::-webkit-input-placeholder {
+  
+}
+.e-atc ::-webkit-input-placeholder {
+  color: #333333;
+}
+.e-atc :-ms-input-placeholder {
+  
+}
+.e-atc :-ms-input-placeholder {
+  color: #333333;
+}
+.e-atc ::-moz-placeholder {
+  
+}
+.e-atc ::-moz-placeholder {
+  color: #333333;
+}
+.e-atc :-moz-placeholder {
+  
+}
+.e-atc :-moz-placeholder {
+  color: #333333;
+}
+.e-atc-popup .e-atc-tdbottom,
+.e-atc-popup div.e-atc-tableHeader {
+  border-bottom: 1px solid #cecece;
+}
+.e-atc-popup .e-atc-tdright,
+.e-atc-popup .e-atc-tableHeaderScroll .e-atc-tableHeaderBorder,
+.e-atc-popup div .e-atc-thright {
+  border-right: 1px solid #cecece;
+}
+.e-atc-popup .e-atc-tdleft,
+.e-atc-popup .e-atc-tableHeaderRTL .e-atc-tableHeaderBorder,
+.e-atc-popup div .e-atc-thleft {
+  border-left: 1px solid #cecece;
+}
+.e-atc-popup .e-atc-tableHeaderContent th {
+  background: white;
+  
+}
+.e-atc-popup .e-content .e-atc-trbgcolor {
+  background: white;
+  
+}
+.e-atc .e-in-wrap {
+  
+}
+.e-atc .e-in-wrap,
+.e-atc .e-in-wrap .e-input {
+  
+}
+.e-atc .e-in-wrap input.e-input,
+input[type="text"].e-input {
+  
+}
+.e-atc-popup {
+  
+}
+.e-atc .e-input::selection {
+  
+}
+.e-atc .e-input::-moz-selection {
+  
+}
+.e-atc.e-disable-wrap .e-in-wrap {
+  
+}
+.e-atc.e-disable-wrap .e-in-wrap {
+  background-color: #eeeeee;
+  border-color: #cccccc;
+}
+.e-atc .e-in-wrap:before,
+.e-atc .e-in-wrap:after {
+  
+}
+.e-atc .e-select.e-active,
+.e-atc .e-select:hover {
+  
+}
+.e-atc .e-select:after {
+  
+}
+.e-atc .e-select {
+  
+}
+.e-atc .e-visual-mode.e-input {
+  
+}
+.e-atc-popup .e-ul .txt {
+  
+}
+.e-atc-popup .e-ul .flag {
+  
+}
+.e-atc .e-select .e-icon.e-search {
+  
+}
+.e-atc .e-autocomplete.e-input {
+  
+}
+.e-atc .e-select:active {
+  
+}
+.e-atc .e-select.e-disable,
+.e-atc .e-select.e-disable:hover {
+  
+}
+.e-atc .e-select.e-disable,
+.e-atc .e-select.e-disable:hover {
+  background-color: #d6d7d7;
+}
+.e-atc .e-options .e-icon.e-close {
+  
+}
+.e-atc .e-options.e-active .e-icon.e-close {
+  
+}
+.e-atc .e-options {
+  
+}
+.e-atc .e-visual-mode.e-input {
+  
+}
+.e-atc-popup .e-atc-tableContent td {
+  
+}
+.e-atc .e-options.e-active:hover .e-icon.e-close {
+  
+}
+.e-atc .e-in-wrap.e-padding {
+  
+}
+.e-atc .e-in-wrap.e-padding:before,
+.e-atc .e-in-wrap.e-padding:after {
+  
+}
+.e-atc-popup .e-activeli,
+.e-atc-popup .e-content .e-activeli {
+  background: #3277b2;
+  
+}

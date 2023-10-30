@@ -1,0 +1,456 @@
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #cecece;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/* ------- editor less ----------- */
+
+.e-numeric,
+.e-percent,
+.e-currency,
+.e-mask {
+  
+}
+.e-numeric,
+.e-percent,
+.e-currency,
+.e-mask {
+  background-color: white;
+}
+.e-numeric:hover .e-in-wrap,
+.e-percent:hover .e-in-wrap,
+.e-currency:hover .e-in-wrap,
+.e-mask:hover .e-in-wrap {
+  
+}
+.e-numeric:hover .e-in-wrap,
+.e-percent:hover .e-in-wrap,
+.e-currency:hover .e-in-wrap,
+.e-mask:hover .e-in-wrap {
+  /*other*/
+
+  border-color: #cecece;
+  
+}
+.e-numeric.e-disable-wrap .e-in-wrap,
+.e-percent.e-disable-wrap .e-in-wrap,
+.e-currency.e-disable-wrap .e-in-wrap,
+.e-mask.e-disable-wrap .e-in-wrap {
+  
+}
+.e-numeric.e-disable-wrap .e-in-wrap,
+.e-percent.e-disable-wrap .e-in-wrap,
+.e-currency.e-disable-wrap .e-in-wrap,
+.e-mask.e-disable-wrap .e-in-wrap {
+  border-color: #cccccc;
+}
+.e-mask.e-disable-wrap .e-placeholder {
+  background-color: transparent;
+}
+.e-numeric.e-disable-wrap:hover .e-in-wrap,
+.e-percent.e-disable-wrap:hover .e-in-wrap,
+.e-currency.e-disable-wrap:hover .e-in-wrap,
+.e-mask.e-disable-wrap:hover .e-in-wrap {
+  
+  box-shadow: none;
+}
+.e-numeric.e-disable-wrap:hover .e-in-wrap,
+.e-percent.e-disable-wrap:hover .e-in-wrap,
+.e-currency.e-disable-wrap:hover .e-in-wrap,
+.e-mask.e-disable-wrap:hover .e-in-wrap {
+  border-color: #cecece;
+}
+.e-numeric.e-disable-wrap:hover .e-in-wrap input.e-input,
+.e-percent.e-disable-wrap:hover .e-in-wrap input.e-input,
+.e-currency.e-disable-wrap:hover .e-in-wrap input.e-input,
+.e-mask.e-disable-wrap:hover .e-in-wrap input.e-input {
+  box-shadow: none;
+}
+.e-numeric .e-in-wrap,
+.e-percent .e-in-wrap,
+.e-currency .e-in-wrap,
+.e-mask .e-in-wrap {
+  
+}
+.e-numeric .e-in-wrap,
+.e-percent .e-in-wrap,
+.e-currency .e-in-wrap,
+.e-mask .e-in-wrap {
+  /*other*/
+  border-color: #cecece;
+}
+.e-widget .e-select.e-disable .e-spin .e-icon,
+.e-widget .e-select.e-disable .e-spin {
+  cursor: default;
+}
+.e-widget .e-select.e-disable .e-spin .e-icon,
+.e-widget .e-select.e-disable .e-spin {
+  background-color: #d6d7d7;
+}
+.e-numeric .e-input,
+.e-percent .e-input,
+.e-currency .e-input,
+.e-mask .e-input {
+  
+}
+.e-numeric .e-input,
+.e-percent .e-input,
+.e-currency .e-input,
+.e-mask .e-input {
+  /*other*/
+  color: #333333;
+  background-color: white;
+}
+.e-numeric.e-focus .e-in-wrap,
+.e-percent.e-focus .e-in-wrap,
+.e-currency.e-focus .e-in-wrap,
+.e-mask.e-focus .e-in-wrap {
+  
+}
+.e-numeric.e-focus .e-in-wrap,
+.e-percent.e-focus .e-in-wrap,
+.e-currency.e-focus .e-in-wrap,
+.e-mask.e-focus .e-in-wrap {
+  /*other*/
+
+  
+  border-color: #cecece;
+}
+.e-numeric.e-focus .e-in-wrap,
+.e-percent.e-focus .e-in-wrap,
+.e-currency.e-focus .e-in-wrap,
+.e-mask.e-focus .e-in-wrap {
+  box-shadow: 0 0 7px #cccccc;
+}
+.e-numeric .e-input.e-error,
+.e-percent .e-input.e-error,
+.e-currency .e-input.e-error,
+.e-mask.e-error,
+.e-mask .e-error {
+  
+}
+.e-numeric .e-input.e-error,
+.e-percent .e-input.e-error,
+.e-currency .e-input.e-error,
+.e-mask.e-error,
+.e-mask .e-error {
+  color: #cd0a0a;
+}
+.e-numeric.e-error .e-in-wrap,
+.e-percent.e-error .e-in-wrap,
+.e-currency.e-error .e-in-wrap,
+.e-mask.e-error .e-in-wrap {
+  border-color: #ee2924;
+}
+.e-numeric.e-disable-wrap,
+.e-percent.e-disable-wrap,
+.e-currency.e-disable-wrap,
+.e-mask.e-disable-wrap {
+  background-color: #eeeeee;
+}
+.e-numeric .e-watermark,
+.e-percent .e-watermark,
+.e-currency .e-watermark,
+.e-mask .e-watermark {
+  color: #d2d1d1;
+}
+.e-widget .e-input.e-placeholder {
+  
+}
+.e-widget .e-input.e-placeholder {
+  color: #333333;
+}
+.e-validation-error {
+  
+}
+.e-numeric .e-select,
+.e-numeric.e-rtl .e-select,
+.e-numeric .e-disable.e-select:hover,
+.e-percent .e-select,
+.e-percent.e-rtl .e-select,
+.e-percent .e-disable.e-select:hover,
+.e-currency .e-select,
+.e-currency.e-rtl .e-select,
+.e-currency .e-disable.e-select:hover {
+  
+}
+.e-numeric .e-select,
+.e-numeric.e-rtl .e-select,
+.e-numeric .e-disable.e-select:hover,
+.e-percent .e-select,
+.e-percent.e-rtl .e-select,
+.e-percent .e-disable.e-select:hover,
+.e-currency .e-select,
+.e-currency.e-rtl .e-select,
+.e-currency .e-disable.e-select:hover {
+  /*other*/
+
+  border-color: #cecece;
+  color: #666666;
+}
+.e-numeric .e-select,
+.e-numeric.e-rtl .e-select,
+.e-numeric .e-disable.e-select:hover,
+.e-percent .e-select,
+.e-percent.e-rtl .e-select,
+.e-percent .e-disable.e-select:hover,
+.e-currency .e-select,
+.e-currency.e-rtl .e-select,
+.e-currency .e-disable.e-select:hover {
+  background: #fcfcfc;
+  /* Old browsers */
+
+}
+
+.e-numeric .e-select:hover,
+.e-percent .e-select:hover,
+.e-currency .e-select:hover {
+  
+}
+.e-numeric .e-select:hover,
+.e-percent .e-select:hover,
+.e-currency .e-select:hover {
+  /*other*/
+
+  
+}
+.e-numeric .e-select:hover,
+.e-percent .e-select:hover,
+.e-currency .e-select:hover {
+  border-color: #cecece;
+  color: #333333;
+}
+.e-numeric .e-select:hover,
+.e-percent .e-select:hover,
+.e-currency .e-select:hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-numeric:hover .e-select,
+.e-percent:hover .e-select,
+.e-currency:hover .e-select {
+  
+}
+.e-numeric .e-select .e-spin-up.e-active,
+.e-numeric .e-select .e-spin-down.e-active,
+.e-percent .e-select .e-spin-up.e-active,
+.e-percent .e-select .e-spin-down.e-active,
+.e-currency .e-select .e-spin-up.e-active,
+.e-currency .e-select .e-spin-down.e-active {
+  
+}
+.e-numeric .e-select .e-spin-up.e-active,
+.e-numeric .e-select .e-spin-down.e-active,
+.e-percent .e-select .e-spin-up.e-active,
+.e-percent .e-select .e-spin-down.e-active,
+.e-currency .e-select .e-spin-up.e-active,
+.e-currency .e-select .e-spin-down.e-active {
+  /*other*/
+
+  border-color: #cecece;
+  color: white;
+}
+.e-numeric .e-select .e-spin-up.e-active,
+.e-numeric .e-select .e-spin-down.e-active,
+.e-percent .e-select .e-spin-up.e-active,
+.e-percent .e-select .e-spin-down.e-active,
+.e-currency .e-select .e-spin-up.e-active,
+.e-currency .e-select .e-spin-down.e-active {
+  background: #3277b2;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3277b2, #296293);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3277b2), color-stop(100%, #296293));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3277b2, #296293);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3277b2, #296293);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3277b2, #296293);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #3277b2, #296293);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3277b2', endColorstr='#296293', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-numeric .e-select .e-spin-up:hover,
+.e-numeric .e-select .e-spin-down:hover,
+.e-percent .e-select .e-spin-up:hover,
+.e-percent .e-select .e-spin-down:hover,
+.e-currency .e-select .e-spin-up:hover,
+.e-currency .e-select .e-spin-down:hover {
+  
+}
+.e-numeric .e-select .e-spin-up.e-active:hover,
+.e-numeric .e-select .e-spin-down.e-active:hover,
+.e-percent .e-select .e-spin-up.e-active:hover,
+.e-percent .e-select .e-spin-down.e-active:hover,
+.e-currency .e-select .e-spin-up.e-active:hover,
+.e-currency .e-select .e-spin-down.e-active:hover {
+  
+}
+.e-numeric.e-disable-wrap .e-select .e-spin-up,
+.e-numeric.e-disable-wrap .e-select .e-spin-down,
+.e-percent.e-disable-wrap .e-select .e-spin-up,
+.e-percent.e-disable-wrap .e-select .e-spin-down,
+.e-currency.e-disable-wrap .e-select .e-spin-up,
+.e-currency.e-disable-wrap .e-select .e-spin-down {
+  
+}
+.e-numeric.e-disable-wrap .e-input,
+.e-percent.e-disable-wrap .e-input,
+.e-currency.e-disable-wrap .e-input,
+.e-mask.e-disable-wrap .e-input {
+  
+}
+.e-numeric .e-icon .e-arrow,
+.e-percent .e-icon .e-arrow,
+.e-currency .e-icon .e-arrow {
+  border: 0 none transparent;
+}
+.e-input::-webkit-input-placeholder {
+  
+}
+.e-input::-webkit-input-placeholder {
+  /*other*/
+  color: #333333;
+}
+.e-input:-ms-input-placeholder {
+  
+}
+.e-input:-ms-input-placeholder {
+  /*other*/
+  color: #333333;
+}
+.e-input::-moz-placeholder {
+  
+}
+.e-input::-moz-placeholder {
+  /*other*/
+  color: #333333;
+}
+.e-input:-moz-placeholder {
+  
+}
+.e-input:-moz-placeholder {
+  /*other*/
+  color: #333333;
+}
+.e-numeric .e-input::selection,
+.e-percent .e-input::selection,
+.e-currency .e-input::selection,
+.e-mask .e-input::selection {
+  
+}
+.e-numeric .e-input::-moz-selection,
+.e-percent .e-input::-moz-selection,
+.e-currency .e-input::-moz-selection,
+.e-mask .e-input::-moz-selection {
+  
+}
+.e-numeric.e-disable-wrap .e-in-wrap,
+.e-percent.e-disable-wrap .e-in-wrap,
+.e-currency.e-disable-wrap .e-in-wrap,
+.e-mask.e-disable-wrap .e-in-wrap,
+.e-numeric.e-disable-wrap:hover .e-in-wrap,
+.e-percent.e-disable-wrap:hover .e-in-wrap,
+.e-currency.e-disable-wrap:hover .e-in-wrap,
+.e-mask.e-disable-wrap:hover .e-in-wrap {
+  
+}
+.e-numeric.e-disable-wrap .e-disable,
+.e-percent.e-disable-wrap .e-disable,
+.e-currency.e-disable-wrap .e-disable,
+.e-mask.e-disable-wrap .e-disable {
+  
+}
+.e-numeric .e-disable.e-select,
+.e-numeric.e-rtl .e-disable.e-select,
+.e-numeric .e-disable.e-select:hover,
+.e-percent .e-disable.e-select,
+.e-percent.e-rtl .e-disable.e-select,
+.e-percent .e-disable.e-select:hover,
+.e-currency .e-disable.e-select,
+.e-currency.e-rtl .e-disable.e-select,
+.e-currency .e-disable.e-select:hover {
+  
+}
+.e-numeric.e-disable-wrap .e-select .e-spin-up:hover,
+.e-numeric.e-disable-wrap .e-select .e-spin-down:hover,
+.e-percent.e-disable-wrap .e-select .e-spin-up:hover,
+.e-percent.e-disable-wrap .e-select .e-spin-down:hover,
+.e-currency.e-disable-wrap .e-select .e-spin-up:hover,
+.e-currency.e-disable-wrap .e-select .e-spin-down:hover {
+  
+}
+.e-numeric .e-in-wrap:before,
+.e-percent .e-in-wrap:before,
+.e-currency .e-in-wrap:before,
+.e-mask .e-in-wrap:before,
+.e-numeric .e-in-wrap:after,
+.e-percent .e-in-wrap:after,
+.e-currency .e-in-wrap:after,
+.e-mask .e-in-wrap:after {
+  
+}
+.e-numeric .e-select .e-spin-up:after,
+.e-numeric .e-select .e-spin-down:after,
+.e-percent .e-select .e-spin-up:after,
+.e-percent .e-select .e-spin-down:after,
+.e-currency .e-select .e-spin-up:after,
+.e-currency .e-select .e-spin-down:after {
+  
+}

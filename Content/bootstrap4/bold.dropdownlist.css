@@ -1,0 +1,366 @@
+/* Needs to check the purpose*/
+/*Common Colors end*/
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #212529;
+  border-color: #ced4da;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+/*------------------------------------- dropdownlist -------------------------------------------*/
+
+.e-ddl .e-options {
+  
+}
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  background-color: white;
+  border-color: #ced4da;
+  
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.e-atc .e-in-wrap,
+.e-atc .e-input,
+.e-atc-popup,
+.e-atc .e-options {
+  color: #212529;
+  font-size: 14px;
+  font-weight: normal;
+}
+.e-ddl .e-input,
+.e-ddl .e-input[readonly],
+.e-ddl-popup,
+.e-ddl .e-options {
+  
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  cursor: default;
+}
+.e-ddl .e-input,
+.e-ddl .e-input[readonly],
+.e-ddl-popup,
+.e-ddl .e-options {
+  /*other*/
+
+  
+}
+.e-ddl .e-input,
+.e-ddl .e-input[readonly],
+.e-ddl-popup,
+.e-ddl .e-options {
+  color: #212529;
+  background-color: white;
+}
+.e-atc-popup ul li.e-category {
+  
+}
+.e-ddl .e-in-wrap,
+.e-ddl-popup,
+.e-ddl .e-options,
+.e-ddl-popup .e-atc.e-search {
+  
+}
+.e-ddl .e-in-wrap,
+.e-ddl-popup,
+.e-ddl .e-options,
+.e-ddl-popup .e-atc.e-search {
+  /*other*/
+
+  
+}
+.e-ddl .e-in-wrap,
+.e-ddl-popup,
+.e-ddl .e-options,
+.e-ddl-popup .e-atc.e-search {
+  border-color: #ced4da;
+}
+.e-ddl .e-options.e-active {
+  
+}
+.e-ddl .e-options.e-active {
+  /*other*/
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+.e-ddl .e-options:hover {
+  
+}
+.e-ddl .e-options .e-icon.e-close {
+  
+}
+.e-ddl-popup div > ul li {
+  
+}
+.e-ddl-popup .e-active.e-hover {
+  
+}
+.e-ddl .e-boxes {
+  background-color: white;
+}
+.e-ddl.e-popactive .e-in-wrap:before,
+.e-ddl.e-popactive .e-in-wrap:after {
+  
+}
+.e-ddl.e-focus .e-in-wrap {
+  
+}
+.e-ddl.e-focus .e-in-wrap {
+  /*other*/
+  box-shadow: 0 0 3px rgba(0, 123, 255, 0.2);
+  
+  border-color: #007bff;
+}
+.e-ddl.e-focus .e-in-wrap {
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.2);
+}
+.e-ddl:hover .e-in-wrap {
+  
+}
+.e-ddl:hover .e-in-wrap {
+  /*office-365*/
+
+  border-color: #007bff;
+}
+.e-ddl:hover .e-in-wrap {
+  border-color: #ced4da;
+}
+.e-ddl .e-input.e-watermark {
+  color: #c3cabc !important;
+  font-style: italic;
+}
+.e-ddl-popup .e-hover {
+  
+}
+.e-ddl-popup .e-hover {
+  /*other*/
+
+  
+}
+.e-ddl-popup .e-hover {
+  color: #212529;
+}
+.e-ddl-popup .e-hover {
+  background: #e3e7eb;
+}
+.e-ddl-popup .e-hover {
+  border-color: #ced4da;
+  cursor: auto;
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  /*other*/
+
+  
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  border-color: #ced4da;
+  
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  background: #e3e7eb;
+}
+.e-ddl .e-select:hover,
+.e-ddl.e-rtl .e-select:hover {
+  color: white;
+  background: #6c757d;
+}
+.e-ddl .e-select:active,
+.e-ddl.e-rtl .e-select:active {
+  
+}
+.e-ddl .e-select.e-disable {
+  
+}
+.e-ddl .e-input.e-disable {
+  
+}
+.e-ddl-popup .e-active {
+  
+  border-bottom: 1px solid white;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.e-ddl-popup .e-active {
+  /*other*/
+
+  
+}
+.e-ddl-popup .e-active {
+  color: white;
+}
+.e-ddl-popup .e-active {
+  background: #007bff;
+}
+.e-ddl-popup .e-active.e-hover {
+  
+}
+.e-ddl .e-select,
+.e-ddl.e-rtl .e-select,
+.e-ddl .e-disable.e-select:hover {
+  
+}
+.e-ddl .e-select,
+.e-ddl.e-rtl .e-select,
+.e-ddl .e-disable.e-select:hover {
+  
+  /*other*/
+
+  background: white;
+  /* Old browsers */
+
+  color: #495057;
+  border-color: #ced4da;
+}
+.e-ddl .e-select.e-load {
+  background-image: url(images/ajax-loader.gif);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.e-ddl-popup .e-resize-handle {
+  cursor: se-resize;
+  float: right;
+  padding: 4px 3px 0 0;
+  margin-right: 2px;
+}
+.e-ddl-popup .e-resize-handle.e-rtl-resize {
+  float: left;
+  cursor: sw-resize;
+  transform: rotate(90deg);
+  padding: 3px 0 0 3px;
+}
+.e-ddl-popup .e-resizebar {
+  background: white;
+  /* Old browsers */
+
+  border-top: 1px solid white;
+  height: 20px;
+  width: auto;
+  display: block;
+}
+.e-ddl-popup .e-atc.e-search .e-search:before,
+.e-ddl-popup .e-atc.e-search .e-cross-circle:before {
+  color: #ced4da;
+}
+.e-ddl-popup .e-checkwrap.e-check-act,
+.e-ddl-popup .e-checkwrap:hover {
+  
+}
+.e-ddl-popup .e-checkwrap.e-check-act,
+.e-ddl-popup .e-checkwrap:hover {
+  border: 1px solid #ced4da;
+}
+.e-ddl-popup .e-checkwrap.e-check-act:hover {
+  
+}
+.e-ddl-popup .e-checkwrap.e-check-act {
+  
+}
+.e-ddl-popup .e-checkwrap {
+  
+  background-color: white;
+}
+.e-ddl-popup .e-checkwrap {
+  
+  /*other*/
+  border-radius: none;
+}
+.e-ddl-popup .e-checkwrap {
+  border: 1px solid #ced4da;
+}
+.e-ddl-popup .e-checkwrap:hover {
+  
+}
+.e-ddl-popup .e-check-act {
+  
+}
+.e-ddl-popup .e-check-act {
+  /*other*/
+
+  
+}
+.e-ddl-popup .e-check-act {
+  color: #007bff;
+}
+.e-dropdownlist::-webkit-input-placeholder {
+  color: #212529;
+}
+.e-dropdownlist:-ms-input-placeholder {
+  color: #212529;
+}
+.e-dropdownlist::-moz-placeholder {
+  color: #212529;
+}
+.e-dropdownlist:-moz-placeholder {
+  color: #212529;
+}
+.e-ddl.e-widget.e-popactive .e-select .e-icon {
+  
+}
+.e-ddl.e-widget .e-select .e-icon {
+  
+}
+.e-ddl-popup .e-check-inact.e-ddl-anim:before {
+  
+}
+.e-ddl-popup .e-check-act.e-ddl-anim:after {
+  
+}
+.e-ddl.e-widget .e-in-wrap.e-disable {
+  border-color: #ced4da;
+  background-color: #e9ecef;
+  opacity: initial;
+}
+.e-ddl.e-widget .e-input.e-disable {
+  background: #e9ecef;
+}
+.e-ddl.e-widget .e-select.e-disable {
+  background: #adb5bd;
+  border-color: #ced4da;
+}
+.e-ddl.e-widget .e-input.e-disable {
+  
+}

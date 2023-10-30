@@ -1,0 +1,142 @@
+/* Needs to check the purpose*/
+/*Common Colors end*/
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #212529;
+  border-color: #ced4da;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+/*------------------------------------- Tooltip -------------------------------------------*/
+
+.e-tooltip-wrap {
+  
+}
+.e-tooltip-wrap {
+  /*other*/
+
+  
+  border-radius: none;
+}
+.e-tooltip-wrap {
+  
+}
+.e-tooltip-wrap {
+  border: 1px solid black;
+  background-color: black;
+  border-radius: 4px;
+}
+.e-tooltip-wrap .e-arrowTipOuter {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  
+}
+.e-tooltip-wrap .e-arrowTipOuter {
+  /*other*/
+
+  
+}
+.e-tooltip-wrap .e-arrowTipOuter {
+  border-top: 10px solid #ced4da;
+}
+.e-tooltip-wrap .e-arrowTipInner {
+  width: 0;
+  height: 0;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+  
+  left: 1px;
+  top: 0px;
+  position: absolute;
+}
+.e-tooltip-wrap .e-arrowTipInner {
+  border-top: 9px solid white;
+}
+.e-def {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 18px;
+  
+}
+.e-def {
+  /*other*/
+
+  
+}
+.e-def {
+  /*office-365*/
+  font-size: 12px;
+  
+}
+.e-def {
+  color: white;
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader {
+  
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader {
+  background: none repeat scroll 0 0 #f8f9fa;
+  border-bottom: 3px solid #007bff;
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader .e-close:before {
+  
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader .e-close:before {
+  color: #212529;
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader .e-close:hover {
+  
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader .e-close:hover {
+  color: #212529;
+  border-color: #dee2e6;
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader .e-close:hover {
+  background: #e3e7eb;
+}
+.e-tooltip-wrap .e-cross-circle:hover {
+  color: #212529;
+  border-color: #dee2e6;
+}
+.e-tooltip-wrap .e-cross-circle:hover {
+  background: #e3e7eb;
+}

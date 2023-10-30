@@ -1,0 +1,202 @@
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: #111111;
+  color: white;
+  border-color: gray;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+.e-dialog.e-dialog-wrap {
+  background: black;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+.e-dialog .e-dialog-icon:hover {
+  border-image: initial;
+  border-color: white;
+  
+}
+.e-dialog .e-dialog-icon:hover {
+  background: #035103;
+}
+.e-dialog-modal {
+  overflow: hidden;
+}
+.e-dialog.e-disable .e-dialog-icon:hover {
+  background: transparent;
+}
+.e-dialog .e-dialog-icon:before {
+  
+  line-height: 1.5;
+}
+.e-dialog .e-dialog-icon:before {
+  color: white;
+}
+.e-dialog > .e-header {
+  
+}
+.e-dialog > .e-header {
+  color: white;
+  font-weight: normal;
+  font-size: 16px;
+  
+}
+.e-dialog > .e-header {
+  background: black;
+}
+.e-dialog > .e-header {
+  border: 1px solid gray;
+  border-bottom: 3px solid green;
+}
+.e-titlebar + div.e-dialog-scroller .e-widget-content {
+  
+}
+.e-dialog.e-dialog-wrap:not(.e-shadow) {
+  
+}
+.e-dialog > .e-titlebar {
+  
+}
+.e-dialog.e-shadow {
+  
+}
+.e-dialog.e-widget-content {
+  
+}
+.e-dialog.e-widget-content {
+  background: black;
+  color: #dbdb00;
+  font-size: 14px;
+}
+.e-dialog.e-widget-content.e-load {
+  background-image: url(images/ajax-loader.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.e-overlay {
+  background-color: #455672;
+  
+}
+.e-dialog > .e-dialog-scroller {
+  
+}
+.e-dialog > .e-dialog-scroller {
+  border: 1px solid gray;
+  
+}
+.e-dialog > .e-dialog-scroller {
+  border-top: none;
+}
+.e-dialog .e-dialog-icon:hover:before {
+  color: white;
+}
+.e-dialog > .e-footerbar {
+  position: relative;
+  
+  background: black;
+}
+.e-dialog > .e-footerbar {
+  height: 40px;
+  border: 1px solid gray;
+}
+.e-dialog > .e-footerbar {
+  border-top: none;
+}
+.e-dialog > .e-footerbar > .e-icon.e-resize-handle.e-resizable.e-js {
+  position: absolute;
+  cursor: se-resize;
+  bottom: 0;
+  right: 0;
+}
+.e-corner.e-dialog > .e-footerbar {
+  border-radius: 0px 0px 3px 3px;
+}
+.e-corner .e-dialog-content {
+  border-radius: 3px;
+}
+.e-corner .e-dialog-bottom {
+  border-radius: 0px 0px 3px 3px;
+}
+.e-corner .e-dialog-top {
+  border-radius: 3px 3px 0px 0px;
+}
+.e-dialog .e-scrollbar .e-icon {
+  display: block;
+}
+.e-dialog .e-scrollbar .e-icon {
+  display: block;
+}
+.e-dialog .e-dialog-icon::after {
+  
+}
+.e-dialog > .e-icon.e-resizable:before {
+  
+}
+.e-dialog .e-dialog-icon {
+  
+}
+.e-dialog .e-dialog-icon.e-icon.e-close {
+  
+}
+.e-dialog .e-dialog-icon.e-icon.e-close:before {
+  
+}
+.e-dialog .e-dialog-icon.e-icon.e-arrowhead-up:before {
+  
+}
+.e-dialog .e-dialog-icon.e-icon.e-arrowhead-down:before {
+  
+}
+.e-dialog .e-draggable {
+  touch-action: none;
+}
+.e-dialog.e-widget-content .e-pager .e-firstpage,
+.e-dialog.e-widget-content .e-pager .e-prevpage,
+.e-dialog.e-widget-content .e-pager .e-firstpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-prevpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-nextpage,
+.e-dialog.e-widget-content .e-pager .e-lastpage,
+.e-dialog.e-widget-content .e-pager .e-nextpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-lastpagedisabled {
+  padding: 9px 3px 1px 9px;
+}
+.e-dialog.e-widget-content .e-pager .e-firstpage,
+.e-dialog.e-widget-content .e-pager .e-prevpage,
+.e-dialog.e-widget-content .e-pager .e-firstpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-prevpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-nextpage,
+.e-dialog.e-widget-content .e-pager .e-lastpage,
+.e-dialog.e-widget-content .e-pager .e-nextpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-lastpagedisabled {
+  
+}

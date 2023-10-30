@@ -1,0 +1,509 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*Theme Color*/
+
+.e-tab.e-js.e-widget {
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  border: none;
+}
+.e-tab.e-js > .e-header > .e-item > .e-link,
+.e-tab.e-js > .e-left > .e-item > .e-link,
+.e-tab.e-js > .e-right > .e-item > .e-link {
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-size: 14px;
+  color: #333333;
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  /*office-365*/
+  background: transparent;
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  
+}
+.e-tab.e-js > .e-header,
+.e-tab.e-js .e-header > .e-select.e-disable:hover,
+.e-tab.e-js > .e-left,
+.e-tab.e-js > .e-right,
+.e-tab.e-disable .e-select:hover {
+  /*office-365*/
+  background: white;
+}
+.e-tab.e-js .e-header > .e-active.e-disable:hover {
+  background: transparent;
+}
+.e-tab.e-js .e-header > .e-active.e-disable:hover a {
+  
+}
+.e-tab.e-js .e-header > .e-active.e-disable:hover a {
+  /*material*/
+
+  
+}
+.e-tab.e-js .e-header > .e-active.e-disable:hover a {
+  color: #333333;
+}
+.e-tab.e-js .e-header > .e-rtl-bottom-line.e-active {
+  
+}
+.e-tab.e-js .e-header > .e-rtl-bottom-line.e-active {
+  /*material*/
+
+  
+}
+.e-tab.e-js .e-header > .e-rtl-bottom-line.e-active {
+  border-top: 2px solid #0078d7;
+}
+.e-tab.e-js .e-header .e-select.e-disable a,
+.e-tab.e-js.e-disable a {
+  cursor: default;
+}
+.e-tab.e-js .e-header .e-select.e-disable a,
+.e-tab.e-js.e-disable a {
+  /*office-365*/
+  color: #a6a6a6;
+}
+.e-tab > .e-header {
+  
+  border-left: none;
+}
+.e-tab > .e-header {
+  
+}
+.e-tab > .e-header {
+  /*office-365*/
+  border: 0px;
+}
+.e-tab .e-left {
+  
+}
+.e-tab .e-left {
+  
+}
+.e-tab .e-left {
+  /*office-365*/
+  border-right: 0px;
+}
+.e-tab .e-right {
+  
+}
+.e-tab .e-right {
+  
+}
+.e-tab .e-right {
+  /*office-365*/
+  border-left: 0px;
+}
+.e-tab.e-js .e-left .e-item.e-active,
+.e-tab.e-js .e-left .e-item.e-active:hover {
+  
+  outline: 0 none;
+  margin-right: -1px;
+}
+.e-tab.e-js .e-left .e-item.e-active,
+.e-tab.e-js .e-left .e-item.e-active:hover {
+  /*office-365*/
+  border-right: 2px solid #0078d7;
+}
+.e-tab.e-js .e-right .e-item.e-active,
+.e-tab.e-js .e-right .e-item.e-active:hover {
+  
+  margin-left: -1px;
+  outline: 0 none;
+}
+.e-tab.e-js .e-right .e-item.e-active,
+.e-tab.e-js .e-right .e-item.e-active:hover {
+  /*office-365*/
+  border-left: 2px solid #0078d7;
+}
+.e-scrolltab.e-js .e-header > .e-bottom-line.e-item.e-active,
+.e-scrolltab.e-js .e-header > .e-bottom-line.e-item.e-active:hover {
+  border: 1px solid #c8c8c8;
+}
+.e-tab .e-left .e-item.e-active,
+.e-tab .e-right .e-item.e-active {
+  border-bottom: 1px solid #c8c8c8;
+  position: relative;
+}
+.e-tab .e-header li {
+  border-top: 0px;
+}
+.e-tab.e-js .e-header > .e-bottom-line.e-active,
+.e-tab.e-js .e-header > .e-bottom-line.e-active:hover {
+  
+  outline: 0 none;
+}
+.e-tab.e-js .e-header > .e-bottom-line.e-active,
+.e-tab.e-js .e-header > .e-bottom-line.e-active:hover {
+  /*office-365*/
+  padding-bottom: 0px;
+  border-bottom: 2px solid #0078d7;
+}
+.e-tab.e-js .e-header > .e-top-line.e-active,
+.e-tab.e-js .e-header > .e-top-line.e-active:hover {
+  
+  padding-top: 1px;
+  outline: 0 none;
+}
+.e-tab.e-js .e-header > .e-top-line.e-active,
+.e-tab.e-js .e-header > .e-top-line.e-active:hover {
+  /*office-365*/
+  border-top: 2px solid #0078d7;
+}
+.e-tab .e-left li,
+.e-tab .e-right li {
+  border-bottom: 1px solid #c8c8c8;
+}
+.e-tab.e-vertical {
+  background: transparent;
+  border: 1px solid #c8c8c8;
+}
+.e-tab.e-js .e-header > .e-item:hover,
+.e-tab.e-js .e-left > .e-item:hover,
+.e-tab.e-js .e-right > .e-item:hover {
+  filter: none;
+  
+}
+.e-tab.e-js .e-header > .e-item:hover,
+.e-tab.e-js .e-left > .e-item:hover,
+.e-tab.e-js .e-right > .e-item:hover {
+  background-color: #eaeaea;
+  color: #212121;
+}
+.e-tab.e-js .e-icon.e-chevron-circle-left,
+.e-tab.e-js .e-icon.e-chevron-circle-right {
+  
+}
+.e-tab.e-js .e-icon.e-chevron-circle-left,
+.e-tab.e-js .e-icon.e-chevron-circle-right {
+  
+}
+.e-tab.e-js .e-icon.e-chevron-circle-left,
+.e-tab.e-js .e-icon.e-chevron-circle-right {
+  /*office-365*/
+  color: #212121;
+}
+.e-tab.e-js .e-header > .e-item:hover > .e-icon,
+.e-tab.e-js .e-left > .e-item:hover > .e-icon,
+.e-tab.e-js .e-right > .e-item:hover > .e-icon {
+  
+}
+.e-tab.e-js .e-header > .e-item:hover > .e-icon,
+.e-tab.e-js .e-left > .e-item:hover > .e-icon,
+.e-tab.e-js .e-right > .e-item:hover > .e-icon {
+  /*office-365*/
+  color: #333333;
+}
+.e-tab.e-js > .e-content {
+  
+  font-size: 14px;
+  border-style: solid;
+}
+.e-tab.e-js > .e-content {
+  
+}
+.e-tab.e-js > .e-content {
+  /*office-365*/
+  border-width: 0px;
+  color: #333333;
+  background: white;
+  font-size: 14px;
+}
+.e-tab.e-js > .e-content {
+  border-color: #c8c8c8;
+}
+.e-tab.e-js .e-header > .e-select,
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active,
+.e-tab.e-js .e-left > .e-select,
+.e-tab.e-js .e-right > .e-select {
+  
+  border-color: #c8c8c8;
+  color: #212121;
+  border: none;
+  background: none;
+}
+.e-tab.e-js .e-header > .e-select,
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active,
+.e-tab.e-js .e-left > .e-select,
+.e-tab.e-js .e-right > .e-select {
+  
+}
+.e-tab.e-js .e-header > .e-select,
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active,
+.e-tab.e-js .e-left > .e-select,
+.e-tab.e-js .e-right > .e-select {
+  /*office-365*/
+  background: transparent;
+  font-size: 14px;
+  color: #333333;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  border-radius: 0px;
+}
+.e-tab .e-header > .e-select a,
+.e-tab .e-left > .e-select a,
+.e-tab .e-right > .e-select a {
+  
+}
+.e-tab .e-header > .e-select a,
+.e-tab .e-left > .e-select a,
+.e-tab .e-right > .e-select a {
+  /*other*/
+
+  
+}
+.e-tab .e-header > .e-select a,
+.e-tab .e-left > .e-select a,
+.e-tab .e-right > .e-select a {
+  font-weight: normal;
+  line-height: 19px;
+}
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active {
+  
+}
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active {
+  
+}
+.e-tab.e-js .e-header > .e-active,
+.e-tab.e-js .e-left > .e-active,
+.e-tab.e-js .e-right > .e-active {
+  font-weight: 600;
+  color: #333333;
+}
+.e-tab.e-js .e-header > .e-select,
+.e-tab.e-js .e-left > .e-select,
+.e-tab.e-js .e-right > .e-select {
+  background: white;
+}
+.e-tab.e-js .e-header > .e-select,
+.e-tab.e-js .e-left > .e-select,
+.e-tab.e-js .e-right > .e-select {
+  font-weight: 400;
+  color: #333333;
+}
+.e-tab.e-js .e-header > .e-active:hover,
+.e-tab.e-js .e-left > .e-active:hover,
+.e-tab.e-js .e-right > .e-active:hover,
+.e-tab.e-js .e-header.e-item:hover,
+.e-tab.e-js .e-left.e-item:hover,
+.e-tab.e-js .e-right.e-item:hover {
+  
+}
+.e-tab.e-js .e-header > .e-active:hover,
+.e-tab.e-js .e-left > .e-active:hover,
+.e-tab.e-js .e-right > .e-active:hover,
+.e-tab.e-js .e-header.e-item:hover,
+.e-tab.e-js .e-left.e-item:hover,
+.e-tab.e-js .e-right.e-item:hover {
+  /*other*/
+
+  
+}
+.e-tab .e-header > .e-active a,
+.e-tab .e-left > .e-active a,
+.e-tab .e-right > .e-active a {
+  
+}
+.e-tab .e-header > .e-active a,
+.e-tab .e-left > .e-active a,
+.e-tab .e-right > .e-active a {
+  
+}
+.e-tab .e-header > .e-active a,
+.e-tab .e-left > .e-active a,
+.e-tab .e-right > .e-active a {
+  /*office-365*/
+  font-weight: 600;
+}
+.e-tab .e-header > .e-select:hover a,
+.e-tab .e-left > .e-select:hover a,
+.e-tab .e-right > .e-select:hover a {
+  
+}
+.e-tab .e-header > .e-select:hover a,
+.e-tab .e-left > .e-select:hover a,
+.e-tab .e-right > .e-select:hover a {
+  /*other*/
+
+  
+}
+.e-tab .e-header > .e-select:hover a,
+.e-tab .e-left > .e-select:hover a,
+.e-tab .e-right > .e-select:hover a {
+  color: #212121;
+}
+.e-tab .e-header > .e-active:hover a,
+.e-tab .e-left > .e-active:hover a,
+.e-tab .e-right > .e-active:hover a {
+  /*other*/
+
+  color: #212121;
+}
+.e-tab .e-load {
+  background-image: url(images/ajax-loader.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.e-tab .e-hidebottom {
+  border-top: none !important;
+}
+.e-tab .e-hidetop {
+  border-bottom: none !important;
+}
+.e-tab .e-header.e-addborderbottom {
+  
+}
+.e-tab .e-header.e-addborderbottom {
+  border-size: 0px;
+}
+.e-tab .e-header.e-addbordertop {
+  
+}
+.e-tab .e-header.e-addbordertop {
+  
+}
+.e-tab .e-header.e-addbordertop {
+  border-top: 0px;
+}
+.e-tab .e-header.e-hideleft {
+  border-left: none;
+}
+.e-tab .e-header.e-addborderleft {
+  border-right: 1px solid #c8c8c8;
+}
+.e-tab .e-header.e-hideright {
+  border-right: none;
+}
+.e-tab .e-header.e-addborderright {
+  border-left: 1px solid #c8c8c8;
+}
+.e-tab .e-header .e-margine-top:hover {
+  
+}
+.e-tab .e-header .e-margine-top:hover {
+  /*other*/
+  border-top: 1px solid white;
+}
+.e-tab .e-header .e-margine-bottom:hover {
+  border-bottom: 1px solid white;
+}
+.e-tab .e-header.e-addborderbottom .e-active {
+  
+}
+.e-tab .e-header.e-addborderbottom .e-active {
+  border-top: 2px solid transparent;
+}
+.e-tab .e-header.e-addbordertop .e-active {
+  
+}
+.e-tab .e-header.e-addbordertop .e-active {
+  border-bottom: 2px solid transparent;
+}
+.e-tab .e-right.e-addborderright .e-active {
+  border-right: transparent;
+}
+.e-tab .e-left.e-addborderleft .e-active {
+  border-left: transparent;
+}
+.e-tab.e-js.e-tabscroll > .e-content {
+  
+}
+.e-tab.e-js.e-tabscroll > .e-content {
+  /*other*/
+  padding-top: 44.3333px;
+}
+.e-tab.e-js.e-tabscroll > .e-header.e-addborderbottom {
+  
+}
+.e-tab.e-js.e-tabscroll > .e-header.e-addborderbottom {
+  
+}
+.e-tab.e-js.e-tabscroll > .e-header.e-addborderbottom {
+  /*office-365*/
+  border-bottom: 0px solid #bbbcbb !important;
+}
+.e-tab.e-js .e-header .e-icon.e-chevron-circle-left {
+  
+}

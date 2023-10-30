@@ -1,0 +1,501 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------DateRangePicker themes -------------*/
+
+.e-daterangepicker-popup {
+  background-color: white;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-weight: normal;
+  color: #212121;
+  
+}
+.e-daterangepicker-popup {
+  /*other*/
+
+  
+}
+.e-daterangepicker-popup {
+  border: 1px solid #c8c8c8;
+}
+.e-daterangewidget .e-select {
+  
+}
+.e-daterangewidget .e-in-wrap:before,
+.e-daterangewidget .e-in-wrap:after {
+  
+}
+.e-daterangewidget .e-input {
+  background-color: white;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-weight: normal;
+  
+}
+.e-daterangewidget .e-input {
+  /*other*/
+  color: #212121;
+}
+.e-daterangewidget .e-in-wrap,
+.e-daterangepicker-popup {
+  border-color: #c8c8c8;
+}
+.e-daterangewidget .e-in-wrap {
+  
+}
+.e-daterangewidget.e-widget:hover .e-in-wrap {
+  border-color: #0078d7;
+}
+.e-daterangewidget.e-widget:hover .e-in-wrap {
+  border-color: #767676;
+}
+.e-daterangewidget.e-focus .e-in-wrap,
+.e-daterangewidget .e-focus {
+  
+}
+.e-daterangewidget.e-focus .e-in-wrap,
+.e-daterangewidget .e-focus {
+  /*other*/
+  box-shadow: 0 0 2px lightgray;
+}
+.e-daterangewidget.e-focus .e-in-wrap,
+.e-daterangewidget .e-focus .e-in-wrap,
+.e-daterangewidget.e-focus .e-in-wrap:hover,
+.e-daterangewidget .e-focus .e-in-wrap:hover {
+  border-color: #0078d7;
+}
+.e-daterangewidget .e-select,
+.e-daterangewidget .e-drpbuttons .e-disable:hover,
+.e-ntouch.e-daterangewidget .e-disable.e-select:hover {
+  border-color: #c8c8c8;
+  border: none;
+  
+}
+.e-daterangewidget .e-select,
+.e-daterangewidget .e-drpbuttons .e-disable:hover,
+.e-ntouch.e-daterangewidget .e-disable.e-select:hover {
+  background: #f4f4f4;
+}
+.e-daterangewidget .e-select,
+.e-daterangewidget .e-drpbuttons .e-disable:hover,
+.e-ntouch.e-daterangewidget .e-disable.e-select:hover {
+  /*other*/
+  background-color: white;
+  color: #666666;
+}
+.e-daterangewidget .e-drpbuttons .e-btn.e-select.e-flat {
+  background-color: none;
+}
+.e-daterangewidget .e-select,
+.e-ntouch.e-daterangewidget .e-disable.e-select:hover {
+  background: white;
+}
+.e-ntouch.e-daterangewidget .e-select:hover {
+  
+}
+.e-ntouch.e-daterangewidget .e-select:hover {
+  /*other*/
+
+  
+}
+.e-ntouch.e-daterangewidget .e-select:hover {
+  color: #666666;
+}
+.e-ntouch.e-daterangewidget .e-select:hover {
+  background: #eaeaea;
+}
+.e-daterangepicker-popup .e-custom-dateranges {
+  
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-start-date.e-hidedate:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range.e-state-hover.e-hidedate,
+.e-daterangepicker-popup .e-ntouch.e-datepicker .e-datepicker-days .e-state-default.in-range:hover.e-hidedate,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-start-date.e-hidedate:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover.e-end-date.e-hidedate:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date.e-hidedate:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover.e-hidedate.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover.e-hidedate.e-end-date,
+.e-daterangepicker-popup .e-ntouch.e-datepicker table td.e-hidedate:hover {
+  background: none;
+  
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-start-date.e-hidedate:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range.e-state-hover.e-hidedate,
+.e-daterangepicker-popup .e-ntouch.e-datepicker .e-datepicker-days .e-state-default.in-range:hover.e-hidedate,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-start-date.e-hidedate:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover.e-end-date.e-hidedate:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date.e-hidedate:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover.e-hidedate.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover.e-hidedate.e-end-date,
+.e-daterangepicker-popup .e-ntouch.e-datepicker table td.e-hidedate:hover {
+  /*other*/
+  color: #adadad;
+}
+.e-daterangepicker-popup .e-datepicker table .e-datepicker-months td.e-hidedate:hover::before,
+.e-datepicker table .e-datepicker-years td.e-hidedate:hover::before {
+  /*material*/
+  background-color: #f4f4f4;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-start-date:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range.e-state-hover,
+.e-daterangepicker-popup .e-ntouch.e-datepicker .e-datepicker-days .e-state-default.in-range:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-start-date:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover.e-end-date:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover.e-end-date.e-active:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date.e-active:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date:hover,
+.e-daterangepicker-popup .e-ntouch.e-datepicker table td:hover {
+  background: #eaeaea;
+  color: #212121;
+  
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-start-date:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range.e-state-hover,
+.e-daterangepicker-popup .e-ntouch.e-datepicker .e-datepicker-days .e-state-default.in-range:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-start-date:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover.e-end-date:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover.e-end-date.e-active:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date.e-active:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date:hover,
+.e-daterangepicker-popup .e-ntouch.e-datepicker table td:hover {
+  background-color: #eaeaea;
+}
+.e-daterangepicker-popup .e-datepicker .e-active::before,
+.e-datepicker .e-active .e-state-hover::before,
+.e-daterangepicker-popup .e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default,
+.e-daterangepicker-popup .e-datepicker table td::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default {
+  top: 0px;
+  padding-top: 0px;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today.e-end-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-end-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range.e-end-date {
+  
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today.e-end-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-end-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range.e-end-date {
+  /*other*/
+
+  color: white;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-start-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today.e-end-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-end-date,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range.e-end-date {
+  background: #0078d7;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-start-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today.e-start-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-start-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today.e-end-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-end-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range.e-end-date::before {
+  
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-start-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today.e-start-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-start-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-end-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today.e-end-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-active.e-end-date::before,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range.e-end-date::before {
+  border-radius: none;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default:hover,
+.e-daterangepicker-popup .e-ntouch.e-datepicker table td.e-state-default:hover {
+  
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-allyears td.e-state-default:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-months td.e-state-default:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-years td.e-state-default:hover,
+.e-daterangepicker-popup .e-ntouch.e-datepicker .e-datepicker-allyears td.e-state-default:hover,
+.e-daterangepicker-popup .e-ntouch.e-datepicker .e-datepicker-months td.e-state-default:hover,
+.e-daterangepicker-popup .e-ntouch.e-datepicker .e-datepicker-years td.e-state-default:hover {
+  background: transparent;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default:hover::before,
+.e-daterangepicker-popup .e-ntouch.e-datepicker table td.e-state-default:hover::before {
+  
+}
+.e-daterangepicker-popup .e-val-error .e-in-wrap {
+  border: 1px solid red;
+}
+.e-daterangepicker-popup .e-drpbuttons .e-drp-apply.e-disable {
+  cursor: default;
+}
+.e-custom-dateranges li {
+  
+}
+.e-custom-dateranges li {
+  
+}
+.e-custom-dateranges li.e-active {
+  
+}
+.e-custom-dateranges li.e-active {
+  /*other*/
+
+  
+}
+.e-custom-dateranges li.e-active {
+  color: #0078d7;
+}
+.e-custom-dateranges li:hover {
+  
+}
+.e-custom-dateranges li:hover {
+  color: #005a9e;
+}
+.e-daterange-responsive .e-custom-dateranges {
+  
+}
+.e-daterangepicker-popup .e-drp-button.e-btn.e-select.e-flat {
+  background: none;
+  color: #0078d7;
+}
+.e-daterangepicker-popup .e-drp-button.e-btn.e-select.e-flat:hover {
+  background: none;
+  color: #005a9e;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-months td,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-years td,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-allyears td {
+  background: transparent;
+  color: black;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today {
+  background: white;
+  color: #212121;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-state-hover:hover,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.today:hover {
+  background: #eaeaea;
+  color: #212121;
+  
+}
+.e-daterangepicker-popup .e-custom-dateranges li:hover {
+  
+}
+.e-daterangepicker-popup .e-custom-dateranges li:hover {
+  
+}
+.e-daterangepicker-popup .e-custom-dateranges li:hover {
+  color: #005a9e;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range + .e-end-date {
+  
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.e-start-date.showrange {
+  
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range {
+  color: #212121;
+  border-color: #c8c8c8;
+  
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range {
+  /*other*/
+  background: #f4f4f4;
+  box-shadow: 0 0 0 transparent inset;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default.in-range {
+  background-color: #f4f4f4;
+}
+/*button css*/
+
+.e-daterangepicker-popup .e-drpbuttons {
+  
+}
+.e-daterangepicker-popup .e-drpbuttons {
+  color: #212121;
+}
+.e-daterangepicker-popup .e-drpbuttons div {
+  
+}
+.e-daterangepicker-popup .e-drpbuttons div {
+  
+}
+.e-daterangepicker-popup .e-drpbuttons div {
+  color: #212121;
+}
+.e-daterangepicker-popup .e-drpbuttons div:hover {
+  
+}
+.e-daterangepicker-popup .e-drpbuttons div:hover {
+  
+}
+.e-daterangepicker-popup .e-drpbuttons div:hover {
+  color: #005a9e;
+}
+.e-daterangepicker-popup .e-drpbuttons .e-active {
+  
+}
+.e-daterangepicker-popup .e-drpbuttons .e-active {
+  color: #212121;
+}
+.e-daterangepicker-popup .e-datewidget.e-error .e-in-wrap {
+  border-color: #c8c8c8;
+}
+.e-daterangepicker-popup .e-datewidget.e-error {
+  color: white;
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days .e-state-default {
+  
+}
+.e-daterangepicker-popup.e-popup .e-datepickers-popup .e-left-datepicker .e-datewidget.e-focus .e-in-wrap,
+.e-daterangepicker-popup.e-popup .e-datepickers-popup .e-right-datepicker .e-datewidget.e-focus .e-in-wrap {
+  
+}
+.e-daterangepicker-popup .e-left-datepicker {
+  
+}
+.e-daterangepicker-popup .e-right-datepicker {
+  
+}
+.e-daterangepicker-popup .e-left-datepicker .e-timewidget,
+.e-daterangepicker-popup .e-right-datepicker .e-timewidget {
+  
+}
+.e-daterangepicker-popup .e-left-datepicker .e-timewidget.e-focus .e-in-wrap,
+.e-daterangepicker-popup .e-right-datepicker .e-timewidget.e-focus .e-in-wrap {
+  
+}
+.e-daterange-timepopup.e-time-popup ul li {
+  
+}
+.e-daterangepicker-popup .e-left-datepicker .e-timewidget.e-active .e-select,
+.e-daterangepicker-popup .e-right-datepicker .e-timewidget.e-active .e-select {
+  
+}
+.e-daterangepicker-popup .e-left-datepicker .e-timewidget .e-select,
+.e-daterangepicker-popup .e-right-datepicker .e-timewidget .e-select {
+  
+}
+.e-daterangewidget.e-active .e-select {
+  
+}
+.e-daterangewidget .e-input::selection,
+.e-datetime-wrap .e-input::selection {
+  
+}
+.e-daterangewidget .e-input::-moz-selection,
+.e-datetime-wrap .e-input::-moz-selection {
+  
+}
+.e-daterangepicker-popup .e-drp-button.e-btn.e-select.e-flat:not(:active):after {
+  
+}
+.e-daterangepicker-popup .e-drp-button.e-btn.e-select.e-flat.e-disable:not(:active):after {
+  
+}
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days td.e-start-date:not(:active):after,
+.e-daterangepicker-popup .e-datepicker .e-datepicker-days td.e-end-date:not(:active):after {
+  
+}
+.e-daterangepicker-popup .e-drp-button.e-btn.e-flat.e-disable.e-select,
+.e-daterangepicker-popup .e-drp-button.e-btn.e-flat.e-disable.e-select:active,
+.e-daterangepicker-popup .e-drp-button.e-btn.e-flat.e-disable.e-select:hover {
+  
+}
+@keyframes flatshadow {
+  0% {
+    box-shadow: 0 0 0 0px rgba(255, 64, 129, 0.5);
+    border-color: rgba(255, 64, 129, 0.5);
+  }
+  100% {
+    box-shadow: 0 0 0 200px rgba(255, 64, 129, 0);
+  }
+}
+.e-daterangepicker-popup.e-popup .e-datepickers-popup .e-right-datepicker.e-right-timepicker .e-datewidget .e-in-wrap,
+.e-daterangepicker-popup.e-popup .e-datepickers-popup .e-left-datepicker.e-left-timepicker .e-datewidget .e-in-wrap {
+  
+}
+.e-daterangepicker-popup.e-popup .e-datepickers-popup .e-left-datepicker::after {
+  
+}
+.e-daterangepicker-popup .e-custom-dateranges ul {
+  
+}
+.e-daterangepicker-popup .e-datewidget.e-focus .e-in-wrap:before,
+.e-daterangepicker-popup .e-datewidget.e-focus .e-in-wrap:after,
+.e-daterangepicker-popup .e-left-datepicker .e-timewidget.e-focus .e-in-wrap:before,
+.e-daterangepicker-popup .e-left-datepicker .e-timewidget.e-focus .e-in-wrap:after,
+.e-daterangepicker-popup .e-right-datepicker .e-timewidget.e-focus .e-in-wrap:before,
+.e-daterangepicker-popup .e-right-datepicker .e-timewidget.e-focus .e-in-wrap:after {
+  
+}
+.e-daterangewidget.e-disable {
+  
+}
+.e-daterangewidget .e-select.e-disable,
+.e-daterangewidget.e-disable .e-select:hover,
+.e-ntouch.e-daterangewidget .e-disable.e-select:hover {
+  
+}
+.e-daterangewidget.e-widget.e-disable:hover .e-in-wrap {
+  border-color: #c8c8c8;
+}
+.e-daterangepicker-popup.e-daterange-responsive .e-right-datepicker {
+  
+}
+.e-daterange-responsive .e-drpbuttons {
+  background-color: transparent;
+}
