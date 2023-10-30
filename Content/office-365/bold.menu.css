@@ -1,0 +1,479 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/* ------- menu less ----------- */
+
+.e-menu.e-separator.e-horizontal > .e-list,
+.e-menu.e-separator.e-horizontal > .e-list:hover,
+.e-menu.e-horizontal > .e-separator.e-list,
+.e-menu.e-horizontal > .e-separator.e-list:hover {
+  
+}
+.e-menu.e-separator.e-horizontal > .e-list,
+.e-menu.e-separator.e-horizontal > .e-list:hover,
+.e-menu.e-horizontal > .e-separator.e-list,
+.e-menu.e-horizontal > .e-separator.e-list:hover {
+  
+}
+.e-menu.e-separator.e-horizontal > .e-list,
+.e-menu.e-separator.e-horizontal > .e-list:hover,
+.e-menu.e-horizontal > .e-separator.e-list,
+.e-menu.e-horizontal > .e-separator.e-list:hover {
+  /*office-365*/
+  border-right-color: transparent;
+}
+.e-menu.e-horizontal .e-list > ul .e-list.e-separator,
+.e-menu.e-horizontal .e-list > ul .e-list.e-separator:hover,
+.e-menu.e-vertical .e-list > ul .e-list.e-separator,
+.e-menu.e-vertical .e-list > ul .e-list.e-separator:hover,
+.e-menu.e-context .e-list > ul .e-list.e-separator,
+.e-menu.e-context .e-list > ul .e-list.e-separator:hover,
+.e-menu.e-separator.e-vertical > .e-list,
+.e-menu.e-vertical > .e-separator.e-list,
+.e-menu.e-separator.e-vertical > .e-list:hover,
+.e-menu.e-vertical > .e-separator.e-list:hover,
+.e-menu.e-context > .e-separator.e-list,
+.e-menu.e-context > .e-separator.e-list:hover {
+  border-bottom-color: #c8c8c8;
+}
+.e-menu.e-separator.e-rtl.e-horizontal > .e-list,
+.e-menu.e-rtl.e-horizontal > .e-separator.e-list,
+.e-menu.e-rtl.e-horizontal > .e-separator.e-list:hover {
+  border-left-color: #c8c8c8;
+}
+/*---------------------theming----------------------------------*/
+
+.e-menu.e-horizontal .e-list > .e-menulink,
+.e-menu.e-vertical .e-list > .e-menulink,
+.e-menu.e-context .e-list > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-res-title,
+.e-menu.e-vertical {
+  
+}
+.e-menu.e-horizontal .e-list > .e-menulink,
+.e-menu.e-vertical .e-list > .e-menulink,
+.e-menu.e-context .e-list > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-res-title,
+.e-menu.e-vertical {
+  
+}
+.e-menu.e-horizontal .e-list > .e-menulink,
+.e-menu.e-vertical .e-list > .e-menulink,
+.e-menu.e-context .e-list > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-res-title,
+.e-menu.e-vertical {
+  color: #333333;
+  font-weight: 400;
+  font-size: 14px;
+}
+.e-menu,
+.e-menu-res-wrap .e-in-wrap.e-menu-res-in-wrap,
+.e-menu.e-vertical,
+.e-menu.e-vertical .e-list > ul,
+.e-menu.e-context,
+.e-menu.e-context .e-list > ul {
+  
+}
+.e-menu,
+.e-menu-res-wrap .e-in-wrap.e-menu-res-in-wrap,
+.e-menu.e-vertical,
+.e-menu.e-vertical .e-list > ul,
+.e-menu.e-context,
+.e-menu.e-context .e-list > ul {
+  background: white;
+  
+}
+.e-menu,
+.e-menu-res-wrap .e-in-wrap.e-menu-res-in-wrap,
+.e-menu.e-vertical,
+.e-menu.e-vertical .e-list > ul,
+.e-menu.e-context,
+.e-menu.e-context .e-list > ul {
+  border-color: #eaeaea;
+}
+.e-menu.e-horizontal .e-list > ul {
+  background: white;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  
+}
+.e-menu.e-horizontal .e-list > ul {
+  /*other*/
+  border-color: #c8c8c8;
+}
+.e-menu.e-horizontal > .e-list.e-active > span.e-menu-arrow > span.e-arrowMenuOuter {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  left: 0px;
+  top: 0px;
+  border-bottom: 10px solid #eaeaea;
+  position: absolute;
+}
+.e-menu.e-horizontal > .e-list.e-active > span.e-menu-arrow > span.e-arrowMenuInner {
+  width: 0;
+  height: 0;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+  border-bottom: 9px solid white;
+  left: 1px;
+  top: 1px;
+  position: absolute;
+}
+.e-menu.e-horizontal .e-list:hover,
+.e-menu.e-vertical .e-list:hover,
+.e-menu.e-context .e-list:hover {
+  
+}
+.e-menu.e-horizontal .e-list:hover,
+.e-menu.e-vertical .e-list:hover,
+.e-menu.e-context .e-list:hover {
+  
+}
+.e-menu.e-horizontal .e-list:hover,
+.e-menu.e-vertical .e-list:hover,
+.e-menu.e-context .e-list:hover {
+  background-color: #f4f4f4;
+  color: #212121;
+}
+.e-menu.e-horizontal .e-list > ul li.e-haschild:hover,
+.e-menu.e-vertical .e-list > ul li.e-haschild:hover,
+.e-menu.e-context .e-list > ul li.e-haschild:hover {
+  border-color: #eaeaea;
+}
+.e-menu.e-horizontal .e-list:hover > .e-menulink,
+.e-menu.e-vertical .e-list:hover > .e-menulink,
+.e-menu.e-context .e-list:hover > .e-menulink {
+  color: #212121;
+}
+.e-menu.e-horizontal .e-list.e-active,
+.e-menu.e-vertical .e-list.e-active,
+.e-menu.e-context .e-list.e-active {
+  
+}
+.e-menu.e-horizontal .e-list.e-active,
+.e-menu.e-vertical .e-list.e-active,
+.e-menu.e-context .e-list.e-active {
+  
+}
+.e-menu.e-horizontal .e-list.e-active,
+.e-menu.e-vertical .e-list.e-active,
+.e-menu.e-context .e-list.e-active {
+  background-color: #0078d7;
+  color: white;
+}
+.e-menu.e-horizontal .e-list.e-active,
+.e-menu.e-vertical .e-list.e-active,
+.e-menu.e-context .e-list.e-active {
+  
+}
+.e-menu.e-horizontal .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-vertical .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-context .e-list > ul li.e-haschild.e-active > .e-menulink {
+  
+}
+.e-menu.e-horizontal .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-vertical .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-context .e-list > ul li.e-haschild.e-active > .e-menulink {
+  
+}
+.e-menu.e-horizontal .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-vertical .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-context .e-list > ul li.e-haschild.e-active > .e-menulink {
+  border-color: none;
+  background-color: #deecf9;
+  color: #333333;
+}
+.e-menu.e-horizontal .e-list.e-active > .e-menulink,
+.e-menu.e-vertical .e-list.e-active > .e-menulink,
+.e-menu.e-context .e-list.e-active > .e-menulink,
+.e-menu.e-horizontal .e-list.e-active:hover,
+.e-menu.e-vertical .e-list.e-active:hover,
+.e-menu.e-context .e-list.e-active:hover {
+  
+}
+.e-menu.e-horizontal .e-list.e-active > .e-menulink,
+.e-menu.e-vertical .e-list.e-active > .e-menulink,
+.e-menu.e-context .e-list.e-active > .e-menulink,
+.e-menu.e-horizontal .e-list.e-active:hover,
+.e-menu.e-vertical .e-list.e-active:hover,
+.e-menu.e-context .e-list.e-active:hover {
+  /*other*/
+
+  
+}
+.e-menu.e-horizontal .e-list.e-active > .e-menulink,
+.e-menu.e-vertical .e-list.e-active > .e-menulink,
+.e-menu.e-context .e-list.e-active > .e-menulink,
+.e-menu.e-horizontal .e-list.e-active:hover,
+.e-menu.e-vertical .e-list.e-active:hover,
+.e-menu.e-context .e-list.e-active:hover {
+  color: white;
+}
+.e-menu .e-list > a .e-icon,
+.e-menu .e-list > span > .e-icon {
+  
+}
+.e-menu .e-list > a .e-icon,
+.e-menu .e-list > span > .e-icon {
+  
+}
+.e-menu .e-list > a .e-icon,
+.e-menu .e-list > span > .e-icon {
+  color: #333333;
+}
+.e-menu .e-list.e-active > .e-menulink > span.e-icon.e-arrowhead-right {
+  color: #333333;
+}
+.e-menu .e-list:hover > a .e-icon,
+.e-menu .e-list:hover > span > .e-icon {
+  
+}
+.e-menu .e-list:hover > a .e-icon,
+.e-menu .e-list:hover > span > .e-icon {
+  color: #212121;
+}
+.e-menu .e-list.e-active > a > .e-icon,
+.e-menu .e-list.e-active > span > .e-icon,
+.e-menu .e-list.e-active:hover > a > .e-icon,
+.e-menu .e-list.e-active:hover > span > .e-icon {
+  
+}
+.e-menu .e-list.e-active > a > .e-icon,
+.e-menu .e-list.e-active > span > .e-icon,
+.e-menu .e-list.e-active:hover > a > .e-icon,
+.e-menu .e-list.e-active:hover > span > .e-icon {
+  
+}
+.e-menu .e-list.e-active > a > .e-icon,
+.e-menu .e-list.e-active > span > .e-icon,
+.e-menu .e-list.e-active:hover > a > .e-icon,
+.e-menu .e-list.e-active:hover > span > .e-icon {
+  color: white;
+}
+/*----------------------------------- disabled items ----------------------------------*/
+
+.e-menu.e-horizontal .e-list.e-disable-item,
+.e-menu.e-vertical .e-list.e-disable-item,
+.e-menu.e-context .e-list.e-disable-item {
+  background-color: transparent;
+}
+.e-menu.e-horizontal .e-list.e-disable-item .e-icon,
+.e-menu.e-vertical .e-list.e-disable-item .e-icon,
+.e-menu.e-context .e-list.e-disable-item .e-icon {
+  color: #666666;
+}
+.e-menu.e-horizontal .e-list.e-disable-item *,
+.e-menu.e-vertical .e-list.e-disable-item *,
+.e-menu.e-context .e-list.e-disable-item * {
+  filter: alpha(opacity=40);
+  opacity: 0.4;
+}
+.e-menu.e-horizontal .e-list.e-disable-item .e-menulink:hover,
+.e-menu.e-horizontal .e-list.e-disable-item:hover,
+.e-menu.e-vertical .e-list.e-disable-item .e-menulink:hover,
+.e-menu.e-vertical .e-list.e-disable-item:hover,
+.e-menu.e-context .e-list.e-disable-item .e-menulink:hover,
+.e-menu.e-context .e-list.e-disable-item:hover {
+  background-color: transparent;
+  background-image: none;
+  color: #212121;
+  cursor: default;
+}
+.e-menu.e-horizontal .e-mhover,
+.e-menu.e-context .e-mhover,
+.e-menu.e-vertical .e-mhover,
+.e-menu.e-horizontal .e-mhover > .e-menulink,
+.e-menu.e-context .e-mhover > .e-menulink,
+.e-menu.e-vertical .e-mhover > .e-menulink,
+.e-menu.e-horizontal .e-mfocused,
+.e-menu.e-context .e-mfocused,
+.e-menu.e-vertical .e-mfocused,
+.e-menu.e-horizontal .e-mfocused > .e-menulink,
+.e-menu.e-context .e-mfocused > .e-menulink,
+.e-menu.e-vertical .e-mfocused > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  
+}
+.e-menu.e-horizontal .e-mhover,
+.e-menu.e-context .e-mhover,
+.e-menu.e-vertical .e-mhover,
+.e-menu.e-horizontal .e-mhover > .e-menulink,
+.e-menu.e-context .e-mhover > .e-menulink,
+.e-menu.e-vertical .e-mhover > .e-menulink,
+.e-menu.e-horizontal .e-mfocused,
+.e-menu.e-context .e-mfocused,
+.e-menu.e-vertical .e-mfocused,
+.e-menu.e-horizontal .e-mfocused > .e-menulink,
+.e-menu.e-context .e-mfocused > .e-menulink,
+.e-menu.e-vertical .e-mfocused > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  /*other*/
+
+  
+}
+.e-menu.e-horizontal .e-mhover,
+.e-menu.e-context .e-mhover,
+.e-menu.e-vertical .e-mhover,
+.e-menu.e-horizontal .e-mhover > .e-menulink,
+.e-menu.e-context .e-mhover > .e-menulink,
+.e-menu.e-vertical .e-mhover > .e-menulink,
+.e-menu.e-horizontal .e-mfocused,
+.e-menu.e-context .e-mfocused,
+.e-menu.e-vertical .e-mfocused,
+.e-menu.e-horizontal .e-mfocused > .e-menulink,
+.e-menu.e-context .e-mfocused > .e-menulink,
+.e-menu.e-vertical .e-mfocused > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  background-color: #f4f4f4;
+}
+.e-menu.e-horizontal .e-active,
+.e-menu.e-context .e-active,
+.e-menu.e-vertical .e-active,
+.e-menu.e-horizontal .e-active > .e-menulink,
+.e-menu.e-context .e-active > .e-menulink,
+.e-menu.e-vertical .e-active > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  
+}
+.e-menu.e-horizontal .e-active,
+.e-menu.e-context .e-active,
+.e-menu.e-vertical .e-active,
+.e-menu.e-horizontal .e-active > .e-menulink,
+.e-menu.e-context .e-active > .e-menulink,
+.e-menu.e-vertical .e-active > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  /*other*/
+
+  color: white;
+  border-color: #eaeaea;
+}
+.e-menu.e-horizontal .e-active,
+.e-menu.e-context .e-active,
+.e-menu.e-vertical .e-active,
+.e-menu.e-horizontal .e-active > .e-menulink,
+.e-menu.e-context .e-active > .e-menulink,
+.e-menu.e-vertical .e-active > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  background: #0078d7;
+}
+.e-menu.e-horizontal .e-active,
+.e-menu.e-context .e-active,
+.e-menu.e-vertical .e-active,
+.e-menu.e-horizontal .e-active > .e-menulink,
+.e-menu.e-context .e-active > .e-menulink,
+.e-menu.e-vertical .e-active > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  
+}
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap {
+  color: #333333;
+}
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  
+  border-color: #eaeaea;
+}
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  color: black;
+}
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:active {
+  
+  color: white;
+  border-color: #eaeaea;
+}
+.e-menu.e-horizontal > .e-list span.e-menu-left {
+  
+}
+.e-menu.e-horizontal > .e-list span.e-menu-left {
+  /*other*/
+  display: block;
+}
+.e-menu .e-list > .e-menulink > span.e-icon.e-arrowhead-down {
+  
+}
+.e-menu .e-list > .e-menulink > span.e-icon.e-arrowhead-down {
+  /*other*/
+  display: block;
+}
+.e-menu.e-horizontal > .e-ham-wrap {
+  background: white;
+  border-left-color: #c8c8c8;
+}
+.e-menu.e-horizontal > .e-ham-wrap:hover {
+  color: white;
+  border-color: #eaeaea;
+}
+.e-menu.e-horizontal > .e-ham-wrap:hover {
+  background: #eaeaea;
+}
+.e-menu.e-horizontal > .e-ham-wrap:active {
+  
+  color: white;
+  border-color: #eaeaea;
+}
+.e-menu.e-horizontal > .e-ham-wrap:active {
+  background: #0078d7;
+}
+.e-menu.e-horizontal > .e-ham-wrap > div > .e-hamburger {
+  border-top-color: #212121;
+  border-bottom-color: #212121;
+}
+.e-menu.e-horizontal > .e-ham-wrap > div > .e-hamburger:before {
+  border-top-color: #212121;
+}
+.e-menu-wrap > .e-menu-popwrap {
+  border-color: #c8c8c8;
+}
+.e-menu-wrap > .e-menu-popwrap > .e-menu {
+  background-color: white;
+}
+.e-menu .e-list ul:first-child li:first-child {
+  
+}
+.e-menu.e-context > .e-separator.e-list {
+  
+}

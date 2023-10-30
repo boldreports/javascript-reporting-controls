@@ -1,0 +1,197 @@
+/*-----------------------HeatMap Definition-----------------*/
+/*@neutral-light;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+.office-file-explorer-toolbar-bg-color {
+  background: white;
+}
+.office-tab-header-bg-color {
+  background: white;
+}
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #c8c8c8;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+.e-excelfilter.e-dlgcontainer {
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-weight: normal;
+  font-size: 13px;
+  color: #212121;
+  z-index: 10001;
+}
+.e-excelfilter.e-dlgcontainer {
+  padding: 20px 12px;
+}
+.e-excelfilter .e-searchcontainer,
+.e-excelfilter.e-dlgcontainer {
+  background: none white;
+}
+.e-excelfilter .e-btncan {
+  
+}
+.e-excelfilter .e-menu,
+.e-excelfilter .e-menu.e-vertical,
+.e-excelfilter .e-menu.e-vertical .e-list > ul {
+  background: white;
+  
+}
+.e-excelfilter .e-checkboxlist {
+  background: #f7f7f7;
+  border: #f7f7f7;
+}
+.e-excelfilter.e-dlgcontainer,
+.e-excelfilter.e-dlgcustom .e-fieldset,
+.e-excelfilter .e-menu.e-vertical .e-list > ul {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #fafafa;
+}
+.e-excelfilter .e-checkboxlist label.e-ftrchk,
+.e-excelfilter.e-dlgcustom label.e-caption,
+.e-excelfilter .e-searchbox .e-searchitem {
+  font-weight: normal;
+}
+.e-excelfilter .e-optable .e-fields .e-value span.e-widget {
+  
+}
+.e-sortasc,
+.e-sortdesc {
+  font-size: 18px;
+}
+.e-excelfilter.e-dlgcustom .e-fieldset legend {
+  font-size: 14px;
+  color: #212121;
+  border: none;
+}
+.e-excelfilter .e-select:hover .e-icon {
+  color: #666666;
+}
+.e-excelfilter.e-dlgcustom .e-input {
+  line-height: 1.7em;
+}
+.e-excelfilter {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.e-excelfilter .e-menu .e-list.e-fghdrcolor,
+.e-excelfilter .e-menu .e-list.e-bghdrcolor,
+e-excelfilter .e-menu .e-list.e-fghdrcolor.e-mhover.e-mfocused,
+.e-excelfilter .e-menu .e-list.e-bghdrcolor.e-mhover.e-mfocused,
+.e-excelfilter .e-menu.e-vertical .e-list.e-fghdrcolor:hover,
+.e-excelfilter .e-menu.e-vertical .e-list.e-bghdrcolor:hover {
+  background: white;
+}
+.e-bghdrcolor > a,
+.e-fghdrcolor > a {
+  color: #212121;
+}
+.e-excelfilter .e-menu .e-list.e-valcolor {
+  border-color: white;
+}
+.e-excelfilter .e-menu .e-list.e-valcolor.e-mhover.e-mfocused {
+  border-color: #0078d7;
+  background: transparent;
+}
+.e-excelfilter .e-menu .e-list.e-fghdrcolor.e-mhover > a,
+.e-excelfilter .e-menu .e-list.e-fghdrcolor.e-mfocused > a,
+.e-excelfilter .e-menu .e-list.e-bghdrcolor.e-mhover > a,
+.e-excelfilter .e-menu .e-list.e-bghdrcolor.e-mfocused > a {
+  background: transparent;
+  color: #212121;
+}
+.e-excelfilter .e-searchbox .e-ejinputtext {
+  
+}
+.e-excelfilter .e-searchbox .e-ejinputtext:focus {
+  
+}
+.e-excelfilter .e-menu-wrap ul.e-menu {
+  
+}
+.e-excelfilter .e-btncontainer input,
+.e-excelfilter .e-checkboxlist .e-ftrchk {
+  
+}
+.e-excelfilter .e-searchcontainer .e-fields {
+  
+}
+.e-btn.e-btn-normal,
+.e-tbtn.e-btn-normal {
+  
+}
+.e-excelfilter .e-btncontainer > div {
+  
+}
+.e-excelfilter.e-dlgcustom {
+  
+}
+.e-excelfilter .e-dialog {
+  padding: 20px 25px 0;
+}
+.e-excelfilter.e-dlgcustom.e-dialog:first-child {
+  padding-top: 8px;
+}
+.e-excelfilter.e-dlgcustom .e-dlgfields:last-child {
+  padding-bottom: 0;
+}
+.e-excelfilter.e-dlgcustom .e-dlgfields {
+  padding-bottom: 20px;
+}
+.e-excelfilter span.e-filternone.e-icon {
+  margin: 0;
+}
+.e-excelfilter .e-checkboxlist .e-ftrchk {
+  margin-top: 6px;
+  height: 36px;
+}
+.e-excelfilter ul.e-menu.e-vertical {
+  width: 242px !important;
+}
+.e-excelfilter .e-searchcontainer .e-btncontainer.e-fields .e-button:last-child {
+  margin-right: 0 !important;
+}
+.e-excelfilter .e-searchcontainer .e-btncontainer.e-fields {
+  float: right;
+}
+.e-excelfilter .e-shadow .e-list > a {
+  padding-left: 12px !important;
+}
+.e-excelfilter .e-shadow {
+  
+}

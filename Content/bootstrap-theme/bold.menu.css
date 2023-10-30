@@ -1,0 +1,682 @@
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #cecece;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/* ------- menu less ----------- */
+
+.e-menu.e-separator.e-horizontal > .e-list,
+.e-menu.e-separator.e-horizontal > .e-list:hover,
+.e-menu.e-horizontal > .e-separator.e-list,
+.e-menu.e-horizontal > .e-separator.e-list:hover {
+  
+}
+.e-menu.e-separator.e-horizontal > .e-list,
+.e-menu.e-separator.e-horizontal > .e-list:hover,
+.e-menu.e-horizontal > .e-separator.e-list,
+.e-menu.e-horizontal > .e-separator.e-list:hover {
+  
+}
+.e-menu.e-separator.e-horizontal > .e-list,
+.e-menu.e-separator.e-horizontal > .e-list:hover,
+.e-menu.e-horizontal > .e-separator.e-list,
+.e-menu.e-horizontal > .e-separator.e-list:hover {
+  /*other*/
+
+  
+}
+.e-menu.e-separator.e-horizontal > .e-list,
+.e-menu.e-separator.e-horizontal > .e-list:hover,
+.e-menu.e-horizontal > .e-separator.e-list,
+.e-menu.e-horizontal > .e-separator.e-list:hover {
+  border-right-color: #cecece;
+}
+.e-menu.e-horizontal .e-list > ul .e-list.e-separator,
+.e-menu.e-horizontal .e-list > ul .e-list.e-separator:hover,
+.e-menu.e-vertical .e-list > ul .e-list.e-separator,
+.e-menu.e-vertical .e-list > ul .e-list.e-separator:hover,
+.e-menu.e-context .e-list > ul .e-list.e-separator,
+.e-menu.e-context .e-list > ul .e-list.e-separator:hover,
+.e-menu.e-separator.e-vertical > .e-list,
+.e-menu.e-vertical > .e-separator.e-list,
+.e-menu.e-separator.e-vertical > .e-list:hover,
+.e-menu.e-vertical > .e-separator.e-list:hover,
+.e-menu.e-context > .e-separator.e-list,
+.e-menu.e-context > .e-separator.e-list:hover {
+  border-bottom-color: #cecece;
+}
+.e-menu.e-separator.e-rtl.e-horizontal > .e-list,
+.e-menu.e-rtl.e-horizontal > .e-separator.e-list,
+.e-menu.e-rtl.e-horizontal > .e-separator.e-list:hover {
+  border-left-color: #cecece;
+}
+/*---------------------theming----------------------------------*/
+
+.e-menu.e-horizontal .e-list > .e-menulink,
+.e-menu.e-vertical .e-list > .e-menulink,
+.e-menu.e-context .e-list > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-res-title,
+.e-menu.e-vertical {
+  
+}
+.e-menu.e-horizontal .e-list > .e-menulink,
+.e-menu.e-vertical .e-list > .e-menulink,
+.e-menu.e-context .e-list > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-res-title,
+.e-menu.e-vertical {
+  
+}
+.e-menu.e-horizontal .e-list > .e-menulink,
+.e-menu.e-vertical .e-list > .e-menulink,
+.e-menu.e-context .e-list > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-res-title,
+.e-menu.e-vertical {
+  
+}
+.e-menu.e-horizontal .e-list > .e-menulink,
+.e-menu.e-vertical .e-list > .e-menulink,
+.e-menu.e-context .e-list > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-res-title,
+.e-menu.e-vertical {
+  color: #333333;
+}
+.e-menu,
+.e-menu-res-wrap .e-in-wrap.e-menu-res-in-wrap,
+.e-menu.e-vertical,
+.e-menu.e-vertical .e-list > ul,
+.e-menu.e-context,
+.e-menu.e-context .e-list > ul {
+  
+}
+.e-menu,
+.e-menu-res-wrap .e-in-wrap.e-menu-res-in-wrap,
+.e-menu.e-vertical,
+.e-menu.e-vertical .e-list > ul,
+.e-menu.e-context,
+.e-menu.e-context .e-list > ul {
+  background: white;
+  
+}
+.e-menu,
+.e-menu-res-wrap .e-in-wrap.e-menu-res-in-wrap,
+.e-menu.e-vertical,
+.e-menu.e-vertical .e-list > ul,
+.e-menu.e-context,
+.e-menu.e-context .e-list > ul {
+  /*other*/
+  border-color: #cecece;
+}
+.e-menu.e-horizontal .e-list > ul {
+  background: white;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  
+}
+.e-menu.e-horizontal .e-list > ul {
+  /*other*/
+  border-color: #cecece;
+}
+.e-menu.e-horizontal > .e-list.e-active > span.e-menu-arrow > span.e-arrowMenuOuter {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  left: 0px;
+  top: 0px;
+  border-bottom: 10px solid #f4f4f4;
+  position: absolute;
+}
+.e-menu.e-horizontal > .e-list.e-active > span.e-menu-arrow > span.e-arrowMenuInner {
+  width: 0;
+  height: 0;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+  border-bottom: 9px solid white;
+  left: 1px;
+  top: 1px;
+  position: absolute;
+}
+.e-menu.e-horizontal .e-list:hover,
+.e-menu.e-vertical .e-list:hover,
+.e-menu.e-context .e-list:hover {
+  
+}
+.e-menu.e-horizontal .e-list:hover,
+.e-menu.e-vertical .e-list:hover,
+.e-menu.e-context .e-list:hover {
+  
+}
+.e-menu.e-horizontal .e-list:hover,
+.e-menu.e-vertical .e-list:hover,
+.e-menu.e-context .e-list:hover {
+  
+}
+.e-menu.e-horizontal .e-list:hover,
+.e-menu.e-vertical .e-list:hover,
+.e-menu.e-context .e-list:hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-menu.e-horizontal .e-list:hover,
+.e-menu.e-vertical .e-list:hover,
+.e-menu.e-context .e-list:hover {
+  border-color: #f4f4f4;
+}
+.e-menu.e-horizontal .e-list > ul li.e-haschild:hover,
+.e-menu.e-vertical .e-list > ul li.e-haschild:hover,
+.e-menu.e-context .e-list > ul li.e-haschild:hover {
+  background: #3277b2;
+  border-color: #f4f4f4;
+}
+.e-menu.e-horizontal .e-list > ul li.e-haschild:hover > .e-menulink,
+.e-menu.e-vertical .e-list > ul li.e-haschild:hover > .e-menulink,
+.e-menu.e-context .e-list > ul li.e-haschild:hover > .e-menulink {
+  background: #3277b2;
+  color: white;
+}
+.e-menu.e-horizontal .e-list:hover > .e-menulink,
+.e-menu.e-vertical .e-list:hover > .e-menulink,
+.e-menu.e-context .e-list:hover > .e-menulink {
+  color: #333333;
+}
+.e-menu.e-horizontal .e-list.e-active,
+.e-menu.e-vertical .e-list.e-active,
+.e-menu.e-context .e-list.e-active {
+  
+}
+.e-menu.e-horizontal .e-list.e-active,
+.e-menu.e-vertical .e-list.e-active,
+.e-menu.e-context .e-list.e-active {
+  
+}
+.e-menu.e-horizontal .e-list.e-active,
+.e-menu.e-vertical .e-list.e-active,
+.e-menu.e-context .e-list.e-active {
+  /*other*/
+
+  color: white;
+  border-color: #3277b2;
+}
+.e-menu.e-horizontal .e-list.e-active,
+.e-menu.e-vertical .e-list.e-active,
+.e-menu.e-context .e-list.e-active {
+  background: #3277b2;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3277b2, #296293);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3277b2), color-stop(100%, #296293));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3277b2, #296293);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3277b2, #296293);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3277b2, #296293);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #3277b2, #296293);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3277b2', endColorstr='#296293', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-menu.e-horizontal .e-list.e-active,
+.e-menu.e-vertical .e-list.e-active,
+.e-menu.e-context .e-list.e-active {
+  
+}
+.e-menu.e-horizontal .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-vertical .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-context .e-list > ul li.e-haschild.e-active > .e-menulink {
+  
+}
+.e-menu.e-horizontal .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-vertical .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-context .e-list > ul li.e-haschild.e-active > .e-menulink {
+  
+}
+.e-menu.e-horizontal .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-vertical .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-context .e-list > ul li.e-haschild.e-active > .e-menulink {
+  /*other*/
+
+  border-color: #3277b2;
+  color: white;
+}
+.e-menu.e-horizontal .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-vertical .e-list > ul li.e-haschild.e-active > .e-menulink,
+.e-menu.e-context .e-list > ul li.e-haschild.e-active > .e-menulink {
+  background: #3277b2;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3277b2, #296293);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3277b2), color-stop(100%, #296293));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3277b2, #296293);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3277b2, #296293);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3277b2, #296293);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #3277b2, #296293);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3277b2', endColorstr='#296293', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-menu.e-horizontal .e-list.e-active > .e-menulink,
+.e-menu.e-vertical .e-list.e-active > .e-menulink,
+.e-menu.e-context .e-list.e-active > .e-menulink,
+.e-menu.e-horizontal .e-list.e-active:hover,
+.e-menu.e-vertical .e-list.e-active:hover,
+.e-menu.e-context .e-list.e-active:hover {
+  
+}
+.e-menu.e-horizontal .e-list.e-active > .e-menulink,
+.e-menu.e-vertical .e-list.e-active > .e-menulink,
+.e-menu.e-context .e-list.e-active > .e-menulink,
+.e-menu.e-horizontal .e-list.e-active:hover,
+.e-menu.e-vertical .e-list.e-active:hover,
+.e-menu.e-context .e-list.e-active:hover {
+  /*other*/
+
+  
+}
+.e-menu.e-horizontal .e-list.e-active > .e-menulink,
+.e-menu.e-vertical .e-list.e-active > .e-menulink,
+.e-menu.e-context .e-list.e-active > .e-menulink,
+.e-menu.e-horizontal .e-list.e-active:hover,
+.e-menu.e-vertical .e-list.e-active:hover,
+.e-menu.e-context .e-list.e-active:hover {
+  color: white;
+}
+.e-menu .e-list > a .e-icon,
+.e-menu .e-list > span > .e-icon {
+  
+}
+.e-menu .e-list > a .e-icon,
+.e-menu .e-list > span > .e-icon {
+  
+}
+.e-menu .e-list > a .e-icon,
+.e-menu .e-list > span > .e-icon {
+  /*other*/
+  color: #666666;
+}
+.e-menu .e-list.e-active > .e-menulink > span.e-icon.e-arrowhead-right {
+  
+}
+.e-menu .e-list:hover > a .e-icon,
+.e-menu .e-list:hover > span > .e-icon {
+  
+}
+.e-menu .e-list:hover > a .e-icon,
+.e-menu .e-list:hover > span > .e-icon {
+  color: #333333;
+}
+.e-menu .e-list.e-active > a > .e-icon,
+.e-menu .e-list.e-active > span > .e-icon,
+.e-menu .e-list.e-active:hover > a > .e-icon,
+.e-menu .e-list.e-active:hover > span > .e-icon {
+  
+}
+.e-menu .e-list.e-active > a > .e-icon,
+.e-menu .e-list.e-active > span > .e-icon,
+.e-menu .e-list.e-active:hover > a > .e-icon,
+.e-menu .e-list.e-active:hover > span > .e-icon {
+  
+}
+.e-menu .e-list.e-active > a > .e-icon,
+.e-menu .e-list.e-active > span > .e-icon,
+.e-menu .e-list.e-active:hover > a > .e-icon,
+.e-menu .e-list.e-active:hover > span > .e-icon {
+  color: white;
+}
+/*----------------------------------- disabled items ----------------------------------*/
+
+.e-menu.e-horizontal .e-list.e-disable-item,
+.e-menu.e-vertical .e-list.e-disable-item,
+.e-menu.e-context .e-list.e-disable-item {
+  background-color: transparent;
+}
+.e-menu.e-horizontal .e-list.e-disable-item .e-icon,
+.e-menu.e-vertical .e-list.e-disable-item .e-icon,
+.e-menu.e-context .e-list.e-disable-item .e-icon {
+  color: #666666;
+}
+.e-menu.e-horizontal .e-list.e-disable-item *,
+.e-menu.e-vertical .e-list.e-disable-item *,
+.e-menu.e-context .e-list.e-disable-item * {
+  filter: alpha(opacity=40);
+  opacity: 0.4;
+}
+.e-menu.e-horizontal .e-list.e-disable-item .e-menulink:hover,
+.e-menu.e-horizontal .e-list.e-disable-item:hover,
+.e-menu.e-vertical .e-list.e-disable-item .e-menulink:hover,
+.e-menu.e-vertical .e-list.e-disable-item:hover,
+.e-menu.e-context .e-list.e-disable-item .e-menulink:hover,
+.e-menu.e-context .e-list.e-disable-item:hover {
+  background-color: transparent;
+  background-image: none;
+  color: #333333;
+  cursor: default;
+}
+.e-menu.e-horizontal .e-mhover,
+.e-menu.e-context .e-mhover,
+.e-menu.e-vertical .e-mhover,
+.e-menu.e-horizontal .e-mhover > .e-menulink,
+.e-menu.e-context .e-mhover > .e-menulink,
+.e-menu.e-vertical .e-mhover > .e-menulink,
+.e-menu.e-horizontal .e-mfocused,
+.e-menu.e-context .e-mfocused,
+.e-menu.e-vertical .e-mfocused,
+.e-menu.e-horizontal .e-mfocused > .e-menulink,
+.e-menu.e-context .e-mfocused > .e-menulink,
+.e-menu.e-vertical .e-mfocused > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  
+}
+.e-menu.e-horizontal .e-mhover,
+.e-menu.e-context .e-mhover,
+.e-menu.e-vertical .e-mhover,
+.e-menu.e-horizontal .e-mhover > .e-menulink,
+.e-menu.e-context .e-mhover > .e-menulink,
+.e-menu.e-vertical .e-mhover > .e-menulink,
+.e-menu.e-horizontal .e-mfocused,
+.e-menu.e-context .e-mfocused,
+.e-menu.e-vertical .e-mfocused,
+.e-menu.e-horizontal .e-mfocused > .e-menulink,
+.e-menu.e-context .e-mfocused > .e-menulink,
+.e-menu.e-vertical .e-mfocused > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  /*other*/
+
+  
+}
+.e-menu.e-horizontal .e-mhover,
+.e-menu.e-context .e-mhover,
+.e-menu.e-vertical .e-mhover,
+.e-menu.e-horizontal .e-mhover > .e-menulink,
+.e-menu.e-context .e-mhover > .e-menulink,
+.e-menu.e-vertical .e-mhover > .e-menulink,
+.e-menu.e-horizontal .e-mfocused,
+.e-menu.e-context .e-mfocused,
+.e-menu.e-vertical .e-mfocused,
+.e-menu.e-horizontal .e-mfocused > .e-menulink,
+.e-menu.e-context .e-mfocused > .e-menulink,
+.e-menu.e-vertical .e-mfocused > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  color: #333333;
+  border-color: #f4f4f4;
+}
+.e-menu.e-horizontal .e-mhover,
+.e-menu.e-context .e-mhover,
+.e-menu.e-vertical .e-mhover,
+.e-menu.e-horizontal .e-mhover > .e-menulink,
+.e-menu.e-context .e-mhover > .e-menulink,
+.e-menu.e-vertical .e-mhover > .e-menulink,
+.e-menu.e-horizontal .e-mfocused,
+.e-menu.e-context .e-mfocused,
+.e-menu.e-vertical .e-mfocused,
+.e-menu.e-horizontal .e-mfocused > .e-menulink,
+.e-menu.e-context .e-mfocused > .e-menulink,
+.e-menu.e-vertical .e-mfocused > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-menu.e-horizontal .e-active,
+.e-menu.e-context .e-active,
+.e-menu.e-vertical .e-active,
+.e-menu.e-horizontal .e-active > .e-menulink,
+.e-menu.e-context .e-active > .e-menulink,
+.e-menu.e-vertical .e-active > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  
+}
+.e-menu.e-horizontal .e-active,
+.e-menu.e-context .e-active,
+.e-menu.e-vertical .e-active,
+.e-menu.e-horizontal .e-active > .e-menulink,
+.e-menu.e-context .e-active > .e-menulink,
+.e-menu.e-vertical .e-active > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  /*other*/
+
+  color: white;
+  border-color: #f4f4f4;
+}
+.e-menu.e-horizontal .e-active,
+.e-menu.e-context .e-active,
+.e-menu.e-vertical .e-active,
+.e-menu.e-horizontal .e-active > .e-menulink,
+.e-menu.e-context .e-active > .e-menulink,
+.e-menu.e-vertical .e-active > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  background: #3277b2;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3277b2, #296293);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3277b2), color-stop(100%, #296293));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3277b2, #296293);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3277b2, #296293);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3277b2, #296293);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #3277b2, #296293);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3277b2', endColorstr='#296293', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-menu.e-horizontal .e-active,
+.e-menu.e-context .e-active,
+.e-menu.e-vertical .e-active,
+.e-menu.e-horizontal .e-active > .e-menulink,
+.e-menu.e-context .e-active > .e-menulink,
+.e-menu.e-vertical .e-active > .e-menulink,
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  
+}
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap {
+  
+}
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  
+  border-color: #f4f4f4;
+}
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  color: white;
+}
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:active {
+  color: white;
+  border-color: #f4f4f4;
+}
+.e-menu-res-wrap .e-menu-res-in-wrap .e-icon.e-check-wrap:active {
+  background: #3277b2;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3277b2, #296293);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3277b2), color-stop(100%, #296293));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3277b2, #296293);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3277b2, #296293);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3277b2, #296293);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #3277b2, #296293);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3277b2', endColorstr='#296293', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-menu.e-horizontal > .e-list span.e-menu-left {
+  
+}
+.e-menu.e-horizontal > .e-list span.e-menu-left {
+  /*other*/
+  display: block;
+}
+.e-menu .e-list > .e-menulink > span.e-icon.e-arrowhead-down {
+  
+}
+.e-menu .e-list > .e-menulink > span.e-icon.e-arrowhead-down {
+  /*other*/
+  display: block;
+}
+.e-menu.e-horizontal > .e-ham-wrap {
+  background: white;
+  border-left-color: #cecece;
+}
+.e-menu.e-horizontal > .e-ham-wrap:hover {
+  color: white;
+  border-color: #f4f4f4;
+}
+.e-menu.e-horizontal > .e-ham-wrap:hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-menu.e-horizontal > .e-ham-wrap:active {
+  
+  color: white;
+  border-color: #f4f4f4;
+}
+.e-menu.e-horizontal > .e-ham-wrap:active {
+  background: #3277b2;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3277b2, #296293);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3277b2), color-stop(100%, #296293));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3277b2, #296293);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3277b2, #296293);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3277b2, #296293);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #3277b2, #296293);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3277b2', endColorstr='#296293', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-menu.e-horizontal > .e-ham-wrap > div > .e-hamburger {
+  border-top-color: #333333;
+  border-bottom-color: #333333;
+}
+.e-menu.e-horizontal > .e-ham-wrap > div > .e-hamburger:before {
+  border-top-color: #333333;
+}
+.e-menu-wrap > .e-menu-popwrap {
+  border-color: #cecece;
+}
+.e-menu-wrap > .e-menu-popwrap > .e-menu {
+  background-color: white;
+}
+.e-menu .e-list ul:first-child li:first-child {
+  
+}
+.e-menu.e-context > .e-separator.e-list {
+  
+}

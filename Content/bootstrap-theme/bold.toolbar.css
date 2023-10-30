@@ -1,0 +1,421 @@
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #cecece;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- ToolBar -------------------------------------------*/
+
+.e-toolbar {
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  font-weight: normal;
+  font-size: 14px;
+  
+}
+.e-toolbar {
+  /*other*/
+
+  
+}
+.e-toolbar {
+  /*other*/
+  background-repeat: no-repeat;
+  border-color: #cecece;
+  color: #666666;
+}
+.e-toolbar {
+  background: #fcfcfc;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #fcfcfc, #e0e0e0);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fcfcfc), color-stop(100%, #e0e0e0));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #fcfcfc, #e0e0e0);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #fcfcfc, #e0e0e0);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #fcfcfc, #e0e0e0);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #fcfcfc, #e0e0e0);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fcfcfc', endColorstr='#e0e0e0', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-toolbar {
+  
+}
+.e-toolbar {
+  /*other*/
+
+  
+}
+.e-toolbar {
+  /*other*/
+
+  background: #fcfcfc;
+}
+.e-toolbar.e-focus {
+  
+}
+.e-toolbar.e-focus {
+  /*other*/
+
+  
+}
+.e-toolbar.e-focus {
+  /*other*/
+  box-shadow: 0 0 2px #cccccc;
+}
+.e-toolbar > .e-horizontal.e-separator {
+  
+}
+.e-toolbar > .e-horizontal.e-separator {
+  /*other*/
+
+  
+  border-left: none;
+  border-radius: initial;
+}
+.e-toolbar > .e-horizontal.e-separator {
+  /*office-365*/
+
+  
+}
+.e-toolbar > .e-horizontal.e-separator {
+  border-right: 1px solid #cecece;
+}
+/*-------------------tooltip class ----------------------*/
+
+.e-toolbarTooltip {
+  min-width: auto;
+}
+.e-toolbarTooltip .e-tipContainer .e-tipcontent {
+  
+}
+.e-toolbarTooltip .e-tipContainer .e-tipcontent {
+  /*other*/
+  padding: 2px 4px;
+}
+.e-toolbar > .e-horizontal .e-separator {
+  border-right: 1px solid #cecece;
+  border-left: none;
+  border-radius: inherit;
+  height: inherit;
+}
+.e-toolbar > .e-vertical.e-separator {
+  border-bottom: 1px solid #cecece;
+  border-top: none;
+  border-radius: initial;
+}
+.e-toolbar > .e-vertical .e-separator {
+  
+  border-top: none;
+  border-radius: inherit;
+}
+.e-toolbar > .e-vertical .e-separator {
+  /*office-365*/
+  border-bottom: 1px solid #cecece;
+}
+.e-toolbar.e-rtl > .e-horizontal.e-separator {
+  
+  border-right: none;
+  border-radius: initial;
+}
+.e-toolbar.e-rtl > .e-horizontal.e-separator {
+  /*office-365*/
+  border-left: 1px solid #cecece;
+}
+.e-toolbar.e-rtl > .e-horizontal .e-separator {
+  
+}
+.e-toolbar.e-rtl > .e-horizontal .e-separator {
+  /*other*/
+  border-left: 1px solid #cecece;
+  border-right: none;
+  border-radius: inherit;
+}
+.e-toolbar.e-rtl > .e-vertical.e-separator {
+  border-top: 1px solid #cecece;
+  border-bottom: none;
+  border-radius: initial;
+}
+.e-toolbar.e-rtl > .e-vertical .e-separator {
+  border-top: 1px solid #cecece;
+  border-bottom: none;
+  border-radius: inherit;
+}
+.e-toolbar.e-rtl > .e-vertical .e-corner-all {
+  border-radius: inherit;
+}
+.e-toolbar > ul > li div.e-item-overlay {
+  background-color: #fcfcfc;
+}
+.e-toolbar > .e-horizontal .e-hover,
+.e-toolbar > .e-vertical > .e-hover {
+  
+  border-color: #f4f4f4;
+}
+.e-toolbar > .e-horizontal .e-hover,
+.e-toolbar > .e-vertical > .e-hover {
+  /*other*/
+
+  
+}
+.e-toolbar > .e-horizontal .e-hover,
+.e-toolbar > .e-vertical > .e-hover {
+  color: #333333;
+}
+.e-toolbar > .e-horizontal .e-hover,
+.e-toolbar > .e-vertical > .e-hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-toolbar > .e-horizontal .e-hover > div:before,
+.e-toolbar > .e-vertical > .e-hover > div:before,
+.e-toolbar > .e-horizontal .e-hover > span:before,
+.e-toolbar > .e-vertical > .e-hover > span:before,
+.e-toolbar > .e-horizontal .e-hover > a:before,
+.e-toolbar > .e-vertical > .e-hover > a:before {
+  
+}
+.e-toolbar > .e-horizontal .e-hover > div:before,
+.e-toolbar > .e-vertical > .e-hover > div:before,
+.e-toolbar > .e-horizontal .e-hover > span:before,
+.e-toolbar > .e-vertical > .e-hover > span:before,
+.e-toolbar > .e-horizontal .e-hover > a:before,
+.e-toolbar > .e-vertical > .e-hover > a:before {
+  color: #333333;
+}
+.e-toolbar > .e-horizontal .e-active.e-hover > div:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > div:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > span:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > span:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > a:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > a:before {
+  
+}
+.e-toolbar > .e-horizontal .e-active.e-hover > div:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > div:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > span:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > span:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > a:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > a:before {
+  /*other*/
+
+  
+}
+.e-toolbar > .e-horizontal .e-active.e-hover > div:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > div:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > span:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > span:before,
+.e-toolbar > .e-horizontal .e-active.e-hover > a:before,
+.e-toolbar > .e-vertical > .e-active.e-hover > a:before {
+  color: white;
+}
+.e-toolbar > .e-horizontal .e-active,
+.e-toolbar > .e-vertical > .e-active {
+  
+}
+.e-toolbar > .e-horizontal .e-active,
+.e-toolbar > .e-vertical > .e-active {
+  /*other*/
+
+  
+}
+.e-toolbar > .e-horizontal .e-active,
+.e-toolbar > .e-vertical > .e-active {
+  /*other*/
+
+  
+}
+.e-toolbar > .e-horizontal .e-active,
+.e-toolbar > .e-vertical > .e-active {
+  background: #3277b2;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3277b2, #296293);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3277b2), color-stop(100%, #296293));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3277b2, #296293);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3277b2, #296293);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3277b2, #296293);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #3277b2, #296293);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3277b2', endColorstr='#296293', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-toolbar > .e-horizontal .e-active,
+.e-toolbar > .e-vertical > .e-active {
+  border-color: #cecece;
+  color: white;
+}
+.e-toolbar > .e-horizontal > .e-hover > a,
+.e-toolbar > .e-horizontal > .e-hover > span,
+.e-toolbar > .e-horizontal > .e-hover > div,
+.e-toolbar > .e-vertical > .e-hover > a,
+.e-toolbar > .e-vertical > .e-hover > span,
+.e-toolbar > .e-vertical > .e-hover > div {
+  
+}
+.e-toolbar > .e-horizontal > .e-hover > a,
+.e-toolbar > .e-horizontal > .e-hover > span,
+.e-toolbar > .e-horizontal > .e-hover > div,
+.e-toolbar > .e-vertical > .e-hover > a,
+.e-toolbar > .e-vertical > .e-hover > span,
+.e-toolbar > .e-vertical > .e-hover > div {
+  /*other*/
+  background-color: transparent;
+  color: #333333;
+}
+.e-toolbar > .e-horizontal > .e-active > a,
+.e-toolbar > .e-horizontal > .e-active > span,
+.e-toolbar > .e-horizontal > .e-active > div,
+.e-toolbar > .e-vertical > .e-active > a,
+.e-toolbar > .e-vertical > .e-active > span,
+.e-toolbar > .e-vertical > .e-active > div {
+  
+}
+.e-toolbar > .e-horizontal > .e-active > a,
+.e-toolbar > .e-horizontal > .e-active > span,
+.e-toolbar > .e-horizontal > .e-active > div,
+.e-toolbar > .e-vertical > .e-active > a,
+.e-toolbar > .e-vertical > .e-active > span,
+.e-toolbar > .e-vertical > .e-active > div {
+  /*other*/
+
+  
+}
+.e-toolbar > .e-horizontal > .e-active > a,
+.e-toolbar > .e-horizontal > .e-active > span,
+.e-toolbar > .e-horizontal > .e-active > div,
+.e-toolbar > .e-vertical > .e-active > a,
+.e-toolbar > .e-vertical > .e-active > span,
+.e-toolbar > .e-vertical > .e-active > div {
+  /*office-365*/
+  background-color: transparent;
+  color: white;
+}
+.e-toolbar.e-js .e-vertical > li.e-tooltxt {
+  
+}
+.e-toolbar > .e-vertical > .e-hover {
+  
+}
+.e-toolbar > .e-vertical .e-align {
+  
+}
+.e-toolbar .e-ul.e-vertical {
+  
+}
+.e-toolbar.e-js ul > li.e-tooltxt:before {
+  
+}
+.e-toolbar.e-js ul > li.e-tooltxt.e-disable:before {
+  
+}
+.e-toolbar .e-ul.e-horizontal.e-separator:first-child {
+  
+}
+.e-toolbar > .e-horizontal.e-ul:first-child {
+  
+}
+.e-toolbar .e-ul.e-horizontal.e-separator .e-tooltxt:last-child {
+  
+}
+.e-toolbar > ul > li.e-icon {
+  
+}
+.e-responsive-toolbar.e-toolbar .e-ul.e-horizontal.e-separator:first-child {
+  
+}
+.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator .e-tooltxt:last-child {
+  
+}
+.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator .e-tooltxt:first-child {
+  
+}
+.e-toolbar.e-js.e-rtl ul > li.e-tooltxt:last-child {
+  
+}
+.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator:first-child {
+  
+}
+.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator:first-child {
+  
+}
+.e-toolbar.e-js.e-rtl ul > li.e-tooltxt:first-child {
+  
+}
+.e-toolbar.e-toolbarspan.e-rtl {
+  
+}
+.e-responsive-toolbar.e-toolbar.e-rtl .e-ul.e-horizontal.e-separator .e-tooltxt:first-child {
+  
+}
+.e-toolbar > .e-horizontal .e-disable,
+.e-toolbar > .e-vertical .e-disable {
+  
+}
+.e-toolbar > .e-horizontal .e-disable,
+.e-toolbar > .e-vertical .e-disable {
+  
+}
+.e-responsive-toolbar.e-toolbar.e-js.e-rtl ul > li.e-tooltxt:first-child {
+  
+}

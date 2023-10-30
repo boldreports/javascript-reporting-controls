@@ -1,0 +1,221 @@
+/*@pager-currentitem:#428BCA;*/
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition Start-----------------*/
+.e-pivotclient .removeSplitBtn {
+  border-radius: 4px;
+}
+/*-----------------------OLAP Definition End------------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: white;
+  color: #111111;
+  border-color: #cecece;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+.e-dialog.e-dialog-wrap {
+  background: white;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+.e-dialog .e-dialog-icon:hover {
+  border-image: initial;
+  border-color: #cecece;
+  
+}
+.e-dialog .e-dialog-icon:hover {
+  background: #f4f4f4;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4f4f4), color-stop(100%, #e9e9e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #f4f4f4, #e9e9e9);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#e9e9e9', GradientType=0);
+  /* IE6-9 */
+
+}
+.e-dialog-modal {
+  overflow: hidden;
+}
+.e-dialog.e-disable .e-dialog-icon:hover {
+  background: transparent;
+}
+.e-dialog .e-dialog-icon:before {
+  
+  line-height: 1.5;
+}
+.e-dialog .e-dialog-icon:before {
+  color: #777777;
+}
+.e-dialog > .e-header {
+  
+}
+.e-dialog > .e-header {
+  color: #282827;
+  font-weight: normal;
+  font-size: 16px;
+  
+}
+.e-dialog > .e-header {
+  background: #fcfcfc;
+}
+.e-dialog > .e-header {
+  border: 1px solid #cecece;
+  border-bottom: 3px solid #3277b2;
+}
+.e-titlebar + div.e-dialog-scroller .e-widget-content {
+  
+}
+.e-dialog.e-dialog-wrap:not(.e-shadow) {
+  
+}
+.e-dialog > .e-titlebar {
+  
+}
+.e-dialog.e-shadow {
+  
+}
+.e-dialog.e-widget-content {
+  
+}
+.e-dialog.e-widget-content {
+  background: white;
+  color: #333333;
+  font-size: 14px;
+}
+.e-dialog.e-widget-content.e-load {
+  background-image: url(images/ajax-loader.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.e-overlay {
+  background-color: #383838;
+  
+}
+.e-dialog > .e-dialog-scroller {
+  
+}
+.e-dialog > .e-dialog-scroller {
+  border: 1px solid #cecece;
+  
+}
+.e-dialog > .e-dialog-scroller {
+  border-top: none;
+}
+.e-dialog .e-dialog-icon:hover:before {
+  color: #333333;
+}
+.e-dialog > .e-footerbar {
+  position: relative;
+  
+  background: white;
+}
+.e-dialog > .e-footerbar {
+  height: 40px;
+  border: 1px solid #cecece;
+}
+.e-dialog > .e-footerbar {
+  border-top: none;
+}
+.e-dialog > .e-footerbar > .e-icon.e-resize-handle.e-resizable.e-js {
+  position: absolute;
+  cursor: se-resize;
+  bottom: 0;
+  right: 0;
+}
+.e-corner.e-dialog > .e-footerbar {
+  border-radius: 0px 0px 3px 3px;
+}
+.e-corner .e-dialog-content {
+  border-radius: 3px;
+}
+.e-corner .e-dialog-bottom {
+  border-radius: 0px 0px 3px 3px;
+}
+.e-corner .e-dialog-top {
+  border-radius: 3px 3px 0px 0px;
+}
+.e-dialog .e-scrollbar .e-icon {
+  display: block;
+}
+.e-dialog .e-scrollbar .e-icon {
+  display: block;
+}
+.e-dialog .e-dialog-icon::after {
+  
+}
+.e-dialog > .e-icon.e-resizable:before {
+  
+}
+.e-dialog .e-dialog-icon {
+  
+}
+.e-dialog .e-dialog-icon.e-icon.e-close {
+  
+}
+.e-dialog .e-dialog-icon.e-icon.e-close:before {
+  
+}
+.e-dialog .e-dialog-icon.e-icon.e-arrowhead-up:before {
+  
+}
+.e-dialog .e-dialog-icon.e-icon.e-arrowhead-down:before {
+  
+}
+.e-dialog .e-draggable {
+  touch-action: none;
+}
+.e-dialog.e-widget-content .e-pager .e-firstpage,
+.e-dialog.e-widget-content .e-pager .e-prevpage,
+.e-dialog.e-widget-content .e-pager .e-firstpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-prevpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-nextpage,
+.e-dialog.e-widget-content .e-pager .e-lastpage,
+.e-dialog.e-widget-content .e-pager .e-nextpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-lastpagedisabled {
+  padding: 9px 3px 1px 9px;
+}
+.e-dialog.e-widget-content .e-pager .e-firstpage,
+.e-dialog.e-widget-content .e-pager .e-prevpage,
+.e-dialog.e-widget-content .e-pager .e-firstpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-prevpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-nextpage,
+.e-dialog.e-widget-content .e-pager .e-lastpage,
+.e-dialog.e-widget-content .e-pager .e-nextpagedisabled,
+.e-dialog.e-widget-content .e-pager .e-lastpagedisabled {
+  
+}

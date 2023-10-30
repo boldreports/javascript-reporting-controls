@@ -1,0 +1,136 @@
+/*-----------------------Map------------------*/
+/*-----------------------PdfViewer------------------*/
+/*-----------------------End PdfViewer------------------*/
+/*-----------------------OLAP Definition-----------------*/
+/*-----------------------OLAP Definition End-----------------*/
+/*----------------------Reportviewer Definition start------------------*/
+/*----------------------Reportviewer Definition End------------------*/
+/*----------------------Reportdesigner Definition Start------------------*/
+/*----------------------Reportdesigner Definition End------------------*/
+/*-----------------------SymbolPalette Definition-----------------*/
+/*-----------------------Diagram Definition-----------------*/
+/*-----------------------Datepicker Definition-----------------*/
+/*-----------------------Bootstrap support-----------------*/
+/*----------------------Ribbon Definition-----------------------*/
+/*----------------------Ribbon End-----------------------*/
+/*----------------------File Explorer Start-----------------------*/
+/*----------------------File Explorer End-----------------------*/
+/*----------------------Kanban Definition-----------------------*/
+/*----------------------Kanban End-----------------------*/
+/*----------------------Spreadsheet Definition-----------------------*/
+/*----------------------Spreadsheet End-----------------------*/
+/*----------------------Office 365 theme-----------------------*/
+/*----------------------High-Contrast-01 & High-Contrast-02 theme-----------------------*/
+/*----------------------rangeScrollbar Start------------------*/
+/*----------------------rangeScrollbar End--------------------*/
+/*----------------------material theme-----------------------*/
+/*--------------- common ----------------- */
+/*---------------high-contrast ------*/
+/*---------------- Office-365 ----------------*/
+/*------------------ material theme ---------------------*/
+/*-----------------------HeatMap Definition-----------------*/
+/* Common style */
+
+.e-content-area {
+  background-color: #111111;
+  color: white;
+  border-color: gray;
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+}
+/*------------------------------------- Tooltip -------------------------------------------*/
+
+.e-tooltip-wrap {
+  
+}
+.e-tooltip-wrap {
+  /*other*/
+
+  
+  border-radius: none;
+}
+.e-tooltip-wrap {
+  
+}
+.e-tooltip-wrap {
+  border: 1px solid gray;
+  background-color: black;
+}
+.e-tooltip-wrap .e-arrowTipOuter {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  
+}
+.e-tooltip-wrap .e-arrowTipOuter {
+  /*other*/
+
+  
+}
+.e-tooltip-wrap .e-arrowTipOuter {
+  border-top: 10px solid gray;
+}
+.e-tooltip-wrap .e-arrowTipInner {
+  width: 0;
+  height: 0;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+  
+  left: 1px;
+  top: 0px;
+  position: absolute;
+}
+.e-tooltip-wrap .e-arrowTipInner {
+  border-top: 9px solid black;
+}
+.e-def {
+  font-family: Segoe UI, Helvetica Neue, Ubuntu, Arial;
+  line-height: 18px;
+  
+}
+.e-def {
+  /*other*/
+
+  
+}
+.e-def {
+  /*office-365*/
+  font-size: 12px;
+  
+}
+.e-def {
+  color: #dbdb00;
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader {
+  
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader {
+  background: none repeat scroll 0 0 black;
+  border-bottom: 3px solid green;
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader .e-close:before {
+  
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader .e-close:before {
+  color: white;
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader .e-close:hover {
+  
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader .e-close:hover {
+  color: white;
+  border-color: white;
+}
+.e-tooltip-wrap .e-tipContainer .e-tooltipHeader .e-close:hover {
+  background: #035103;
+}
+.e-tooltip-wrap .e-cross-circle:hover {
+  color: white;
+  border-color: white;
+}
+.e-tooltip-wrap .e-cross-circle:hover {
+  background: #035103;
+}
