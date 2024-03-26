@@ -8,7 +8,7 @@ The `Bold Reports` UI components contain [JavaScript Report Viewer](https://www.
 
 ### Online Demos
 
-Take a look at the `Bold Reports JavaScript` live demo [here](https://demos.boldreports.com/home/).
+Take a look at the `Bold Reports JavaScript` live demo [here](https://demos.boldreports.com/home/javascript.html?utm_source=github&utm_medium=backlinks).
 
 ## Documentation
 
