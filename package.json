@@ -1,6 +1,6 @@
 {
   "name": "@boldreports/javascript-reporting-controls",
-  "version": "5.4.20",
+  "version": "6.1.34",
   "description": "The Bold Reports by Syncfusion controls for JavaScript contains ReportViewer and ReportDesigner HTML5 and JavaScript reporting controls for enterprise web development",
   "repository": {
     "type": "git",
@@ -31,7 +31,7 @@
     "jquery": "*",
     "jquery-validation": "1.19.5",
     "jsrender": "*",
-    "@boldreports/global": "5.4.20"
+    "@boldreports/global": "6.1.34"
   },
   "bugs": {
     "url": "https://github.com/boldreports/javascript-reporting-controls/issues"
