@@ -29,7 +29,7 @@
   "license": "SEE LICENSE IN README.md",
   "dependencies": {
     "jquery": "*",
-    "jquery-validation": "1.19.5",
+    "jquery-validation": "*",
     "jsrender": "*",
     "@boldreports/global": "10.1.11"
   },
