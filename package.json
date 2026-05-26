@@ -28,7 +28,7 @@
   "author": "Syncfusion Inc",
   "license": "SEE LICENSE IN README.md",
   "dependencies": {
-    "jquery": "^1.12.2",
+    "jquery": "3.7.1",
     "jquery-validation": "1.21.0",
     "jsrender": "0.9.91",
     "@boldreports/global": "13.1.26"
